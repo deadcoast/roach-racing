@@ -1,0 +1,160 @@
+{
+  "scope": "Linux Chromium, actual controls and read-only output inspection. No money, offspring or genomes injected. Exact packaged HTML via set_content; native file launch blocked.",
+  "html_sha256": "f8045069f985ac637ccafb6ca618a9e38c642761093b9b54beff668f3fdf3dc2",
+  "passed": 36,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "Original editable workbench and historical host are retained",
+      "passed": true
+    },
+    {
+      "name": "Three bodyform references accompany the actual stable",
+      "passed": true
+    },
+    {
+      "name": "Useful stable discovery opens actual whole-host shop stock",
+      "passed": true
+    },
+    {
+      "name": "Full kits contain three distinct identified hosts",
+      "passed": true
+    },
+    {
+      "name": "Complete-kit payment transfers its real living host",
+      "passed": true
+    },
+    {
+      "name": "Opening brings the included empty host to the existing workbench",
+      "passed": true
+    },
+    {
+      "name": "Parked original H-6 is absent from new host tray",
+      "passed": true
+    },
+    {
+      "name": "Guide arranges real parts as a draft rather than granting an assembled racer",
+      "passed": true
+    },
+    {
+      "name": "Narrow native geometry is visible in the bench artwork",
+      "passed": true
+    },
+    {
+      "name": "Fitting commits the exact kit contents",
+      "passed": true
+    },
+    {
+      "name": "Measured product qualifications are exposed beside actual sects",
+      "passed": true
+    },
+    {
+      "name": "Fresh race records the selected nonhistorical host and its native profile",
+      "passed": true
+    },
+    {
+      "name": "Attendance advances shared care once for the actual entered host",
+      "passed": true
+    },
+    {
+      "name": "Replay changes no stock, care, funds or attendance",
+      "passed": true
+    },
+    {
+      "name": "Switch restores the original roach and its fitted Hopper",
+      "passed": true
+    },
+    {
+      "name": "Parked kit drive cannot appear as an available loose part",
+      "passed": true
+    },
+    {
+      "name": "Changing another draft does not rewrite previous host race",
+      "passed": true
+    },
+    {
+      "name": "Historical race-to-bench action selects the recorded host first",
+      "passed": true
+    },
+    {
+      "name": "Full backup restores all stabled builds and active host without duplication",
+      "passed": true
+    },
+    {
+      "name": "Stable has no horizontal overflow at narrow width",
+      "passed": true
+    },
+    {
+      "name": "Full kit cards retain natural mobile flow",
+      "passed": true
+    },
+    {
+      "name": "Host selector and fitting controls remain reachable on narrow screen",
+      "passed": true
+    },
+    {
+      "name": "Actual bought host founders remain separate animals",
+      "passed": true
+    },
+    {
+      "name": "Live host shelf illustrates distinct visible body plans",
+      "passed": true
+    },
+    {
+      "name": "Line recording protects founders without creating descendants",
+      "passed": true
+    },
+    {
+      "name": "Owned host founders use the whole-host reproduction profile",
+      "passed": true
+    },
+    {
+      "name": "Unopened brood report withholds unobserved survival",
+      "passed": true
+    },
+    {
+      "name": "Existing clock produces actual adult host offspring",
+      "passed": true
+    },
+    {
+      "name": "Brood records separate measured from unknown descendants",
+      "passed": true
+    },
+    {
+      "name": "The grown offspring becomes the active racer without copying an existing build",
+      "passed": true
+    },
+    {
+      "name": "Bred host fitted with owned stock enters a new race under its own identity",
+      "passed": true
+    },
+    {
+      "name": "Line forms and records stay within narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "A field-caught whole host can enter the same personal bench",
+      "passed": true
+    },
+    {
+      "name": "Earlier world backup migrates through the real restore input",
+      "passed": true
+    },
+    {
+      "name": "No undefined labels rendered",
+      "passed": true
+    },
+    {
+      "name": "No uncaught browser errors",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "navigation": [
+    {
+      "file_navigation": "blocked",
+      "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///mnt/data/RRR_Wave_08/RRR_Living_Stable_v0.8.html",
+      "used": "exact HTML set_content on fresh pages"
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "hostPlans": {
+    "lowline": {
+      "name": "Gutterbred Lowline",
+      "subtitle": "The familiar club foundation",
+      "mass": 1.6,
+      "width": 0.38,
+      "length": 0.62,
+      "height": 0.26,
+      "stride": 0.25,
+      "cadence": 10,
+      "force": 2,
+      "reserve": 120,
+      "delivery": 3,
+      "support": 1.92,
+      "scaleX": 1,
+      "scaleY": 1,
+      "colour": "vermilion",
+      "source": "Warm service galleries",
+      "signs": "Flattened shed plates; low running posture and intact native joints.",
+      "use": "Balanced native anatomy; familiar root spacing for club kits.",
+      "select": "Select lower structural mass, useful native stride or supporting tissue. Graft performance remains a separate donor project."
+    },
+    "needleback": {
+      "name": "Needleback",
+      "subtitle": "A slender, long-striding foundation",
+      "mass": 1.38,
+      "width": 0.33,
+      "length": 0.68,
+      "height": 0.24,
+      "stride": 0.27,
+      "cadence": 10,
+      "force": 1.9,
+      "reserve": 110,
+      "delivery": 3,
+      "support": 1.56,
+      "scaleX": 0.868421052631579,
+      "scaleY": 1.0967741935483872,
+      "colour": "ivory",
+      "source": "Slab-edge service cracks",
+      "signs": "Narrow tapered molts; long clean steps through close seams.",
+      "use": "Slender passing profile and long native stride; less width for graft roots.",
+      "select": "Retain useful stride without confusing long steps with motor cadence. Mass and native support can improve independently."
+    },
+    "broadback": {
+      "name": "Broadback",
+      "subtitle": "A broad, load-bearing foundation",
+      "mass": 1.93,
+      "width": 0.47,
+      "length": 0.66,
+      "height": 0.3,
+      "stride": 0.245,
+      "cadence": 9.5,
+      "force": 2.7,
+      "reserve": 140,
+      "delivery": 3.6,
+      "support": 2.78,
+      "scaleX": 1.2368421052631577,
+      "scaleY": 1.0645161290322582,
+      "colour": "ochre",
+      "source": "Heavy salvage shelter beds",
+      "signs": "Wide articulated thorax; sustained pushing and evenly supported stance.",
+      "use": "Wider native support and working area for a loaded build. The body occupies real passing space.",
+      "select": "Select support per carried mass and useful native stride rather than simply the largest host."
+    }
+  },
+  "wholeKits": [
+    {
+      "id": "NEEDLE",
+      "name": "Needle & Thread",
+      "plan": "needleback",
+      "number": "18",
+      "price": 108,
+      "products": [
+        "redline",
+        "sticktoe"
+      ],
+      "tag": "COMPLETE HOST KIT / SPEEDSTERS",
+      "purpose": "A whole slender host, a selected drive and quick-release feet. Build a personal sprint racer; native anatomy supplies every remaining role.",
+      "approach": "clean"
+    },
+    {
+      "id": "BROAD",
+      "name": "Foundry Heavy",
+      "plan": "broadback",
+      "number": "28",
+      "price": 124,
+      "products": [
+        "torque",
+        "lowstep",
+        "boxbrace"
+      ],
+      "tag": "COMPLETE HOST KIT / LOADED RUNNER",
+      "purpose": "A whole Broadback, forceful musculature, short hip leverage and a supporting frame. Configure a loaded runner; add derby anatomy from your own stock.",
+      "approach": "clean"
+    },
+    {
+      "id": "LOWLINE",
+      "name": "Third Friend",
+      "plan": "lowline",
+      "number": "08",
+      "price": 118,
+      "products": [
+        "hoppers",
+        "fatbody",
+        "keel"
+      ],
+      "tag": "COMPLETE HOST KIT / HOPPER",
+      "purpose": "A whole Lowline, paired Hoppers and separately sourced reservoir and damper. Set preload and landing behavior yourself.",
+      "approach": "hopper"
+    }
+  ],
+  "hostReproduction": {
+    "name": "Rad-roach host",
+    "form": "HOST",
+    "family": "Body / native foundation",
+    "habitat": "Service galleries / host colonies",
+    "colour": "#b77750",
+    "sign": "Intact whole body; inspect plan, mass and native stride before commissioning a racer.",
+    "seek": "Select the living foundation: structural mass, stride and supporting tissue. Acquired grafts are not inherited.",
+    "stage": "adult",
+    "facility": "dry",
+    "region": "body",
+    "livePrice": 18,
+    "breedPrice": 35,
+    "products": [],
+    "profile": {
+      "count": 4,
+      "hatch": 2,
+      "stages": [
+        [
+          2,
+          "nymph"
+        ],
+        [
+          6,
+          "adult"
+        ]
+      ],
+      "success": 0.9,
+      "survival": 0.9,
+      "cost": 6
+    },
+    "traits": [
+      [
+        "massFactor",
+        "Native mass factor",
+        "ratio",
+        1.04,
+        -0.04,
+        "lower"
+      ],
+      [
+        "strideFactor",
+        "Native stride factor",
+        "ratio",
+        0.97,
+        0.03,
+        "higher"
+      ],
+      [
+        "supportFactor",
+        "Native support factor",
+        "ratio",
+        0.95,
+        0.05,
+        "higher"
+      ]
+    ]
+  },
+  "componentQualification": {
+    "redline": {
+      "name": "Sprint drive",
+      "axes": [
+        [
+          "cadence",
+          9,
+          12,
+          "Cadence"
+        ],
+        [
+          "force",
+          1.9,
+          2.6,
+          "Useful force"
+        ],
+        [
+          "efficiency",
+          0.7,
+          0.77,
+          "Conversion efficiency"
+        ]
+      ]
+    },
+    "torque": {
+      "name": "Load drive",
+      "axes": [
+        [
+          "force",
+          3.5,
+          4.4,
+          "Useful force"
+        ]
+      ]
+    },
+    "hoppers": {
+      "name": "Paired launch",
+      "axes": [
+        [
+          "hopper.0",
+          0.55,
+          0.7,
+          "Return"
+        ],
+        [
+          "hopper.1",
+          0.12,
+          0.02,
+          "Release mismatch"
+        ],
+        [
+          "hopper.2",
+          0.18,
+          0.06,
+          "Settling"
+        ]
+      ]
+    },
+    "springknees": {
+      "name": "Landing recovery",
+      "axes": [
+        [
+          "settle",
+          0.18,
+          0.06,
+          "Settling"
+        ],
+        [
+          "impact_absorb",
+          0.55,
+          0.7,
+          "Impact response"
+        ]
+      ]
+    },
+    "sticktoe": {
+      "name": "Clean fast-release contact",
+      "axes": [
+        [
+          "grip",
+          1.15,
+          1.45,
+          "Clean purchase"
+        ],
+        [
+          "release",
+          0.07,
+          0.02,
+          "Release delay"
+        ]
+      ]
+    },
+    "cleats": {
+      "name": "Loose-surface contact",
+      "axes": [
+        [
+          "rough_grip",
+          1.25,
+          1.55,
+          "Loose purchase"
+        ],
+        [
+          "release",
+          0.05,
+          0.026,
+          "Release delay"
+        ]
+      ]
+    },
+    "boxbrace": {
+      "name": "Light structural support",
+      "axes": [
+        [
+          "support",
+          0.6,
+          1.1,
+          "Lateral support"
+        ],
+        [
+          "$mass",
+          0.28,
+          0.2,
+          "Carried structure"
+        ]
+      ]
+    },
+    "fatbody": {
+      "name": "Sustained supply",
+      "axes": [
+        [
+          "reserve",
+          155,
+          205,
+          "Capacity"
+        ],
+        [
+          "delivery",
+          4,
+          7,
+          "Delivery"
+        ]
+      ]
+    },
+    "keel": {
+      "name": "Rebound dissipation",
+      "axes": [
+        [
+          "damping",
+          0.18,
+          0.5,
+          "Damping"
+        ]
+      ]
+    },
+    "gyropods": {
+      "name": "Correction sensing",
+      "axes": [
+        [
+          "latency",
+          0.2,
+          0.08,
+          "Signal delay"
+        ],
+        [
+          "correction",
+          0.7,
+          0.9,
+          "Response"
+        ],
+        [
+          "$mass",
+          0.07,
+          0.046,
+          "Carried sensor"
+        ]
+      ]
+    },
+    "splitvanes": {
+      "name": "Light hold-down",
+      "axes": [
+        [
+          "downforce",
+          0.025,
+          0.055,
+          "Hold-down"
+        ],
+        [
+          "drag",
+          0.009,
+          0.003,
+          "Air resistance"
+        ],
+        [
+          "$mass",
+          0.05,
+          0.03,
+          "Carried surface"
+        ]
+      ]
+    },
+    "browfoil": {
+      "name": "Shaped-plate hold-down",
+      "axes": [
+        [
+          "downforce",
+          0.025,
+          0.05,
+          "Hold-down"
+        ]
+      ]
+    }
+  },
+  "currentForms": [
+    "hopper",
+    "cicada",
+    "scarab",
+    "mole",
+    "stick",
+    "wax",
+    "fly",
+    "mantis",
+    "horn",
+    "moth",
+    "roach"
+  ],
+  "productCount": 16
+}

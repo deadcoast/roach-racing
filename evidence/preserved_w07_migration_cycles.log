@@ -1,0 +1,37 @@
+$ node tests/migration_and_cycles.cjs
+{
+  "migrationChecks": 6,
+  "cycles": 36,
+  "summaries": {
+    "manual_selection": {
+      "cashMin": 0,
+      "cashMax": 0,
+      "careArrearsMax": 122,
+      "liveMin": 19,
+      "liveMax": 24,
+      "broodsMin": 3,
+      "broodsMax": 7
+    },
+    "ordinary_production": {
+      "cashMin": 127,
+      "cashMax": 207,
+      "careArrearsMax": 0,
+      "liveMin": 8,
+      "liveMax": 15,
+      "broodsMin": 10,
+      "broodsMax": 13
+    },
+    "field_supplier": {
+      "cashMin": 156,
+      "cashMax": 156,
+      "careArrearsMax": 0,
+      "liveMin": 16,
+      "liveMax": 16,
+      "broodsMin": 0,
+      "broodsMax": 0
+    }
+  }
+}
+
+
+EXIT 0

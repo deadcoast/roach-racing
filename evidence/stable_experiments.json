@@ -1,0 +1,216 @@
+{
+  "completeKitRace": {
+    "host": "W08.HOST.KIT.NEEDLE",
+    "parts": [
+      "W07.PART.W08.KIT.DONOR.1.redline",
+      "W07.PART.W08.KIT.DONOR.2.sticktoe"
+    ],
+    "results": [
+      {
+        "host": "W05.NPC.HOST",
+        "time": 66.32816990878543,
+        "energy": 88.51270584371616,
+        "gates": 20,
+        "required": 20
+      },
+      {
+        "host": "W08.HOST.KIT.NEEDLE",
+        "time": 84.33468938485275,
+        "energy": 68.28612553392429,
+        "gates": 20,
+        "required": 20
+      }
+    ],
+    "cash": 1023
+  },
+  "hostBrood": {
+    "seed": "host.0",
+    "parents": [
+      "W08.SHOP.HOST.needleback.A",
+      "W08.SHOP.HOST.broadback.B"
+    ],
+    "offspring": [
+      {
+        "id": "W07.BROOD.1.1",
+        "plan": "needleback",
+        "stage": "adult",
+        "protected": true,
+        "genes": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "W07.BROOD.1.2",
+        "plan": "needleback",
+        "stage": "adult",
+        "protected": false,
+        "genes": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "W07.BROOD.1.3",
+        "plan": "needleback",
+        "stage": "adult",
+        "protected": true,
+        "genes": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "W07.BROOD.1.4",
+        "plan": "broadback",
+        "stage": "adult",
+        "protected": false,
+        "genes": [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      }
+    ],
+    "scope": "Declared success seed with synthetic test funding; not observed viability or inheritance calibration."
+  },
+  "lineReport": {
+    "id": "W08.LINE.2",
+    "name": "Longstep / trial",
+    "kind": "roach",
+    "target": {
+      "kind": "roach",
+      "trait": "strideFactor",
+      "op": "min",
+      "threshold": 1,
+      "focus": "complement"
+    },
+    "founders": [
+      "W08.SHOP.HOST.needleback.A",
+      "W08.SHOP.HOST.broadback.B"
+    ],
+    "attempts": 1,
+    "observedDescendants": 4,
+    "tested": 1,
+    "matching": 1,
+    "untested": 3,
+    "distinctTestedBroods": 1,
+    "rows": [
+      {
+        "id": "W07.BROOD.1",
+        "stage": "complete",
+        "initiated": 4,
+        "observedYoung": 4,
+        "tested": 1,
+        "matching": 1,
+        "unknown": 3
+      }
+    ],
+    "generations": [
+      0,
+      1
+    ],
+    "claim": "1 of 1 observed descendants meet this target; 3 unmeasured. Selected observations are not an unbiased yield forecast."
+  },
+  "kitCompletion": [
+    {
+      "kit": "NEEDLE",
+      "time": 84.33468938485275,
+      "place": 2,
+      "energy": 68.28612553392429,
+      "scope": "A completion check; no kit is promised to win every circuit."
+    },
+    {
+      "kit": "BROAD",
+      "time": 128.15851639928067,
+      "place": 1,
+      "energy": 107.67345377000234,
+      "scope": "A completion check; no kit is promised to win every circuit."
+    },
+    {
+      "kit": "LOWLINE",
+      "time": 90.72114834700115,
+      "place": 2,
+      "energy": 148.30254508524825,
+      "scope": "A completion check; no kit is promised to win every circuit."
+    }
+  ],
+  "nativeComparison": {
+    "protocol": "W08.NATIVE.LONG.1",
+    "scope": "Synthetic equal-livery/native-only single-racer comparison. Entire native body profile changes; not isolated genes or a balanced class result.",
+    "profiles": [
+      {
+        "plan": "lowline",
+        "mass": 1.6,
+        "width": 0.38,
+        "stride": 0.25,
+        "finish": 90.22348317616863,
+        "energyUsed": 31.05494104244022
+      },
+      {
+        "plan": "needleback",
+        "mass": 1.38,
+        "width": 0.33,
+        "stride": 0.27,
+        "finish": 83.96777879502973,
+        "energyUsed": 31.046711720301815
+      },
+      {
+        "plan": "broadback",
+        "mass": 1.9300000000000002,
+        "width": 0.47,
+        "stride": 0.245,
+        "finish": 93.17940771123205,
+        "energyUsed": 31.391031619286068
+      }
+    ]
+  },
+  "needleKitComparison": {
+    "before": 86.83682916276166,
+    "after": 84.33468938485275,
+    "changed": [
+      "W07.PART.W08.KIT.DONOR.1.redline",
+      "W07.PART.W08.KIT.DONOR.2.sticktoe"
+    ],
+    "scope": "Same Needleback host, setup, rival, course and grid. Both included components change; not an isolated drive experiment."
+  }
+}

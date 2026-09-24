@@ -1,0 +1,5 @@
+$ node tests/stable.cjs
+{"passed":105,"failed":0}
+
+
+EXIT 0

@@ -1,0 +1,126 @@
+{
+  "status": "passed",
+  "recorded_utc": "2026-09-11T05:47:05.569189+00:00",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+  "python": "3.13.5",
+  "scope": "Schema/identity preservation, bounded behavioral models, declared comparisons and optional browser/prior-release execution; no human playtest or economy calibration.",
+  "new_behavior_tests": {
+    "passed": 105,
+    "failed": 0
+  },
+  "legacy_bench": {
+    "passed": 63,
+    "failed": 0
+  },
+  "raw_legacy_comparisons": 6,
+  "structural_checks": {
+    "schema": true,
+    "baseline_sha": true,
+    "unchanged_non_manifest_context": true,
+    "unchanged_prior_waves": true,
+    "prior_task_meanings": true,
+    "unique_new_definition_ids": true,
+    "rule_references": true,
+    "world_institutions": true,
+    "ordered_dependencies": true
+  },
+  "browser": {
+    "executed_this_command": false,
+    "evidence_matches_html": true,
+    "passed": 36,
+    "failed": 0,
+    "native_launch": [
+      {
+        "file_navigation": "blocked",
+        "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///mnt/data/RRR_Wave_08/RRR_Living_Stable_v0.8.html",
+        "used": "exact HTML set_content on fresh pages"
+      }
+    ]
+  },
+  "prior_release": {
+    "scope": "Executed on unchanged extracted W07 release, not credited as W08 behavioral coverage.",
+    "behavior_tests": {
+      "passed": 115,
+      "failed": 0
+    },
+    "migration_checks": 6,
+    "operational_probes": 36,
+    "archive_sha256": "bcdb159925ea4689aec2e10681fc133fb1b54c247dab4d0b0dc65adc9789c1c0"
+  },
+  "html_sha256": "f8045069f985ac637ccafb6ca618a9e38c642761093b9b54beff668f3fdf3dc2",
+  "baseline_sha256": "aa7d48b0ee02b5294a3e8bf66e5d252ebbdfabfab419ebc6b369fe13a3b6098c",
+  "source_files": {
+    "src/anatomy.js": "b8537cec1075559ca8216ebf4999f414a398ebc20c7a5e57ae63ad1baea10d67",
+    "src/app.js": "7b8b1cc6d1a350b75cf91a8d2bd3848e117b00c856d1ad33887dea33e0fd4992",
+    "src/bench.js": "fb928a7890e70881ec8e9d370478be4119bf9e3e41bea487a45e724ce02b10b4",
+    "src/catalog.js": "b9b2f3c168c4a3bf809e67088cba72524386e2802cba1098b8924063ea413615",
+    "src/evidence.js": "3d4c2779f4bf4320764f37f6d8ef6952f52062697b6eb9d20b3e01c8c2ad3bc5",
+    "src/hosts.js": "2207fa98d97027148bce375ef5b5b702aea296f9437662a90f27511856640f11",
+    "src/race.js": "495f2787ae2eb9e5acfea4105cba6c62e48368dbe7b7b46434f806ea0b24aa9f",
+    "src/style.css": "0001ab0d785caeab1e75a57bf25337d9f63c502bb86e7eb0a2f83f975512cdd4",
+    "src/template.html": "6ceb464f31eee441c43ba1657ba08e010615e89cb205fb6d3d1059e5f6ef4145",
+    "src/world.js": "a89e510aba861e0828f9ff13347b3d551ff3b5c27d7e4b869e94aedb6a9bf7fe"
+  },
+  "steps": [
+    {
+      "name": "syntax_race",
+      "exit": 0
+    },
+    {
+      "name": "syntax_world",
+      "exit": 0
+    },
+    {
+      "name": "syntax_catalog",
+      "exit": 0
+    },
+    {
+      "name": "syntax_evidence",
+      "exit": 0
+    },
+    {
+      "name": "syntax_anatomy",
+      "exit": 0
+    },
+    {
+      "name": "syntax_app",
+      "exit": 0
+    },
+    {
+      "name": "syntax_hosts",
+      "exit": 0
+    },
+    {
+      "name": "syntax_bench",
+      "exit": 0
+    },
+    {
+      "name": "build",
+      "exit": 0
+    },
+    {
+      "name": "new_behaviors",
+      "exit": 0
+    },
+    {
+      "name": "legacy_bench",
+      "exit": 0
+    },
+    {
+      "name": "legacy_parity",
+      "exit": 0
+    },
+    {
+      "name": "documents",
+      "exit": 0
+    },
+    {
+      "name": "preserved_w07_behaviors",
+      "exit": 0
+    },
+    {
+      "name": "preserved_w07_migration_cycles",
+      "exit": 0
+    }
+  ]
+}

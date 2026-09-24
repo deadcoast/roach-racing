@@ -1,0 +1,5 @@
+$ /opt/pyvenv/bin/python tools/write_spec.py
+{"rules": 72, "tasks": 9, "hostPlans": 3, "fullKits": 3, "qualificationProfiles": 12}
+
+
+EXIT 0

@@ -1,0 +1,10 @@
+{
+  "scope": "Executed on unchanged extracted W07 release, not credited as W08 behavioral coverage.",
+  "behavior_tests": {
+    "passed": 115,
+    "failed": 0
+  },
+  "migration_checks": 6,
+  "operational_probes": 36,
+  "archive_sha256": "bcdb159925ea4689aec2e10681fc133fb1b54c247dab4d0b0dc65adc9789c1c0"
+}

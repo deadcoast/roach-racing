@@ -1,0 +1,2217 @@
+{
+  "scope": "Document integrity and structured-content checks only; not gameplay, biology, economy or human testing.",
+  "passed": true,
+  "failed": [],
+  "current_local_links": 311,
+  "prior_files_preserved": 56,
+  "new_declared_ids": 221,
+  "indexed_reference_entries": 210,
+  "main_volume_words": 21094,
+  "source_count": 17,
+  "content_statistics": {
+    "donor_monographs": 3,
+    "cumulative_racing_source_monographs": 20,
+    "support_organism_notes": 1,
+    "population_descriptions": 6,
+    "life_stage_entries": 14,
+    "selectable_contributions": 14,
+    "translation_rows": 14,
+    "system_definitions": 6,
+    "foundation_statements": 42,
+    "assembly_sheets": 8,
+    "race_action_entries": 10,
+    "course_piece_patterns": 10,
+    "qualitative_course_layouts": 4,
+    "complete_or_conversion_patterns": 5,
+    "supplier_routes": 4,
+    "product_edition_relationships": 3,
+    "service_offers": 4,
+    "product_receiving_sheets": 8,
+    "receiving_cases": 7,
+    "physical_object_briefs": 10,
+    "amendments": 12,
+    "editorial_cases": 16,
+    "later_comparison_briefs": 6,
+    "external_source_records": 17,
+    "main_volume_words": 21094
+  },
+  "checks": [
+    {
+      "name": "Base cumulative SHA matches declared extension",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field sources",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field author_canon",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field working_proposals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field reference_facts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field translation_rules",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field decisions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field entity_contracts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field seed_records",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field causal_rules",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field scenario_fixtures",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field retrieval_recipes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preserve prior cumulative field development_waves",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Appended wave equals standalone spec",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "No runtime change claimed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Edition date not backdated to inherited volumes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "No repeated new entity IDs",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Index anchor W18.ACTION.CLEAR",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-clear"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.CLIMB",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-climb"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.CRUISE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-cruise"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.GLIDE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-glide"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.LAUNCH",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-launch"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.PASS",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-pass"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.RETRY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-retry"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.SLOW",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-slow"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.TOUCHDOWN",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-touchdown"
+      }
+    },
+    {
+      "name": "Index anchor W18.ACTION.TURN",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-action-turn"
+      }
+    },
+    {
+      "name": "Index anchor W18.AIR.01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-air-01"
+      }
+    },
+    {
+      "name": "Index anchor W18.AIR.02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-air-02"
+      }
+    },
+    {
+      "name": "Index anchor W18.AIR.03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-air-03"
+      }
+    },
+    {
+      "name": "Index anchor W18.AIR.04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-air-04"
+      }
+    },
+    {
+      "name": "Index anchor W18.AIR.05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-air-05"
+      }
+    },
+    {
+      "name": "Index anchor W18.AIR.06",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-air-06"
+      }
+    },
+    {
+      "name": "Index anchor W18.AIR.07",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-air-07"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-01"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-02"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-03"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-04"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-05"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.06",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-06"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.07",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-07"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.08",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-08"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.09",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-09"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.10",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-10"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.11",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-11"
+      }
+    },
+    {
+      "name": "Index anchor W18.AMEND.12",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Amendments.md",
+        "anchor": "w18-amend-12"
+      }
+    },
+    {
+      "name": "Index anchor W18.ARRIVAL.COMPLETE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-arrival-complete"
+      }
+    },
+    {
+      "name": "Index anchor W18.ARRIVAL.CONTENTS",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-arrival-contents"
+      }
+    },
+    {
+      "name": "Index anchor W18.ARRIVAL.FRESH",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-arrival-fresh"
+      }
+    },
+    {
+      "name": "Index anchor W18.ARRIVAL.HINGE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-arrival-hinge"
+      }
+    },
+    {
+      "name": "Index anchor W18.ARRIVAL.HOSTSTAGE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-arrival-hoststage"
+      }
+    },
+    {
+      "name": "Index anchor W18.ARRIVAL.REMATCH",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-arrival-rematch"
+      }
+    },
+    {
+      "name": "Index anchor W18.ARRIVAL.WRONGWING",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-arrival-wrongwing"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.AGGREGATE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-aggregate"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.CLAIM",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-claim"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.EMPTY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-empty"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.FINISH",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-finish"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.FIRST",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-first"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.FOLD",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-fold"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.FRAME",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-frame"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.HOVER",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-hover"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.MID_AIR",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-mid-air"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.MISSGATE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-missgate"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.PAIR",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-pair"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.PHASE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-phase"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.PUPAE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-pupae"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.REPLACE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-replace"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.SELF",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-self"
+      }
+    },
+    {
+      "name": "Index anchor W18.CASE.WIND",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-case-wind"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.APRON",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-apron"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.CROSSOVER",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-crossover"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.CROWN",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-crown"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.DESCENT",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-descent"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.FORK",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-fork"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.GALLERY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-gallery"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.PORTAL",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-portal"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.RELEASE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-release"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.SWEEP",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-sweep"
+      }
+    },
+    {
+      "name": "Index anchor W18.COURSE.WINDOW",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-course-window"
+      }
+    },
+    {
+      "name": "Index anchor W18.DELIVERY.01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-delivery-01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DELIVERY.02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-delivery-02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DELIVERY.03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-delivery-03"
+      }
+    },
+    {
+      "name": "Index anchor W18.DELIVERY.04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-delivery-04"
+      }
+    },
+    {
+      "name": "Index anchor W18.DELIVERY.05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-delivery-05"
+      }
+    },
+    {
+      "name": "Index anchor W18.DELIVERY.06",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-delivery-06"
+      }
+    },
+    {
+      "name": "Index anchor W18.DELIVERY.07",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-delivery-07"
+      }
+    },
+    {
+      "name": "Index anchor W18.DISCHARGE.01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-discharge-01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DISCHARGE.02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-discharge-02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DISCHARGE.03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-discharge-03"
+      }
+    },
+    {
+      "name": "Index anchor W18.DISCHARGE.04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-discharge-04"
+      }
+    },
+    {
+      "name": "Index anchor W18.DISCHARGE.05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-discharge-05"
+      }
+    },
+    {
+      "name": "Index anchor W18.DISCHARGE.06",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-discharge-06"
+      }
+    },
+    {
+      "name": "Index anchor W18.DISCHARGE.07",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-discharge-07"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.POP01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-pop01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.POP02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-pop02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.STAGE01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-stage01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.STAGE02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-stage02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.STAGE03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-stage03"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.STAGE04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-stage04"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.STAGE05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-stage05"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.TRAIT01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-trait01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.TRAIT02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-trait02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.TRAIT03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-trait03"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.TRAIT04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-trait04"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.CAUSTIC.TRAIT05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-caustic-trait05"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.POP01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-pop01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.POP02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-pop02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.STAGE01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-stage01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.STAGE02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-stage02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.STAGE03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-stage03"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.STAGE04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-stage04"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.TRAIT01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-trait01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.TRAIT02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-trait02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.TRAIT03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-trait03"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.TRAIT04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-trait04"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.LONGWING.TRAIT05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-longwing-trait05"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.POP01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-pop01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.POP02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-pop02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.STAGE01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-stage01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.STAGE02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-stage02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.STAGE03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-stage03"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.STAGE04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-stage04"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.STAGE05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-stage05"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.TRAIT01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-trait01"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.TRAIT02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-trait02"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.TRAIT03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-trait03"
+      }
+    },
+    {
+      "name": "Index anchor W18.DONOR.RIVETBACK.TRAIT04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-donor-rivetback-trait04"
+      }
+    },
+    {
+      "name": "Index anchor W18.EDITION.AIRFLARE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-edition-airflare"
+      }
+    },
+    {
+      "name": "Index anchor W18.EDITION.COURTYARD",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-edition-courtyard"
+      }
+    },
+    {
+      "name": "Index anchor W18.EDITION.REEDFOLD",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-edition-reedfold"
+      }
+    },
+    {
+      "name": "Index anchor W18.FLIGHT.01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-flight-01"
+      }
+    },
+    {
+      "name": "Index anchor W18.FLIGHT.02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-flight-02"
+      }
+    },
+    {
+      "name": "Index anchor W18.FLIGHT.03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-flight-03"
+      }
+    },
+    {
+      "name": "Index anchor W18.FLIGHT.04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-flight-04"
+      }
+    },
+    {
+      "name": "Index anchor W18.FLIGHT.05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-flight-05"
+      }
+    },
+    {
+      "name": "Index anchor W18.FLIGHT.06",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-flight-06"
+      }
+    },
+    {
+      "name": "Index anchor W18.FLIGHT.07",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-flight-07"
+      }
+    },
+    {
+      "name": "Index anchor W18.KIT.AIRFLARE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-kit-airflare"
+      }
+    },
+    {
+      "name": "Index anchor W18.KIT.COURTYARD",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-kit-courtyard"
+      }
+    },
+    {
+      "name": "Index anchor W18.KIT.LONGHEAT",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-kit-longheat"
+      }
+    },
+    {
+      "name": "Index anchor W18.KIT.RIGHTAGAIN",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-kit-rightagain"
+      }
+    },
+    {
+      "name": "Index anchor W18.KIT.SWEEP",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-kit-sweep"
+      }
+    },
+    {
+      "name": "Index anchor W18.LAYOUT.COURTYARD",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-layout-courtyard"
+      }
+    },
+    {
+      "name": "Index anchor W18.LAYOUT.FLARE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-layout-flare"
+      }
+    },
+    {
+      "name": "Index anchor W18.LAYOUT.LANTERN",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-layout-lantern"
+      }
+    },
+    {
+      "name": "Index anchor W18.LAYOUT.REED",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-layout-reed"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.FANCASE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-fancase"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.FLOW",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-flow"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.GATE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-gate"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.HOSTSLEEVE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-hostsleeve"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.LATCHCRADLE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-latchcradle"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.PASSPORT",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-passport"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.PHASEBRIDGE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-phasebridge"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.PULSECASE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-pulsecase"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.RETRY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-retry"
+      }
+    },
+    {
+      "name": "Index anchor W18.OBJECT.SWEEPCARD",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-object-sweepcard"
+      }
+    },
+    {
+      "name": "Index anchor W18.PREP.BOILER",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-prep-boiler"
+      }
+    },
+    {
+      "name": "Index anchor W18.PREP.BRIDLE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-prep-bridle"
+      }
+    },
+    {
+      "name": "Index anchor W18.PREP.CROSSPHASE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-prep-crossphase"
+      }
+    },
+    {
+      "name": "Index anchor W18.PREP.FLIGHTDRIVE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-prep-flightdrive"
+      }
+    },
+    {
+      "name": "Index anchor W18.PREP.KICKBACK",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-prep-kickback"
+      }
+    },
+    {
+      "name": "Index anchor W18.PREP.LONGWING",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-prep-longwing"
+      }
+    },
+    {
+      "name": "Index anchor W18.PREP.QUADWING",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-prep-quadwing"
+      }
+    },
+    {
+      "name": "Index anchor W18.PREP.RETURNLINK",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-prep-returnlink"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECEIVE.BOILER",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-receive-boiler"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECEIVE.BRIDLE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-receive-bridle"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECEIVE.CROSSPHASE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-receive-crossphase"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECEIVE.FLIGHTDRIVE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-receive-flightdrive"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECEIVE.KICKBACK",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-receive-kickback"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECEIVE.LONGWING",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-receive-longwing"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECEIVE.QUADWING",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-receive-quadwing"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECEIVE.RETURNLINK",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Delivery_Sheets.md",
+        "anchor": "w18-receive-returnlink"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECOVERY.01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-recovery-01"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECOVERY.02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-recovery-02"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECOVERY.03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-recovery-03"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECOVERY.04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-recovery-04"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECOVERY.05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-recovery-05"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECOVERY.06",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-recovery-06"
+      }
+    },
+    {
+      "name": "Index anchor W18.RECOVERY.07",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-recovery-07"
+      }
+    },
+    {
+      "name": "Index anchor W18.REVIEW.ARRAY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-review-array"
+      }
+    },
+    {
+      "name": "Index anchor W18.REVIEW.ENTRY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-review-entry"
+      }
+    },
+    {
+      "name": "Index anchor W18.REVIEW.OFFENSE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-review-offense"
+      }
+    },
+    {
+      "name": "Index anchor W18.REVIEW.RECOVERY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-review-recovery"
+      }
+    },
+    {
+      "name": "Index anchor W18.REVIEW.ROOT",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-review-root"
+      }
+    },
+    {
+      "name": "Index anchor W18.REVIEW.SUPPLY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-review-supply"
+      }
+    },
+    {
+      "name": "Index anchor W18.SERVICE.COURSE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-service-course"
+      }
+    },
+    {
+      "name": "Index anchor W18.SERVICE.FIRSTFLIGHT",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-service-firstflight"
+      }
+    },
+    {
+      "name": "Index anchor W18.SERVICE.GROWOUT",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-service-growout"
+      }
+    },
+    {
+      "name": "Index anchor W18.SERVICE.REMATCH",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-service-rematch"
+      }
+    },
+    {
+      "name": "Index anchor W18.SPORT.01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-sport-01"
+      }
+    },
+    {
+      "name": "Index anchor W18.SPORT.02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-sport-02"
+      }
+    },
+    {
+      "name": "Index anchor W18.SPORT.03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-sport-03"
+      }
+    },
+    {
+      "name": "Index anchor W18.SPORT.04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-sport-04"
+      }
+    },
+    {
+      "name": "Index anchor W18.SPORT.05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-sport-05"
+      }
+    },
+    {
+      "name": "Index anchor W18.SPORT.06",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-sport-06"
+      }
+    },
+    {
+      "name": "Index anchor W18.SPORT.07",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-sport-07"
+      }
+    },
+    {
+      "name": "Index anchor W18.SUPPLY.HINGE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-supply-hinge"
+      }
+    },
+    {
+      "name": "Index anchor W18.SUPPLY.POND",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-supply-pond"
+      }
+    },
+    {
+      "name": "Index anchor W18.SUPPLY.PULSE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-supply-pulse"
+      }
+    },
+    {
+      "name": "Index anchor W18.SUPPLY.REED",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-supply-reed"
+      }
+    },
+    {
+      "name": "Index anchor W18.SUPPORT.BANKSEED",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-support-bankseed"
+      }
+    },
+    {
+      "name": "Index anchor W18.SYSTEM.AIR",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-system-air"
+      }
+    },
+    {
+      "name": "Index anchor W18.SYSTEM.DELIVERY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-system-delivery"
+      }
+    },
+    {
+      "name": "Index anchor W18.SYSTEM.DISCHARGE",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-system-discharge"
+      }
+    },
+    {
+      "name": "Index anchor W18.SYSTEM.FLIGHT",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-system-flight"
+      }
+    },
+    {
+      "name": "Index anchor W18.SYSTEM.RECOVERY",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-system-recovery"
+      }
+    },
+    {
+      "name": "Index anchor W18.SYSTEM.SPORT",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Foundations.md",
+        "anchor": "w18-system-sport"
+      }
+    },
+    {
+      "name": "Index anchor W18.S01",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s01"
+      }
+    },
+    {
+      "name": "Index anchor W18.S02",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s02"
+      }
+    },
+    {
+      "name": "Index anchor W18.S03",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s03"
+      }
+    },
+    {
+      "name": "Index anchor W18.S04",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s04"
+      }
+    },
+    {
+      "name": "Index anchor W18.S05",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s05"
+      }
+    },
+    {
+      "name": "Index anchor W18.S06",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s06"
+      }
+    },
+    {
+      "name": "Index anchor W18.S07",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s07"
+      }
+    },
+    {
+      "name": "Index anchor W18.S08",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s08"
+      }
+    },
+    {
+      "name": "Index anchor W18.S09",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s09"
+      }
+    },
+    {
+      "name": "Index anchor W18.S10",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s10"
+      }
+    },
+    {
+      "name": "Index anchor W18.S11",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s11"
+      }
+    },
+    {
+      "name": "Index anchor W18.S12",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s12"
+      }
+    },
+    {
+      "name": "Index anchor W18.S13",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s13"
+      }
+    },
+    {
+      "name": "Index anchor W18.S14",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s14"
+      }
+    },
+    {
+      "name": "Index anchor W18.S15",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s15"
+      }
+    },
+    {
+      "name": "Index anchor W18.S16",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s16"
+      }
+    },
+    {
+      "name": "Index anchor W18.S17",
+      "passed": true,
+      "detail": {
+        "document": "RRR_Wave_18_Research.md",
+        "anchor": "w18-s17"
+      }
+    },
+    {
+      "name": "Unique explicit anchors README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_Compendium_Map_v0.18.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_MIVIM_Review_v0.18.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_Wave_18_Aerial_Handbook.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_Wave_18_Amendments.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_Wave_18_Delivery_Sheets.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_Wave_18_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_Wave_18_Research.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_Wave_18_Source_Index.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique explicit anchors RRR_Wave_18_TODO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "All new local links resolve",
+      "passed": true,
+      "detail": {
+        "count": 311
+      }
+    },
+    {
+      "name": "Prior file preserved README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Compendium_Map_v0.17.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_MIVIM_Review_v0.17.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Wave_17.spec",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Wave_17_Amendments.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Wave_17_Delivery_Sheets.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Wave_17_Editorial_Check.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Wave_17_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Wave_17_Livelihood_Periods.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Wave_17_Research.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_Wave_17_TODO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved RRR_World_Context_v0.17.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved evidence/editorial_review.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved manifest.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_Compendium_Map_v0.16.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_MIVIM_Review_v0.16.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_Wave_16.spec",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_Wave_16_Amendments.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_Wave_16_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_Wave_16_Livelihood_Sheets.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_Wave_16_Material_Register.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_Wave_16_Research.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_Wave_16_TODO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/RRR_World_Context_v0.16.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/evidence/editorial_review.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/manifest.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/README.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/RRR_Compendium_Map_v0.15.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/RRR_MIVIM_Review_v0.15.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/RRR_Wave_15.spec",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/RRR_Wave_15_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/RRR_Wave_15_Research.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/RRR_Wave_15_Review_Matrix.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/RRR_Wave_15_TODO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/RRR_World_Context_v0.15.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/evidence/editorial_review.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/manifest.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RAD_ROACH_RACING_Handbook_v0.1.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RAD_ROACH_RACING_Handbook_v0.2.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Agent_Reference_Dossier_v0.1.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Compendium_Map_v0.14.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_02_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_03_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_04_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_05_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_06_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_07_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_08_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_09_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_11_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_12_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_13_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_14.spec",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Prior file preserved reference/W16/reference/W15/reference/RRR_World_Context_v0.14.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Exact prior reference inventory",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Three special sources and twenty full-source index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Support-stock note not counted as a donor",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Five complete or conversion patterns",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Every kit declares ten distinct functional roles",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Every course piece offers two responses",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Four qualitative layouts explicitly scoped",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Every receiving sheet links actual defined preparation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "New donor content present in main volume",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "All rules present verbatim",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "All per-product receiving content agrees",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Source limits retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "No invented numeric MIVIM score",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Future studies are not reported as executed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Main word count agrees",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

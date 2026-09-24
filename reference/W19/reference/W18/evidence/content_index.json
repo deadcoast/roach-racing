@@ -1,0 +1,842 @@
+{
+  "W18.ACTION.CLEAR": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-clear"
+  },
+  "W18.ACTION.CLIMB": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-climb"
+  },
+  "W18.ACTION.CRUISE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-cruise"
+  },
+  "W18.ACTION.GLIDE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-glide"
+  },
+  "W18.ACTION.LAUNCH": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-launch"
+  },
+  "W18.ACTION.PASS": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-pass"
+  },
+  "W18.ACTION.RETRY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-retry"
+  },
+  "W18.ACTION.SLOW": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-slow"
+  },
+  "W18.ACTION.TOUCHDOWN": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-touchdown"
+  },
+  "W18.ACTION.TURN": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-action-turn"
+  },
+  "W18.AIR.01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-air-01"
+  },
+  "W18.AIR.02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-air-02"
+  },
+  "W18.AIR.03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-air-03"
+  },
+  "W18.AIR.04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-air-04"
+  },
+  "W18.AIR.05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-air-05"
+  },
+  "W18.AIR.06": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-air-06"
+  },
+  "W18.AIR.07": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-air-07"
+  },
+  "W18.AMEND.01": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-01"
+  },
+  "W18.AMEND.02": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-02"
+  },
+  "W18.AMEND.03": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-03"
+  },
+  "W18.AMEND.04": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-04"
+  },
+  "W18.AMEND.05": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-05"
+  },
+  "W18.AMEND.06": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-06"
+  },
+  "W18.AMEND.07": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-07"
+  },
+  "W18.AMEND.08": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-08"
+  },
+  "W18.AMEND.09": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-09"
+  },
+  "W18.AMEND.10": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-10"
+  },
+  "W18.AMEND.11": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-11"
+  },
+  "W18.AMEND.12": {
+    "document": "RRR_Wave_18_Amendments.md",
+    "anchor": "w18-amend-12"
+  },
+  "W18.ARRIVAL.COMPLETE": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-arrival-complete"
+  },
+  "W18.ARRIVAL.CONTENTS": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-arrival-contents"
+  },
+  "W18.ARRIVAL.FRESH": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-arrival-fresh"
+  },
+  "W18.ARRIVAL.HINGE": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-arrival-hinge"
+  },
+  "W18.ARRIVAL.HOSTSTAGE": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-arrival-hoststage"
+  },
+  "W18.ARRIVAL.REMATCH": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-arrival-rematch"
+  },
+  "W18.ARRIVAL.WRONGWING": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-arrival-wrongwing"
+  },
+  "W18.CASE.AGGREGATE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-aggregate"
+  },
+  "W18.CASE.CLAIM": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-claim"
+  },
+  "W18.CASE.EMPTY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-empty"
+  },
+  "W18.CASE.FINISH": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-finish"
+  },
+  "W18.CASE.FIRST": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-first"
+  },
+  "W18.CASE.FOLD": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-fold"
+  },
+  "W18.CASE.FRAME": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-frame"
+  },
+  "W18.CASE.HOVER": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-hover"
+  },
+  "W18.CASE.MID_AIR": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-mid-air"
+  },
+  "W18.CASE.MISSGATE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-missgate"
+  },
+  "W18.CASE.PAIR": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-pair"
+  },
+  "W18.CASE.PHASE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-phase"
+  },
+  "W18.CASE.PUPAE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-pupae"
+  },
+  "W18.CASE.REPLACE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-replace"
+  },
+  "W18.CASE.SELF": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-self"
+  },
+  "W18.CASE.WIND": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-case-wind"
+  },
+  "W18.COURSE.APRON": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-apron"
+  },
+  "W18.COURSE.CROSSOVER": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-crossover"
+  },
+  "W18.COURSE.CROWN": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-crown"
+  },
+  "W18.COURSE.DESCENT": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-descent"
+  },
+  "W18.COURSE.FORK": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-fork"
+  },
+  "W18.COURSE.GALLERY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-gallery"
+  },
+  "W18.COURSE.PORTAL": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-portal"
+  },
+  "W18.COURSE.RELEASE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-release"
+  },
+  "W18.COURSE.SWEEP": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-sweep"
+  },
+  "W18.COURSE.WINDOW": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-course-window"
+  },
+  "W18.DELIVERY.01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-delivery-01"
+  },
+  "W18.DELIVERY.02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-delivery-02"
+  },
+  "W18.DELIVERY.03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-delivery-03"
+  },
+  "W18.DELIVERY.04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-delivery-04"
+  },
+  "W18.DELIVERY.05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-delivery-05"
+  },
+  "W18.DELIVERY.06": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-delivery-06"
+  },
+  "W18.DELIVERY.07": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-delivery-07"
+  },
+  "W18.DISCHARGE.01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-discharge-01"
+  },
+  "W18.DISCHARGE.02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-discharge-02"
+  },
+  "W18.DISCHARGE.03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-discharge-03"
+  },
+  "W18.DISCHARGE.04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-discharge-04"
+  },
+  "W18.DISCHARGE.05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-discharge-05"
+  },
+  "W18.DISCHARGE.06": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-discharge-06"
+  },
+  "W18.DISCHARGE.07": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-discharge-07"
+  },
+  "W18.DONOR.CAUSTIC": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic"
+  },
+  "W18.DONOR.CAUSTIC.POP01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-pop01"
+  },
+  "W18.DONOR.CAUSTIC.POP02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-pop02"
+  },
+  "W18.DONOR.CAUSTIC.STAGE01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-stage01"
+  },
+  "W18.DONOR.CAUSTIC.STAGE02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-stage02"
+  },
+  "W18.DONOR.CAUSTIC.STAGE03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-stage03"
+  },
+  "W18.DONOR.CAUSTIC.STAGE04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-stage04"
+  },
+  "W18.DONOR.CAUSTIC.STAGE05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-stage05"
+  },
+  "W18.DONOR.CAUSTIC.TRAIT01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-trait01"
+  },
+  "W18.DONOR.CAUSTIC.TRAIT02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-trait02"
+  },
+  "W18.DONOR.CAUSTIC.TRAIT03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-trait03"
+  },
+  "W18.DONOR.CAUSTIC.TRAIT04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-trait04"
+  },
+  "W18.DONOR.CAUSTIC.TRAIT05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-caustic-trait05"
+  },
+  "W18.DONOR.LONGWING": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing"
+  },
+  "W18.DONOR.LONGWING.POP01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-pop01"
+  },
+  "W18.DONOR.LONGWING.POP02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-pop02"
+  },
+  "W18.DONOR.LONGWING.STAGE01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-stage01"
+  },
+  "W18.DONOR.LONGWING.STAGE02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-stage02"
+  },
+  "W18.DONOR.LONGWING.STAGE03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-stage03"
+  },
+  "W18.DONOR.LONGWING.STAGE04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-stage04"
+  },
+  "W18.DONOR.LONGWING.TRAIT01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-trait01"
+  },
+  "W18.DONOR.LONGWING.TRAIT02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-trait02"
+  },
+  "W18.DONOR.LONGWING.TRAIT03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-trait03"
+  },
+  "W18.DONOR.LONGWING.TRAIT04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-trait04"
+  },
+  "W18.DONOR.LONGWING.TRAIT05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-longwing-trait05"
+  },
+  "W18.DONOR.RIVETBACK": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback"
+  },
+  "W18.DONOR.RIVETBACK.POP01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-pop01"
+  },
+  "W18.DONOR.RIVETBACK.POP02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-pop02"
+  },
+  "W18.DONOR.RIVETBACK.STAGE01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-stage01"
+  },
+  "W18.DONOR.RIVETBACK.STAGE02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-stage02"
+  },
+  "W18.DONOR.RIVETBACK.STAGE03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-stage03"
+  },
+  "W18.DONOR.RIVETBACK.STAGE04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-stage04"
+  },
+  "W18.DONOR.RIVETBACK.STAGE05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-stage05"
+  },
+  "W18.DONOR.RIVETBACK.TRAIT01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-trait01"
+  },
+  "W18.DONOR.RIVETBACK.TRAIT02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-trait02"
+  },
+  "W18.DONOR.RIVETBACK.TRAIT03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-trait03"
+  },
+  "W18.DONOR.RIVETBACK.TRAIT04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-donor-rivetback-trait04"
+  },
+  "W18.EDITION.AIRFLARE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-edition-airflare"
+  },
+  "W18.EDITION.COURTYARD": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-edition-courtyard"
+  },
+  "W18.EDITION.REEDFOLD": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-edition-reedfold"
+  },
+  "W18.FLIGHT.01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-flight-01"
+  },
+  "W18.FLIGHT.02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-flight-02"
+  },
+  "W18.FLIGHT.03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-flight-03"
+  },
+  "W18.FLIGHT.04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-flight-04"
+  },
+  "W18.FLIGHT.05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-flight-05"
+  },
+  "W18.FLIGHT.06": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-flight-06"
+  },
+  "W18.FLIGHT.07": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-flight-07"
+  },
+  "W18.KIT.AIRFLARE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-kit-airflare"
+  },
+  "W18.KIT.COURTYARD": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-kit-courtyard"
+  },
+  "W18.KIT.LONGHEAT": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-kit-longheat"
+  },
+  "W18.KIT.RIGHTAGAIN": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-kit-rightagain"
+  },
+  "W18.KIT.SWEEP": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-kit-sweep"
+  },
+  "W18.LAYOUT.COURTYARD": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-layout-courtyard"
+  },
+  "W18.LAYOUT.FLARE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-layout-flare"
+  },
+  "W18.LAYOUT.LANTERN": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-layout-lantern"
+  },
+  "W18.LAYOUT.REED": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-layout-reed"
+  },
+  "W18.OBJECT.FANCASE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-fancase"
+  },
+  "W18.OBJECT.FLOW": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-flow"
+  },
+  "W18.OBJECT.GATE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-gate"
+  },
+  "W18.OBJECT.HOSTSLEEVE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-hostsleeve"
+  },
+  "W18.OBJECT.LATCHCRADLE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-latchcradle"
+  },
+  "W18.OBJECT.PASSPORT": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-passport"
+  },
+  "W18.OBJECT.PHASEBRIDGE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-phasebridge"
+  },
+  "W18.OBJECT.PULSECASE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-pulsecase"
+  },
+  "W18.OBJECT.RETRY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-retry"
+  },
+  "W18.OBJECT.SWEEPCARD": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-object-sweepcard"
+  },
+  "W18.PREP.BOILER": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-prep-boiler"
+  },
+  "W18.PREP.BRIDLE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-prep-bridle"
+  },
+  "W18.PREP.CROSSPHASE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-prep-crossphase"
+  },
+  "W18.PREP.FLIGHTDRIVE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-prep-flightdrive"
+  },
+  "W18.PREP.KICKBACK": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-prep-kickback"
+  },
+  "W18.PREP.LONGWING": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-prep-longwing"
+  },
+  "W18.PREP.QUADWING": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-prep-quadwing"
+  },
+  "W18.PREP.RETURNLINK": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-prep-returnlink"
+  },
+  "W18.RECEIVE.BOILER": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-receive-boiler"
+  },
+  "W18.RECEIVE.BRIDLE": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-receive-bridle"
+  },
+  "W18.RECEIVE.CROSSPHASE": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-receive-crossphase"
+  },
+  "W18.RECEIVE.FLIGHTDRIVE": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-receive-flightdrive"
+  },
+  "W18.RECEIVE.KICKBACK": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-receive-kickback"
+  },
+  "W18.RECEIVE.LONGWING": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-receive-longwing"
+  },
+  "W18.RECEIVE.QUADWING": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-receive-quadwing"
+  },
+  "W18.RECEIVE.RETURNLINK": {
+    "document": "RRR_Wave_18_Delivery_Sheets.md",
+    "anchor": "w18-receive-returnlink"
+  },
+  "W18.RECOVERY.01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-recovery-01"
+  },
+  "W18.RECOVERY.02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-recovery-02"
+  },
+  "W18.RECOVERY.03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-recovery-03"
+  },
+  "W18.RECOVERY.04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-recovery-04"
+  },
+  "W18.RECOVERY.05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-recovery-05"
+  },
+  "W18.RECOVERY.06": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-recovery-06"
+  },
+  "W18.RECOVERY.07": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-recovery-07"
+  },
+  "W18.REVIEW.ARRAY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-review-array"
+  },
+  "W18.REVIEW.ENTRY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-review-entry"
+  },
+  "W18.REVIEW.OFFENSE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-review-offense"
+  },
+  "W18.REVIEW.RECOVERY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-review-recovery"
+  },
+  "W18.REVIEW.ROOT": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-review-root"
+  },
+  "W18.REVIEW.SUPPLY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-review-supply"
+  },
+  "W18.SERVICE.COURSE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-service-course"
+  },
+  "W18.SERVICE.FIRSTFLIGHT": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-service-firstflight"
+  },
+  "W18.SERVICE.GROWOUT": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-service-growout"
+  },
+  "W18.SERVICE.REMATCH": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-service-rematch"
+  },
+  "W18.SPORT.01": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-sport-01"
+  },
+  "W18.SPORT.02": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-sport-02"
+  },
+  "W18.SPORT.03": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-sport-03"
+  },
+  "W18.SPORT.04": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-sport-04"
+  },
+  "W18.SPORT.05": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-sport-05"
+  },
+  "W18.SPORT.06": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-sport-06"
+  },
+  "W18.SPORT.07": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-sport-07"
+  },
+  "W18.SUPPLY.HINGE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-supply-hinge"
+  },
+  "W18.SUPPLY.POND": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-supply-pond"
+  },
+  "W18.SUPPLY.PULSE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-supply-pulse"
+  },
+  "W18.SUPPLY.REED": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-supply-reed"
+  },
+  "W18.SUPPORT.BANKSEED": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-support-bankseed"
+  },
+  "W18.SYSTEM.AIR": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-system-air"
+  },
+  "W18.SYSTEM.DELIVERY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-system-delivery"
+  },
+  "W18.SYSTEM.DISCHARGE": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-system-discharge"
+  },
+  "W18.SYSTEM.FLIGHT": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-system-flight"
+  },
+  "W18.SYSTEM.RECOVERY": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-system-recovery"
+  },
+  "W18.SYSTEM.SPORT": {
+    "document": "RRR_Wave_18_Foundations.md",
+    "anchor": "w18-system-sport"
+  },
+  "W18.S01": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s01"
+  },
+  "W18.S02": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s02"
+  },
+  "W18.S03": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s03"
+  },
+  "W18.S04": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s04"
+  },
+  "W18.S05": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s05"
+  },
+  "W18.S06": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s06"
+  },
+  "W18.S07": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s07"
+  },
+  "W18.S08": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s08"
+  },
+  "W18.S09": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s09"
+  },
+  "W18.S10": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s10"
+  },
+  "W18.S11": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s11"
+  },
+  "W18.S12": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s12"
+  },
+  "W18.S13": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s13"
+  },
+  "W18.S14": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s14"
+  },
+  "W18.S15": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s15"
+  },
+  "W18.S16": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s16"
+  },
+  "W18.S17": {
+    "document": "RRR_Wave_18_Research.md",
+    "anchor": "w18-s17"
+  }
+}

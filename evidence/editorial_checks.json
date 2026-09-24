@@ -1,0 +1,117 @@
+{
+  "scope": "compendium_integrity_only",
+  "passed": true,
+  "checks": [
+    {
+      "name": "strict JSON",
+      "passed": true,
+      "detail": "Four reference JSON records parsed with duplicate/nonfinite rejection."
+    },
+    {
+      "name": "exact inherited file roster",
+      "passed": true,
+      "detail": "89 inherited files."
+    },
+    {
+      "name": "inherited bytes unchanged",
+      "passed": true,
+      "detail": "All inherited files match recorded SHA-256."
+    },
+    {
+      "name": "base snapshot binding",
+      "passed": true,
+      "detail": "Wave20 names the exact cumulative input."
+    },
+    {
+      "name": "cumulative non-manifest preservation",
+      "passed": true,
+      "detail": "All prior non-manifest, non-wave-list fields unchanged."
+    },
+    {
+      "name": "history is exact prefix",
+      "passed": true,
+      "detail": "18 earlier wave records unchanged."
+    },
+    {
+      "name": "appended wave equals standalone spec",
+      "passed": true,
+      "detail": "No separate content drift in the cumulative copy."
+    },
+    {
+      "name": "author premises unchanged",
+      "passed": true,
+      "detail": "19 inherited author-premise records."
+    },
+    {
+      "name": "printed premise fidelity",
+      "passed": true,
+      "detail": "Printed statements are verbatim inherited text, not elevated new proposals."
+    },
+    {
+      "name": "unique authored record identifiers",
+      "passed": true,
+      "detail": "161 current authored/source identifiers."
+    },
+    {
+      "name": "scoped reference targets",
+      "passed": true,
+      "detail": "Every declared source/prior/current relationship resolves by ID."
+    },
+    {
+      "name": "component coverage",
+      "passed": true,
+      "detail": "30 foundational preparations plus 4 separately identified flight supplements; not new species."
+    },
+    {
+      "name": "complete product-role bills",
+      "passed": true,
+      "detail": "Eight ten-role bills; textual fit/measurement parameters are not numerical validation."
+    },
+    {
+      "name": "open decisions preserved",
+      "passed": true,
+      "detail": "Developed subquestions do not replace the historical authority-decision records."
+    },
+    {
+      "name": "main manuscript and structured chapter agreement",
+      "passed": true,
+      "detail": "14 complete chapter bodies match their rendered form."
+    },
+    {
+      "name": "current local document links",
+      "passed": true,
+      "detail": {
+        "count": 437,
+        "failures": []
+      }
+    },
+    {
+      "name": "unambiguous current anchors",
+      "passed": true,
+      "detail": "No duplicate explicit anchors in current Markdown."
+    },
+    {
+      "name": "machine-readable subject routes",
+      "passed": true,
+      "detail": "161 subject routes verified along with current document links."
+    },
+    {
+      "name": "illustrative service arithmetic",
+      "passed": true,
+      "detail": "One authored quote and two branches; specialist work is not pre-financeable from 60 without a stated change. Not an economy simulation."
+    },
+    {
+      "name": "no runtime claim",
+      "passed": true,
+      "detail": "Six future studies remain unperformed. This checker verifies documents, not fun, physiology, or gameplay."
+    }
+  ],
+  "current_markdown_local_links": 437,
+  "inherited_files": 89,
+  "limits": [
+    "No application modified or rerun",
+    "No physical material tests",
+    "No human study",
+    "No market or retention validation"
+  ]
+}

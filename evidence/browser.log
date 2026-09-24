@@ -1,0 +1,5 @@
+$ /opt/pyvenv/bin/python tests/browser_stable.py
+{"passed": 36, "failed": 0, "errors": []}
+
+
+EXIT 0

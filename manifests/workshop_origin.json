@@ -1,0 +1,135 @@
+{
+  "note": "W03 transactions reconstructed by unchanged W04 resume_workshop; not a world save.",
+  "cash": {
+    "player": 142,
+    "buyer": 20,
+    "suppliers": 58
+  },
+  "host": {
+    "id": "HOST",
+    "donor": "W02.DONOR.HOST",
+    "owner": "player",
+    "stage": "adult",
+    "genotype": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "anatomy": [
+      "native_body"
+    ],
+    "observations": {},
+    "protections": [
+      "named_racer"
+    ],
+    "alive": true
+  },
+  "hopper_donor": {
+    "id": "B1-6",
+    "donor": "W02.DONOR.HOPPER",
+    "owner": "player",
+    "stage": "adult",
+    "genotype": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "anatomy": [
+      "body"
+    ],
+    "observations": {
+      "spring_return": {
+        "low": 0.625,
+        "high": 0.625,
+        "protocol": "W03.ASSAY.HOP.1",
+        "evidence_kind": "synthetic_exact_fixture"
+      },
+      "phase_error": {
+        "low": 0.07,
+        "high": 0.07,
+        "protocol": "W03.ASSAY.HOP.1",
+        "evidence_kind": "synthetic_exact_fixture"
+      },
+      "settle_time": {
+        "low": 0.06,
+        "high": 0.06,
+        "protocol": "W03.ASSAY.HOP.1",
+        "evidence_kind": "synthetic_exact_fixture"
+      }
+    },
+    "protections": [],
+    "alive": true
+  },
+  "hopper": {
+    "id": "H-6",
+    "donor_id": "B1-6",
+    "product": "W02.PROD.HOPPER.1",
+    "owner": "player",
+    "tissues": [
+      "hind_pair"
+    ],
+    "measurements": {
+      "spring_return": {
+        "low": 0.625,
+        "high": 0.625,
+        "protocol": "W03.ASSAY.HOP.1",
+        "evidence_kind": "synthetic_exact_fixture"
+      },
+      "phase_error": {
+        "low": 0.07,
+        "high": 0.07,
+        "protocol": "W03.ASSAY.HOP.1",
+        "evidence_kind": "synthetic_exact_fixture"
+      },
+      "settle_time": {
+        "low": 0.06,
+        "high": 0.06,
+        "protocol": "W03.ASSAY.HOP.1",
+        "evidence_kind": "synthetic_exact_fixture"
+      }
+    },
+    "custody": "installed",
+    "holder": "HOST"
+  },
+  "drive": {
+    "id": "UPGRADE-DRIVE",
+    "donor_id": "DRIVE-DONOR",
+    "product": "W02.PROD.CICADA.1",
+    "owner": "player",
+    "tissues": [
+      "thoracic_drive"
+    ],
+    "measurements": {},
+    "custody": "inventory",
+    "holder": null
+  },
+  "drive_donor": {
+    "id": "DRIVE-DONOR",
+    "donor": "W02.DONOR.CICADA",
+    "owner": "suppliers",
+    "stage": "adult",
+    "genotype": null,
+    "anatomy": [],
+    "observations": {},
+    "protections": [],
+    "alive": false
+  }
+}

@@ -1,0 +1,4 @@
+$ node --check /mnt/data/RRR_Wave_08/src/bench.js
+
+
+EXIT 0

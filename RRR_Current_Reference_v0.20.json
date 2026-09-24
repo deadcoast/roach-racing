@@ -1,0 +1,2464 @@
+{
+  "manifest": {
+    "id": "W20.CURRENT",
+    "version": "0.20.0",
+    "authority": "Editorial current view, not replacement historical evidence or author approval of open options.",
+    "base_sha256": "54b1aec54c7ba6ef15078eb6cc31243315046c3c138eba940c9fcf9e37afe68f",
+    "current_phase": "compendium"
+  },
+  "author_premises_preserved": [
+    {
+      "id": "C01",
+      "status": "author_canon",
+      "statement": "RRR is a post-apocalyptic nuclear-wasteland hobby and racing world.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C02",
+      "status": "author_canon",
+      "statement": "Rad roaches assimilate parts from other insects; the biological premise is fictional.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C03",
+      "status": "author_canon",
+      "statement": "The founding rivalry escalates from beetle horn to mantis pincers to grasshopper jumping legs, with the jumper winning the race.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C04",
+      "status": "author_canon",
+      "statement": "The mature circuit setting is thirty years after the founding-rivalry era.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C05",
+      "status": "author_canon",
+      "statement": "Locals lead to Regionals, then Factionals, then faction representation in New World City for the What’s Left of the World Derby.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C06",
+      "status": "author_canon",
+      "statement": "Open is the most famous competitive class and embraces no-holds-barred builds; entry to the world championship still requires qualification.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C07",
+      "status": "author_canon",
+      "statement": "Flyers race with flyers.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C08",
+      "status": "author_canon",
+      "statement": "The All-Out Offensive circuit requires a minimum offensive build and light carapace.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C09",
+      "status": "author_canon",
+      "statement": "Speedsters prohibit weapon modules, while native violence and contact can occur.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C10",
+      "status": "author_canon",
+      "statement": "The world mirrors PCR’s build-and-race hobby, with its own execution and identity in the sense of Mutant League’s relationship to conventional sport.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C11",
+      "status": "author_canon",
+      "statement": "Speed, race victories, desirable upgrades, collecting, personal assembly and showing off are legitimate central pleasures.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C12",
+      "status": "author_canon",
+      "statement": "A Wrangloid is a successful insect-catching and breeding hobbyist who turns that success into a livelihood.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C13",
+      "status": "author_canon",
+      "statement": "Wrangloid shops resemble fish stores, with whole living insects varying in rarity, quality and price.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C14",
+      "status": "author_canon",
+      "statement": "Anyone may search for, catch and breed insects. Expertise and discovery matter; this is not a profession-exclusive permission.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C15",
+      "status": "author_canon",
+      "statement": "RRR is a large sandbox with accessible participation and optional depth for advanced users.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C16",
+      "status": "author_canon",
+      "statement": "Racing remains racing; the user did not specify last-roach-standing races.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C17",
+      "status": "author_canon",
+      "statement": "Foundational development proceeds in revisable waves using rigorous distinct statements, not story exposition.",
+      "source_anchor": "wave02_user_request"
+    },
+    {
+      "id": "C18",
+      "status": "author_canon",
+      "statement": "Targeted wildland collection, selective breeding, tanks, selling unwanted stock and earned recurring livelihoods are central connected gameplay systems.",
+      "source_anchor": "wave02_user_request"
+    },
+    {
+      "id": "C19",
+      "status": "author_canon",
+      "statement": "Mewgenics is a benchmark for successful consequential breeding/progression design, not permission to invent its exact mechanics.",
+      "source_anchor": "wave02_user_request"
+    }
+  ],
+  "subject_records": [
+    {
+      "id": "W20.STATE.01",
+      "title": "W20.STATE.01",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-state-01",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.STATE.02",
+      "title": "W20.STATE.02",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-state-02",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.STATE.03",
+      "title": "W20.STATE.03",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-state-03",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RECOVERY.01",
+      "title": "W20.RECOVERY.01",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-recovery-01",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RECOVERY.02",
+      "title": "W20.RECOVERY.02",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-recovery-02",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RECOVERY.03",
+      "title": "W20.RECOVERY.03",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-recovery-03",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RECOVERY.04",
+      "title": "W20.RECOVERY.04",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-recovery-04",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.FOUNDATION",
+      "title": "1. The current foundation: one hobby, several complete lives",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-foundation",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "C01",
+        "C02",
+        "C03",
+        "C05",
+        "C10",
+        "C11",
+        "C15",
+        "C17",
+        "W15.SYSTEM.ENTRY",
+        "W19.PREMISE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.TRANSLATION",
+      "title": "2. The translation contract: preserve the choice, define the anatomy",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-translation",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W14.MAP.SETS",
+        "W14.AMEND.A02",
+        "W18.SYSTEM.FLIGHT",
+        "C06"
+      ],
+      "source_refs": [
+        "W20.S01",
+        "W20.S02",
+        "W20.S03",
+        "W20.S04"
+      ]
+    },
+    {
+      "id": "W20.CH.STATE",
+      "title": "3. Useful, ready, damaged and valuable are different questions",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-state",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W16.MATERIAL.03",
+        "W16.BIO.03",
+        "W17.AMEND.11",
+        "W15.FIELD.03"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.RETURN",
+      "title": "4. The Return Bench: complete the consequence loop",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-return",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W15.SYSTEM.BENCH",
+        "W16.MATERIAL.04",
+        "W17.AMEND.04",
+        "W19.PERSON.LEN"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.RECOVERY",
+      "title": "5. Repair, biological recovery, replacement and regeneration",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-recovery",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W16.MATERIAL.08",
+        "W16.MATERIAL.15",
+        "W17.AMEND.09",
+        "W19.HISTORY.RETURNEDHORN"
+      ],
+      "source_refs": [
+        "W20.S08",
+        "W20.S09",
+        "W20.S10",
+        "W20.S11"
+      ]
+    },
+    {
+      "id": "W20.CH.INCIDENT",
+      "title": "6. Race incidents: keep the finish, identify the consequence",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-incident",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "C06",
+        "C08",
+        "C09",
+        "C16",
+        "W19.CHARTER.ENTRY",
+        "W16.MATERIAL.07"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.SELECTION",
+      "title": "7. Breeding for real improvements after the race",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-selection",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W15.BROOD.01",
+        "W15.BROOD.04",
+        "W15.FIELD.05",
+        "W16.BIO.03",
+        "W17.AMEND.01"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.PATTERNS",
+      "title": "8. The complete product now includes a continued-use promise",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-patterns",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W12.RECIPE.01",
+        "W15.ENTRY.01",
+        "W16.MATERIAL.11",
+        "W18.KIT.COURTYARD"
+      ],
+      "source_refs": [
+        "W20.S03",
+        "W20.S04"
+      ]
+    },
+    {
+      "id": "W20.CH.ECONOMY",
+      "title": "9. Services that earn a keep without manufacturing damage",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-economy",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W15.LIVELIHOOD.04",
+        "W16.ECON.FITTING",
+        "W17.AMEND.10",
+        "W12.DEMAND.10"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.SPORT",
+      "title": "10. The sporting charter, reconciled for actual returns",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-sport",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "W19.CHARTER.ENTRY",
+        "W19.CHARTER.LADDER",
+        "W19.SUPPORT.MEET"
+      ],
+      "source_refs": [
+        "W20.S07"
+      ]
+    },
+    {
+      "id": "W20.CH.MEMORY",
+      "title": "11. Used parts, remembered racers and a real downstream customer",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-memory",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W19.HISTORY.RETURNEDHORN",
+        "W15.SYSTEM.CUSTOMERS",
+        "W17.AMEND.04",
+        "W16.MATERIAL.15"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.WORLD",
+      "title": "12. The atlas supports the same hobby at different depths",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-world",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W19.REGION.TINWATER",
+        "W19.REGION.CINDER",
+        "W19.REGION.BASIN",
+        "W19.REGION.SALTGLASS",
+        "W19.REGION.SPANREST",
+        "W19.CITY.BENCH",
+        "W18.SUPPORT.BANKSEED"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.DECISIONS",
+      "title": "13. Decisions developed now, decisions still needing author selection",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-decisions",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "D01",
+        "D02",
+        "D03",
+        "D04",
+        "D05",
+        "D06",
+        "D07",
+        "D08",
+        "D09",
+        "D10",
+        "D11",
+        "D12",
+        "W19.SCOPE.SCALE",
+        "W19.SCOPE.RECOVERY"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CH.HANDOFF",
+      "title": "14. How the next team uses this edition",
+      "document": "RRR_Wave_20_Foundations.md",
+      "anchor": "w20-ch-handoff",
+      "status": "current_working_compendium_definition",
+      "prior_refs": [
+        "W15.SYSTEM.RETURN",
+        "W19.SCOPE.CULTURE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.REDLINE",
+      "title": "Cicada Redline",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-redline",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.REDLINE",
+        "W16.PREP.REDLINE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.TORQUE",
+      "title": "Scarab Torque Bundle",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-torque",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.TORQUE",
+        "W16.PREP.TORQUE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.LOWSTEP",
+      "title": "Mole-Cricket Lowstep",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-lowstep",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.LOWSTEP",
+        "W16.PREP.LOWSTEP"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.LONGTHROW",
+      "title": "Tiger-Beetle Longthrow",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-longthrow",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.LONGTHROW",
+        "W16.PREP.LONGTHROW"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.LOCKSTEP",
+      "title": "Planthopper Lockstep",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-lockstep",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.LOCKSTEP",
+        "W16.PREP.LOCKSTEP"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.STICKTOE",
+      "title": "Sticktoe Contact Set",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-sticktoe",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.STICKTOE",
+        "W16.PREP.STICKTOE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.CLEATS",
+      "title": "Mole-Cricket Cleats",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-cleats",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.CLEATS",
+        "W16.PREP.CLEATS"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.BOXBRACE",
+      "title": "Scarab Boxbrace",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-boxbrace",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.BOXBRACE",
+        "W16.PREP.BOXBRACE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.FLEXRAIL",
+      "title": "Roach Flexrail",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-flexrail",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.FLEXRAIL",
+        "W16.PREP.FLEXRAIL"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.GYROPODS",
+      "title": "Fly Gyropods",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-gyropods",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.GYROPODS",
+        "W16.PREP.GYROPODS"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.COUNTERBRACES",
+      "title": "Mantis Counterbraces",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-counterbraces",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.COUNTERBRACES",
+        "W16.PREP.COUNTERBRACES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.GUARDKNUCKLES",
+      "title": "Beetle Guardknuckles",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-guardknuckles",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.GUARDKNUCKLES",
+        "W16.PREP.GUARDKNUCKLES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.SPRINGKNEES",
+      "title": "Locust Springknees",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-springknees",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.SPRINGKNEES",
+        "W16.PREP.SPRINGKNEES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.KEEL",
+      "title": "Larval Keel",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-keel",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.KEEL",
+        "W16.PREP.KEEL"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.FATBODY",
+      "title": "Waxmoth Fatbody",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-fatbody",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.FATBODY",
+        "W16.PREP.FATBODY"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.NECTAR",
+      "title": "Honeybee Nectar Crop",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-nectar",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.NECTAR",
+        "W16.PREP.NECTAR"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.SPLITVANES",
+      "title": "Ashveil Split-Vanes",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-splitvanes",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.SPLITVANES",
+        "W16.PREP.SPLITVANES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.BROWFOIL",
+      "title": "Beetle Browfoil",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-browfoil",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.BROWFOIL",
+        "W16.PREP.BROWFOIL"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.FELTBRAKE",
+      "title": "Moth-Felt Brake",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-feltbrake",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.FELTBRAKE",
+        "W16.PREP.FELTBRAKE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.GRIPSTRIP",
+      "title": "Sticktoe Gripstrip",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-gripstrip",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.GRIPSTRIP",
+        "W16.PREP.GRIPSTRIP"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.RAILSHOES",
+      "title": "Beetle Railshoes",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-railshoes",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.RAILSHOES",
+        "W16.PREP.RAILSHOES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.SLEEVES",
+      "title": "Ballast Joint Sleeves",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-sleeves",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.SLEEVES",
+        "W16.PREP.SLEEVES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.HOPPERS",
+      "title": "Grasshopper Hoppers",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-hoppers",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.HOPPERS",
+        "W16.PREP.HOPPERS"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.RAM",
+      "title": "Bullhorn Ram",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-ram",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.RAM",
+        "W16.PREP.RAM"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.CATCHCLAWS",
+      "title": "Mantis Catchclaws",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-catchclaws",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.CATCHCLAWS",
+        "W16.PREP.CATCHCLAWS"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.LAMINATE",
+      "title": "Scarab Laminate",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-laminate",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.LAMINATE",
+        "W16.PREP.LAMINATE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.BOILER",
+      "title": "Bombardier Boiler",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-boiler",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.BOILER",
+        "W16.PREP.BOILER"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.QUADWING",
+      "title": "Dragonfly Quadwing",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-quadwing",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.QUADWING",
+        "W16.PREP.QUADWING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.LONGWING",
+      "title": "Locust Longwing",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-longwing",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.LONGWING",
+        "W16.PREP.LONGWING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.KICKBACK",
+      "title": "Click-Beetle Kickback",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-kickback",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.PART.KICKBACK",
+        "W16.PREP.KICKBACK"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.FLIGHTDRIVE",
+      "title": "Flight-configured drive bundle",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-flightdrive",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W18.PREP.FLIGHTDRIVE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.CROSSPHASE",
+      "title": "Wingstroke Yoke / Crossphase",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-crossphase",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W18.PREP.CROSSPHASE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.RETURNLINK",
+      "title": "Wingstroke Yoke / Return-link",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-returnlink",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W18.PREP.RETURNLINK"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.COMP.BRIDLE",
+      "title": "Flight-root bridle",
+      "document": "RRR_Wave_20_Component_Passports.md",
+      "anchor": "w20-comp-bridle",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W18.PREP.BRIDLE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PRODUCT.TIN",
+      "title": "Tin Can Special / First Bench",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-product-tin",
+      "status": "new_working_product_or_service_brief",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PRODUCT.NEEDLE",
+      "title": "Needle & Thread / Clear Run",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-product-needle",
+      "status": "new_working_product_or_service_brief",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PRODUCT.HOP",
+      "title": "Last Laugh / Turnaround",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-product-hop",
+      "status": "new_working_product_or_service_brief",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PRODUCT.HEAVY",
+      "title": "Foundry Heavy / Rootline",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-product-heavy",
+      "status": "new_working_product_or_service_brief",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PRODUCT.GLASS",
+      "title": "Glassline / Mixed Surface",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-product-glass",
+      "status": "new_working_product_or_service_brief",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PRODUCT.SKY",
+      "title": "Skyhook / Courtyard Service",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-product-sky",
+      "status": "new_working_product_or_service_brief",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PRODUCT.AIRFLARE",
+      "title": "Flashboil / Airflare Service",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-product-airflare",
+      "status": "new_working_product_or_service_brief",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PRODUCT.HERITAGE",
+      "title": "Returned Horn / working restoration brief",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-product-heritage",
+      "status": "new_working_product_or_service_brief",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.ADVANCE.DRIVE",
+      "title": "Drive: usable pace, force and efficiency",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-advance-drive",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.ADVANCE.CONTACT",
+      "title": "Contact: purchase, release and contamination",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-advance-contact",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.ADVANCE.DELIVERY",
+      "title": "Linkages: chosen operating ranges with better execution",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-advance-delivery",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.ADVANCE.LANDING",
+      "title": "Hoppers: spectacular launch and usable return",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-advance-landing",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.ADVANCE.SUPPORT",
+      "title": "Structure: useful load paths at appropriate mass",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-advance-support",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.ADVANCE.RESERVE",
+      "title": "Supply: capacity, delivery and usable contents",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-advance-reserve",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.ADVANCE.TACTIC",
+      "title": "Contact tactics: control the encounter",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-advance-tactic",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.ADVANCE.FLIGHT",
+      "title": "Flight: full working systems, not a higher wing number",
+      "document": "RRR_Wave_20_Product_Atlas.md",
+      "anchor": "w20-advance-flight",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.01",
+      "title": "Current desk edition, not chronological scavenging",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-01",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W19.PREMISE",
+        "W19.LAYERS"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.02",
+      "title": "Broad unresolved tags no longer imply no developed answer",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-02",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "D03",
+        "D04",
+        "D06",
+        "D11"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.03",
+      "title": "Condition is not genotype or quality band",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-03",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W16.BIO.03",
+        "W17.AMEND.11",
+        "W15.GRADES.02"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.04",
+      "title": "Actual source roles survive repair",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-04",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W14.AMEND.A03",
+        "W14.AMEND.A04",
+        "W14.AMEND.A06"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.05",
+      "title": "The Return Bench closes the setback",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-05",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W16.MATERIAL.03",
+        "W17.AMEND.09"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.06",
+      "title": "Routine exchange is not another per-click cost chain",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-06",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W15.BENCH.03",
+        "W17.AMEND.12"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.07",
+      "title": "Repair is neither universally complete nor necessarily permanently inferior",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-07",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W16.MATERIAL.15",
+        "W17.AMEND.09"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.08",
+      "title": "Material state does not rank every mechanical property together",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-08",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W16.BIO.03",
+        "W17.DONOR.MOLE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.09",
+      "title": "Original core and replacement interface remain separate",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-09",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W19.HISTORY.RETURNEDHORN",
+        "W16.MATERIAL.15"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.10",
+      "title": "Recovery does not duplicate rare material",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-10",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W16.MATERIAL.06",
+        "D07"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.11",
+      "title": "Loss, maneuver failure, retirement and injury are different",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-11",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W19.CHARTER.ENTRY",
+        "W14.SPORT.PROCEDURES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.12",
+      "title": "A supported specimen may remain a poor immediate part but useful stock",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-12",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W15.SURPLUS.04",
+        "W16.MATERIAL.09"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.13",
+      "title": "Production reliability is measured under actual care and preparation",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-13",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W16.BIO.03",
+        "W15.BROOD.08"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.14",
+      "title": "Thirty foundation parts plus explicit later preparations",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-14",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W16.PREP.QUADWING",
+        "W18.PREP.CROSSPHASE",
+        "W18.PREP.RETURNLINK",
+        "W18.PREP.BRIDLE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.15",
+      "title": "A product declares continued use, not just sale acceptance",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-15",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W12.RECIPE.01",
+        "W17.AMEND.12"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.16",
+      "title": "Repair demand is not manufactured to balance shops",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-16",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W15.LIVELIHOOD.06",
+        "W17.AMEND.10"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.17",
+      "title": "Positive margin and financing are independent",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-17",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W16.ECON.FITTING",
+        "W16.ECON.KITS",
+        "W17.AMEND.10"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.18",
+      "title": "Representation survives recovery without host duplication",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-18",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W19.CHARTER.ENTRY",
+        "W19.CHARTER.LADDER"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.19",
+      "title": "Physical collection remains meaningful after a changed function",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-19",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W15.SYSTEM.IDENTITY",
+        "W19.HISTORY.LANTERNTHREAD"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.AMEND.20",
+      "title": "The next milestone is experience evidence, not more nominal passes",
+      "document": "RRR_Wave_20_Milestone_Edit_Ledger.md",
+      "anchor": "w20-amend-20",
+      "status": "current_working_definition",
+      "prior_refs": [
+        "W15.SYSTEM.RETURN",
+        "W19.SCOPE.CULTURE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.PAD",
+      "title": "W20.CASE.PAD",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-pad",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.EMPTY",
+      "title": "W20.CASE.EMPTY",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-empty",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.BLOCKED",
+      "title": "W20.CASE.BLOCKED",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-blocked",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.LOSS",
+      "title": "W20.CASE.LOSS",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-loss",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.WIN_DAMAGE",
+      "title": "W20.CASE.WIN_DAMAGE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-win-damage",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.FRACTURE",
+      "title": "W20.CASE.FRACTURE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-fracture",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.FULL_REPAIR",
+      "title": "W20.CASE.FULL_REPAIR",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-full-repair",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.CORE",
+      "title": "W20.CASE.CORE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-core",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.PAIR",
+      "title": "W20.CASE.PAIR",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-pair",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.DUAL_TISSUE",
+      "title": "W20.CASE.DUAL_TISSUE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-dual-tissue",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.TERMINAL",
+      "title": "W20.CASE.TERMINAL",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-terminal",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.ROUTE_MODE",
+      "title": "W20.CASE.ROUTE_MODE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-route-mode",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.HIDDEN",
+      "title": "W20.CASE.HIDDEN",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-hidden",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.RESEARCH",
+      "title": "W20.CASE.RESEARCH",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-research",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.RESERVE",
+      "title": "W20.CASE.RESERVE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-reserve",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.WORK",
+      "title": "W20.CASE.WORK",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-work",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.SALE",
+      "title": "W20.CASE.SALE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-sale",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.MOVING_YOKE",
+      "title": "W20.CASE.MOVING_YOKE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-moving-yoke",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.ROOT_BRACE",
+      "title": "W20.CASE.ROOT_BRACE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-root-brace",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.AIR_PAD",
+      "title": "W20.CASE.AIR_PAD",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-air-pad",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.FINANCE",
+      "title": "W20.CASE.FINANCE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-finance",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.SPARE_HOST",
+      "title": "W20.CASE.SPARE_HOST",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-spare-host",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.MID_MEET",
+      "title": "W20.CASE.MID_MEET",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-mid-meet",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.SCALE",
+      "title": "W20.CASE.SCALE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-scale",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.REGROWTH",
+      "title": "W20.CASE.REGROWTH",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-regrowth",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.OFFLINE",
+      "title": "W20.CASE.OFFLINE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-offline",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.QUOTE",
+      "title": "W20.CASE.QUOTE",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-quote",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.CASE.DISPLAY",
+      "title": "W20.CASE.DISPLAY",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-case-display",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.RETURN_CASE",
+      "title": "The divided return case",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-return-case",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.WORK_SLIP",
+      "title": "The folded work-and-return slip",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-work-slip",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.PAIR_BRIDGE",
+      "title": "The rematching bridge",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-pair-bridge",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.CORE_CASE",
+      "title": "The original-core cradle",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-core-case",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.SLEEVE_TRAY",
+      "title": "The indexed sleeve tray",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-sleeve-tray",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.PAD_SUPPORT",
+      "title": "The unloaded contact support",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-pad-support",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.BILL",
+      "title": "The retained-native assembly sheet",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-bill",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.REGIONAL_OFFER",
+      "title": "The regional service handbill",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-regional-offer",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.PASSPORT",
+      "title": "The layered racer passport",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-passport",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.OBJECT.SERVICE_TIN",
+      "title": "The supported first-use tin",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-object-service-tin",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PATH.NOVICE",
+      "title": "One tin, one useful change, another race",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-path-novice",
+      "status": "authored end-to-end reference case; not executed",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PATH.LINE",
+      "title": "A recoverable result becomes a precise breeding question",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-path-line",
+      "status": "authored end-to-end reference case; not executed",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PATH.MAKER",
+      "title": "The same sold kit returns as a customer’s project",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-path-maker",
+      "status": "authored end-to-end reference case; not executed",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PATH.FLYER",
+      "title": "A complete array and a local fault",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-path-flyer",
+      "status": "authored end-to-end reference case; not executed",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PATH.HISTORY",
+      "title": "Original material without mythical restoration",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-path-history",
+      "status": "authored end-to-end reference case; not executed",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.PATH.CAMPAIGN",
+      "title": "An earned representative remains an owner",
+      "document": "RRR_Wave_20_Reference_Cases.md",
+      "anchor": "w20-path-campaign",
+      "status": "authored end-to-end reference case; not executed",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D01",
+      "title": "W20.RESOLUTION.D01",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d01",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D02",
+      "title": "W20.RESOLUTION.D02",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d02",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D03",
+      "title": "W20.RESOLUTION.D03",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d03",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D04",
+      "title": "W20.RESOLUTION.D04",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d04",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D05",
+      "title": "W20.RESOLUTION.D05",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d05",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D06",
+      "title": "W20.RESOLUTION.D06",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d06",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D07",
+      "title": "W20.RESOLUTION.D07",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d07",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D08",
+      "title": "W20.RESOLUTION.D08",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d08",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D09",
+      "title": "W20.RESOLUTION.D09",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d09",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D10",
+      "title": "W20.RESOLUTION.D10",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d10",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D11",
+      "title": "W20.RESOLUTION.D11",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d11",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.RESOLUTION.D12",
+      "title": "W20.RESOLUTION.D12",
+      "document": "RRR_Wave_20_Resolution_Register.md",
+      "anchor": "w20-resolution-d12",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S01",
+      "title": "SEGA — Gaiden official Pocket Circuit customization image",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s01",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S02",
+      "title": "Tamiya — Mini 4WD Setup Guide",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s02",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S03",
+      "title": "Tamiya — FM-A Balanced Starter Pack, 18710",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s03",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S04",
+      "title": "Tamiya — Basic Tune-Up Parts Set for MA Chassis, 15476",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s04",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S05",
+      "title": "Tamiya — Brake Sponge Set, 15441",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s05",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S06",
+      "title": "Tamiya — Mass Damper Set, 15392",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s06",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S07",
+      "title": "Tamiya — Official Mini 4WD Race Regulations",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s07",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S08",
+      "title": "Parle, Dirks & Taylor (2016) — Bridging the gap: wound healing in insects restores mechanical strength by targeted cuticle deposition",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s08",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S09",
+      "title": "O’Neill, DeLandro & Taylor (2019) — Age-related responses to injury and repair in insect cuticle",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s09",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S10",
+      "title": "O’Neill & Taylor (2020; online 2019) — Repair of microdamage caused by cyclic loading in insect cuticle",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s10",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S11",
+      "title": "Dirks & Taylor (2012) — Fracture toughness of locust cuticle",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s11",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S12",
+      "title": "SEGA — Gaiden Adventure, Pocket Circuit section",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s12",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S13",
+      "title": "Tamiya — Low-Friction Low-Profile Tires and Carbon Wheels, 15534",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s13",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    },
+    {
+      "id": "W20.S14",
+      "title": "Tamiya — Hi-Mount Tube Stabilizer Set, 15528",
+      "document": "RRR_Wave_20_Research.md",
+      "anchor": "w20-s14",
+      "status": "current_working_definition",
+      "prior_refs": [],
+      "source_refs": []
+    }
+  ],
+  "amendments": [
+    {
+      "id": "W20.AMEND.01",
+      "title": "Current desk edition, not chronological scavenging",
+      "finding_type": "reference_usability_gap",
+      "prior_refs": [
+        "W19.PREMISE",
+        "W19.LAYERS"
+      ],
+      "problem": "Relevant meaning is scattered across nested volumes and later amendments.",
+      "current_definition": "Use the current desk edition and scoped resolution register; retrieve deeper monographs through direct subject routes.",
+      "effect_on_play_or_authoring": "A developer can get the applicable answer without merging all old experiments.",
+      "current_ref": "W20.CH.FOUNDATION",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.02",
+      "title": "Broad unresolved tags no longer imply no developed answer",
+      "finding_type": "status_ambiguity",
+      "prior_refs": [
+        "D03",
+        "D04",
+        "D06",
+        "D11"
+      ],
+      "problem": "Initial broad decisions remain unresolved even where later subquestions have substantial definitions.",
+      "current_definition": "Keep original decisions, add subquestion status and exact current routes; unresolved author choices remain visible.",
+      "effect_on_play_or_authoring": "Prevents both false completeness and unnecessary reinvention.",
+      "current_ref": "W20.CH.DECISIONS",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.03",
+      "title": "Condition is not genotype or quality band",
+      "finding_type": "cross_system_conflation_risk",
+      "prior_refs": [
+        "W16.BIO.03",
+        "W17.AMEND.11",
+        "W15.GRADES.02"
+      ],
+      "problem": "Current performance, material state and inherited promise can be collapsed into one quality field.",
+      "current_definition": "Separate developed anatomy, inherited contribution, material, supply, fit and evidence.",
+      "effect_on_play_or_authoring": "An extraordinary but injured specimen remains an intelligible breeding or restoration decision.",
+      "current_ref": "W20.CH.STATE",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.04",
+      "title": "Actual source roles survive repair",
+      "finding_type": "mechanical_translation_gap",
+      "prior_refs": [
+        "W14.AMEND.A03",
+        "W14.AMEND.A04",
+        "W14.AMEND.A06"
+      ],
+      "problem": "A generic repair action could refill, align, damp and heal every subsystem together.",
+      "current_definition": "Restore the named function through actual inputs; preserve drive, leverage, contact, sensing, compliance and damping.",
+      "effect_on_play_or_authoring": "A service has a purpose and cannot fix an unrelated bottleneck.",
+      "current_ref": "W20.CH.TRANSLATION",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.05",
+      "title": "The Return Bench closes the setback",
+      "finding_type": "incomplete_cross_system_loop",
+      "prior_refs": [
+        "W16.MATERIAL.03",
+        "W17.AMEND.09"
+      ],
+      "problem": "Post-event definitions often stop at a state or quote.",
+      "current_definition": "Follow result, returned material, meaningful assessment, chosen route and verified return or other disposition.",
+      "effect_on_play_or_authoring": "A setback creates a manageable decision without forcing a breeding reset.",
+      "current_ref": "W20.CH.RETURN",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.06",
+      "title": "Routine exchange is not another per-click cost chain",
+      "finding_type": "integration_guardrail",
+      "prior_refs": [
+        "W15.BENCH.03",
+        "W17.AMEND.12"
+      ],
+      "problem": "New material and receiving detail can silently recreate separately charged compulsory appointments.",
+      "current_definition": "Bundle ordinary service into declared allowances; only performed extra work changes scope.",
+      "effect_on_play_or_authoring": "The growing atlas does not make ordinary kit use increasingly burdensome.",
+      "current_ref": "W20.CH.RETURN",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.07",
+      "title": "Repair is neither universally complete nor necessarily permanently inferior",
+      "finding_type": "research_driven_refinement",
+      "prior_refs": [
+        "W16.MATERIAL.15",
+        "W17.AMEND.09"
+      ],
+      "problem": "Healed appearance can be mistaken for original strength; repair can also be assigned an invented permanent penalty.",
+      "current_definition": "Assess the achieved working envelope. Full useful restoration is possible where supported; partial restoration is labeled.",
+      "effect_on_play_or_authoring": "Meaningful material consequences coexist with desirable long-lived projects.",
+      "current_ref": "W20.CH.RECOVERY",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.08",
+      "title": "Material state does not rank every mechanical property together",
+      "finding_type": "research_driven_refinement",
+      "prior_refs": [
+        "W16.BIO.03",
+        "W17.DONOR.MOLE"
+      ],
+      "problem": "Stiffness or hardness alone can be mistaken for superior stock.",
+      "current_definition": "Name condition and required measurement; avoid a universal dry/hard/better rule.",
+      "effect_on_play_or_authoring": "A catcher and breeder can ask the correct question instead of selecting damaged stock.",
+      "current_ref": "W20.CH.RECOVERY",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.09",
+      "title": "Original core and replacement interface remain separate",
+      "finding_type": "operational_refinement",
+      "prior_refs": [
+        "W19.HISTORY.RETURNEDHORN",
+        "W16.MATERIAL.15"
+      ],
+      "problem": "A restoration can be read as an entirely new object or a magically unchanged original.",
+      "current_definition": "Record retained material, supplied replacement and achieved current function; preserve host and historical configuration.",
+      "effect_on_play_or_authoring": "Restoration, display and working use can coexist honestly.",
+      "current_ref": "W20.CH.MEMORY",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.10",
+      "title": "Recovery does not duplicate rare material",
+      "finding_type": "resource_boundary_refinement",
+      "prior_refs": [
+        "W16.MATERIAL.06",
+        "D07"
+      ],
+      "problem": "A living integration premise could be used to regenerate unlimited paid cores.",
+      "current_definition": "Ordinary maintenance preserves or repairs the identified material. Regeneration needs an approved profile and actual inputs.",
+      "effect_on_play_or_authoring": "Breeding and collecting remain meaningful without universal fragility.",
+      "current_ref": "W20.CH.RECOVERY",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.11",
+      "title": "Loss, maneuver failure, retirement and injury are different",
+      "finding_type": "sporting_state_refinement",
+      "prior_refs": [
+        "W19.CHARTER.ENTRY",
+        "W14.SPORT.PROCEDURES"
+      ],
+      "problem": "A failed action or course-out could become an arbitrary whole-animal death or full-damage state.",
+      "current_definition": "Record those four outcomes independently with actual affected anatomy and published event procedures.",
+      "effect_on_play_or_authoring": "Racing stays finish-first while contact has intelligible consequences.",
+      "current_ref": "W20.CH.INCIDENT",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.12",
+      "title": "A supported specimen may remain a poor immediate part but useful stock",
+      "finding_type": "value_refinement",
+      "prior_refs": [
+        "W15.SURPLUS.04",
+        "W16.MATERIAL.09"
+      ],
+      "problem": "Local damage can incorrectly zero all breeding, display and residual material value.",
+      "current_definition": "Evaluate remaining actual capabilities and market purpose separately; do not guarantee fertility or buyers.",
+      "effect_on_play_or_authoring": "Keep-good/sell-unwanted has more than one sensible criterion.",
+      "current_ref": "W20.CH.SELECTION",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.13",
+      "title": "Production reliability is measured under actual care and preparation",
+      "finding_type": "evidence_refinement",
+      "prior_refs": [
+        "W16.BIO.03",
+        "W15.BROOD.08"
+      ],
+      "problem": "Useful material yield can be entirely attributed to genes despite different handling.",
+      "current_definition": "Separate family evidence from facility, case and preparation effects; preserve uncertainty about future output.",
+      "effect_on_play_or_authoring": "Breeders and fitters receive credit for different real contributions.",
+      "current_ref": "W20.CH.SELECTION",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.14",
+      "title": "Thirty foundation parts plus explicit later preparations",
+      "finding_type": "catalogue_coverage_gap",
+      "prior_refs": [
+        "W16.PREP.QUADWING",
+        "W18.PREP.CROSSPHASE",
+        "W18.PREP.RETURNLINK",
+        "W18.PREP.BRIDLE"
+      ],
+      "problem": "A thirty-item index alone can conceal the later complete-flight preparation requirements.",
+      "current_definition": "Keep the thirty founding entries and add four explicit preparation supplements, without counting them as new donor species.",
+      "effect_on_play_or_authoring": "A complete Flyer bill cannot lose yoke, support or flight-drive meaning.",
+      "current_ref": "W20.CH.PATTERNS",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.15",
+      "title": "A product declares continued use, not just sale acceptance",
+      "finding_type": "lifecycle_promise_gap",
+      "prior_refs": [
+        "W12.RECIPE.01",
+        "W17.AMEND.12"
+      ],
+      "problem": "A correct first delivery can leave normal rematching and support unclear.",
+      "current_definition": "State ordinary exchange support, replaceable boundaries, material requirements and separately quoted exceptions.",
+      "effect_on_play_or_authoring": "The buyer receives an approachable project and a legible next service route.",
+      "current_ref": "W20.CH.PATTERNS",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.16",
+      "title": "Repair demand is not manufactured to balance shops",
+      "finding_type": "economy_design_guardrail",
+      "prior_refs": [
+        "W15.LIVELIHOOD.06",
+        "W17.AMEND.10"
+      ],
+      "problem": "A service career could depend on compulsory damage after every race.",
+      "current_definition": "Demand follows actual use, change and care alongside new projects; matched cost/price review remains required.",
+      "effect_on_play_or_authoring": "Financial viability cannot be purchased by making the core racing loop deliberately irritating.",
+      "current_ref": "W20.CH.ECONOMY",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.17",
+      "title": "Positive margin and financing are independent",
+      "finding_type": "accounting_refinement",
+      "prior_refs": [
+        "W16.ECON.FITTING",
+        "W16.ECON.KITS",
+        "W17.AMEND.10"
+      ],
+      "problem": "A future fee can disguise insufficient cash before work begins.",
+      "current_definition": "Keep opening capital, receipt timing, actual outlays and paid operator work distinct; requote before extra commitment.",
+      "effect_on_play_or_authoring": "No invisible overdraft or retrospective reimbursement explains a successful commission.",
+      "current_ref": "W20.CH.ECONOMY",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.18",
+      "title": "Representation survives recovery without host duplication",
+      "finding_type": "charter_integration",
+      "prior_refs": [
+        "W19.CHARTER.ENTRY",
+        "W19.CHARTER.LADDER"
+      ],
+      "problem": "A damaged qualifying host can confuse the entrant’s earned rights with an in-meet host swap.",
+      "current_definition": "Retain separate entrant, host, build and seat; apply the published meeting boundary for refits/replacements.",
+      "effect_on_play_or_authoring": "A stable supports a campaign without turning purchased champions into purchased qualifications.",
+      "current_ref": "W20.CH.SPORT",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.19",
+      "title": "Physical collection remains meaningful after a changed function",
+      "finding_type": "identity_refinement",
+      "prior_refs": [
+        "W15.SYSTEM.IDENTITY",
+        "W19.HISTORY.LANTERNTHREAD"
+      ],
+      "problem": "Current race usefulness can become the only recognized reason to keep an object.",
+      "current_definition": "Define working spare, restored original, display, partial use and replica through actual identity and consent.",
+      "effect_on_play_or_authoring": "A finished personal project need not be sold or destroyed to justify its existence.",
+      "current_ref": "W20.CH.MEMORY",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    },
+    {
+      "id": "W20.AMEND.20",
+      "title": "The next milestone is experience evidence, not more nominal passes",
+      "finding_type": "evaluation_scope",
+      "prior_refs": [
+        "W15.SYSTEM.RETURN",
+        "W19.SCOPE.CULTURE"
+      ],
+      "problem": "Document counts and historical test totals can masquerade as validated quality.",
+      "current_definition": "Separate editorial integrity from later observed comprehension, meaningful choice, actual cost and voluntary reuse.",
+      "effect_on_play_or_authoring": "MIVIM effectiveness and quality claims remain bounded to evidence actually gathered.",
+      "current_ref": "W20.CH.HANDOFF",
+      "history_policy": "Earlier inputs/results remain unchanged. This interpretation replaces only the named scope."
+    }
+  ],
+  "decision_resolutions": [
+    {
+      "id": "W20.RESOLUTION.D01",
+      "historical_decision": "D01",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Current food/resource obligations and hobby-year dating",
+      "open": "Biosphere/recovery-history adoption and global chronology",
+      "reference_ids": [
+        "W19.SCOPE.RECOVERY",
+        "W20.CH.DECISIONS"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D02",
+      "historical_decision": "D02",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Hand-carried/bench-built working relation",
+      "open": "Absolute scale and dimensioned field/venue study",
+      "reference_ids": [
+        "W19.SCOPE.SCALE",
+        "W20.CH.DECISIONS"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D03",
+      "historical_decision": "D03",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Raw assimilation, root/support/supply/control and ordinary prepared exchange",
+      "open": "Absolute biological timing and deeper mechanism",
+      "reference_ids": [
+        "W14.ANATOMY.JOINS",
+        "W20.CH.RECOVERY"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D04",
+      "historical_decision": "D04",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Material classes, donor/component histories and thirty-four scoped service entries",
+      "open": "Numerical viability and unrestricted raw-removal outcomes",
+      "reference_ids": [
+        "W16.MATERIAL.01",
+        "W20.CH.RETURN"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D05",
+      "historical_decision": "D05",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Distinct reproductive units, acquired-graft separation, evidence and complementary projects",
+      "open": "Species-specific genetic distributions and prevalence",
+      "reference_ids": [
+        "W16.BIO.01",
+        "W20.CH.SELECTION"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D06",
+      "historical_decision": "D06",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Twenty source monographs plus supporting-organism definition",
+      "open": "Wider biosphere and unlisted source profiles",
+      "reference_ids": [
+        "W18.SUPPORT.BANKSEED",
+        "W20.CH.WORLD"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D07",
+      "historical_decision": "D07",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Causal condition, local failure, return, service, replacement, original material",
+      "open": "Global aging, fatality and rare-material regeneration",
+      "reference_ids": [
+        "W20.CH.RECOVERY",
+        "W20.CH.INCIDENT",
+        "W20.CH.DECISIONS"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D08",
+      "historical_decision": "D08",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Native competence and actual sensing/actuation boundaries",
+      "open": "Final live intervention and detailed learning model",
+      "reference_ids": [
+        "W14.ACTION.CONTROL",
+        "W20.CH.SPORT"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D09",
+      "historical_decision": "D09",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Default offline pause and shared in-world consequences",
+      "open": "Pacing, exact durations and optional offline policy",
+      "reference_ids": [
+        "W15.CARE.08",
+        "W20.CH.ECONOMY"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D10",
+      "historical_decision": "D10",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Real carriers, recipient purpose, custody and receiving principles",
+      "open": "Complete route times, communications and independent large-market budgets",
+      "reference_ids": [
+        "W17.AMEND.11",
+        "W20.CH.WORLD"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D11",
+      "historical_decision": "D11",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Regional entrant/host/build/seat charter and support proposal",
+      "open": "Wider signatories and final charter adoption",
+      "reference_ids": [
+        "W19.CHARTER.ENTRY",
+        "W20.CH.SPORT"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    },
+    {
+      "id": "W20.RESOLUTION.D12",
+      "historical_decision": "D12",
+      "historical_status_unchanged": true,
+      "current_state": "partially_developed_with_explicit_open_subquestions",
+      "developed": "Locomotion, equipment, completion and extraordinary-build distinctions",
+      "open": "Final dimensions, severe-event and capability thresholds",
+      "reference_ids": [
+        "W19.LAYERS",
+        "W20.CH.SPORT"
+      ],
+      "authority": "working interpretation; not a blanket closure of author decision"
+    }
+  ],
+  "prior_definition_routes": {
+    "D04": "reference/W19/RRR_World_Context_v0.19.json",
+    "W14.PART.FATBODY": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-fatbody",
+    "W17.AMEND.04": "reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-04",
+    "W19.CHARTER.LADDER": "reference/W19/RRR_Wave_19_Foundations.md#w19-charter-ladder",
+    "C07": "RRR_Wave_20_Author_Premises.md#c07",
+    "D09": "reference/W19/RRR_World_Context_v0.19.json",
+    "W18.PREP.BRIDLE": "reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-bridle",
+    "W14.PART.CATCHCLAWS": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-catchclaws",
+    "W15.BROOD.01": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-01",
+    "C16": "RRR_Wave_20_Author_Premises.md#c16",
+    "W16.MATERIAL.03": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-03",
+    "W14.ANATOMY.JOINS": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-anatomy-joins",
+    "W14.PART.NECTAR": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-nectar",
+    "W14.AMEND.A02": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a02",
+    "W14.SPORT.PROCEDURES": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-sport-procedures",
+    "C02": "RRR_Wave_20_Author_Premises.md#c02",
+    "W16.PREP.CLEATS": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-cleats",
+    "W16.PREP.LOCKSTEP": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-lockstep",
+    "W17.DONOR.MOLE": "reference/W19/reference/W18/reference/W17/RRR_Wave_17_Foundations.md#w17-donor-mole",
+    "W16.PREP.SPRINGKNEES": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-springknees",
+    "W16.PREP.BOILER": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-boiler",
+    "W14.AMEND.A06": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a06",
+    "W14.PART.BROWFOIL": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-browfoil",
+    "W15.LIVELIHOOD.06": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-livelihood-06",
+    "W18.KIT.COURTYARD": "reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-kit-courtyard",
+    "C06": "RRR_Wave_20_Author_Premises.md#c06",
+    "W14.ACTION.CONTROL": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-action-control",
+    "W19.HISTORY.RETURNEDHORN": "reference/W19/RRR_Wave_19_Foundations.md#w19-history-returnedhorn",
+    "W14.PART.LONGTHROW": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-longthrow",
+    "W19.SCOPE.RECOVERY": "reference/W19/RRR_Wave_19_Foundations.md#w19-scope-recovery",
+    "W16.BIO.03": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03",
+    "W19.REGION.CINDER": "reference/W19/RRR_Wave_19_Foundations.md#w19-region-cinder",
+    "W16.PREP.FELTBRAKE": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-feltbrake",
+    "W16.PREP.HOPPERS": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-hoppers",
+    "W14.PART.KEEL": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-keel",
+    "W16.PREP.RAM": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-ram",
+    "W16.PREP.COUNTERBRACES": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-counterbraces",
+    "W12.RECIPE.01": "reference/W19/RRR_World_Context_v0.19.json",
+    "W16.PREP.RAILSHOES": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-railshoes",
+    "W16.PREP.KEEL": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-keel",
+    "C11": "RRR_Wave_20_Author_Premises.md#c11",
+    "W19.CHARTER.ENTRY": "reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry",
+    "W19.REGION.TINWATER": "reference/W19/RRR_Wave_19_Foundations.md#w19-region-tinwater",
+    "W16.PREP.SPLITVANES": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-splitvanes",
+    "W14.AMEND.A03": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a03",
+    "W14.PART.RAILSHOES": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-railshoes",
+    "W14.PART.KICKBACK": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-kickback",
+    "D01": "reference/W19/RRR_World_Context_v0.19.json",
+    "W14.PART.GRIPSTRIP": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-gripstrip",
+    "W14.PART.SLEEVES": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-sleeves",
+    "W14.MAP.SETS": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-map-sets",
+    "W19.REGION.SALTGLASS": "reference/W19/RRR_Wave_19_Foundations.md#w19-region-saltglass",
+    "C09": "RRR_Wave_20_Author_Premises.md#c09",
+    "D12": "reference/W19/RRR_World_Context_v0.19.json",
+    "W14.AMEND.A04": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a04",
+    "W19.REGION.SPANREST": "reference/W19/RRR_Wave_19_Foundations.md#w19-region-spanrest",
+    "W14.PART.GUARDKNUCKLES": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-guardknuckles",
+    "W16.MATERIAL.01": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-01",
+    "C01": "RRR_Wave_20_Author_Premises.md#c01",
+    "D06": "reference/W19/RRR_World_Context_v0.19.json",
+    "W18.PREP.CROSSPHASE": "reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-crossphase",
+    "W18.SYSTEM.FLIGHT": "reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-system-flight",
+    "W16.MATERIAL.07": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-07",
+    "W19.PREMISE": "reference/W19/RRR_Wave_19_Foundations.md#w19-premise",
+    "W16.PREP.REDLINE": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-redline",
+    "W14.PART.FELTBRAKE": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-feltbrake",
+    "W14.PART.SPRINGKNEES": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-springknees",
+    "W16.PREP.LOWSTEP": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-lowstep",
+    "W16.PREP.QUADWING": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-quadwing",
+    "W16.PREP.TORQUE": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-torque",
+    "W16.PREP.GUARDKNUCKLES": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-guardknuckles",
+    "W14.PART.RAM": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-ram",
+    "W16.PREP.FLEXRAIL": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-flexrail",
+    "W16.PREP.CATCHCLAWS": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-catchclaws",
+    "W17.AMEND.11": "reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-11",
+    "W14.PART.LAMINATE": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-laminate",
+    "W19.PERSON.LEN": "reference/W19/RRR_Wave_19_Foundations.md#w19-person-len",
+    "W16.PREP.GRIPSTRIP": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-gripstrip",
+    "W19.SCOPE.CULTURE": "reference/W19/RRR_Wave_19_Foundations.md#w19-scope-culture",
+    "W14.PART.SPLITVANES": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-splitvanes",
+    "W15.SYSTEM.CUSTOMERS": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-customers",
+    "W19.REGION.BASIN": "reference/W19/RRR_Wave_19_Foundations.md#w19-region-basin",
+    "W19.SCOPE.SCALE": "reference/W19/RRR_Wave_19_Foundations.md#w19-scope-scale",
+    "W16.PREP.LONGWING": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-longwing",
+    "W15.SYSTEM.BENCH": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-bench",
+    "D08": "reference/W19/RRR_World_Context_v0.19.json",
+    "W14.PART.BOILER": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-boiler",
+    "W16.PREP.STICKTOE": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-sticktoe",
+    "W17.AMEND.01": "reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-01",
+    "C17": "RRR_Wave_20_Author_Premises.md#c17",
+    "W14.PART.LONGWING": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-longwing",
+    "W14.PART.FLEXRAIL": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-flexrail",
+    "D07": "reference/W19/RRR_World_Context_v0.19.json",
+    "W14.PART.BOXBRACE": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-boxbrace",
+    "W15.SYSTEM.RETURN": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-return",
+    "W15.LIVELIHOOD.04": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-livelihood-04",
+    "W18.SUPPORT.BANKSEED": "reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-support-bankseed",
+    "W18.PREP.RETURNLINK": "reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-returnlink",
+    "W17.AMEND.10": "reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-10",
+    "W16.PREP.KICKBACK": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-kickback",
+    "W14.PART.STICKTOE": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-sticktoe",
+    "W16.MATERIAL.08": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-08",
+    "D02": "reference/W19/RRR_World_Context_v0.19.json",
+    "W15.CARE.08": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-care-08",
+    "W15.SYSTEM.IDENTITY": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-identity",
+    "C03": "RRR_Wave_20_Author_Premises.md#c03",
+    "W15.BROOD.04": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-04",
+    "W15.FIELD.03": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-field-03",
+    "W14.PART.QUADWING": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-quadwing",
+    "W15.GRADES.02": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-grades-02",
+    "W15.SYSTEM.ENTRY": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-entry",
+    "C05": "RRR_Wave_20_Author_Premises.md#c05",
+    "C08": "RRR_Wave_20_Author_Premises.md#c08",
+    "W14.PART.TORQUE": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-torque",
+    "W19.HISTORY.LANTERNTHREAD": "reference/W19/RRR_Wave_19_Foundations.md#w19-history-lanternthread",
+    "W16.PREP.BROWFOIL": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-browfoil",
+    "W16.PREP.BOXBRACE": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-boxbrace",
+    "D11": "reference/W19/RRR_World_Context_v0.19.json",
+    "W19.SUPPORT.MEET": "reference/W19/RRR_Wave_19_Foundations.md#w19-support-meet",
+    "W14.PART.CLEATS": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-cleats",
+    "W14.PART.HOPPERS": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-hoppers",
+    "D10": "reference/W19/RRR_World_Context_v0.19.json",
+    "W16.MATERIAL.04": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-04",
+    "W16.PREP.FATBODY": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-fatbody",
+    "W14.PART.LOWSTEP": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-lowstep",
+    "W15.ENTRY.01": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-entry-01",
+    "W18.PREP.FLIGHTDRIVE": "reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-flightdrive",
+    "W16.PREP.LAMINATE": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-laminate",
+    "W19.LAYERS": "reference/W19/RRR_Wave_19_Foundations.md#w19-layers",
+    "W16.MATERIAL.06": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-06",
+    "W16.MATERIAL.09": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-09",
+    "W15.BENCH.03": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-bench-03",
+    "W16.PREP.SLEEVES": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-sleeves",
+    "C15": "RRR_Wave_20_Author_Premises.md#c15",
+    "W16.PREP.LONGTHROW": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-longthrow",
+    "W15.FIELD.05": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-field-05",
+    "W12.DEMAND.10": "reference/W19/RRR_World_Context_v0.19.json",
+    "D03": "reference/W19/RRR_World_Context_v0.19.json",
+    "W19.CITY.BENCH": "reference/W19/RRR_Wave_19_Foundations.md#w19-city-bench",
+    "C10": "RRR_Wave_20_Author_Premises.md#c10",
+    "W16.ECON.KITS": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-econ-kits",
+    "W14.PART.REDLINE": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-redline",
+    "W14.PART.COUNTERBRACES": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-counterbraces",
+    "W17.AMEND.09": "reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-09",
+    "W17.AMEND.12": "reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-12",
+    "W16.MATERIAL.15": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15",
+    "W16.ECON.FITTING": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-econ-fitting",
+    "W14.PART.GYROPODS": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-gyropods",
+    "W16.MATERIAL.11": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-11",
+    "W15.BROOD.08": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-08",
+    "W16.BIO.01": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-01",
+    "W14.PART.LOCKSTEP": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-lockstep",
+    "W15.SURPLUS.04": "reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-surplus-04",
+    "D05": "reference/W19/RRR_World_Context_v0.19.json",
+    "W16.PREP.NECTAR": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-nectar",
+    "W16.PREP.GYROPODS": "reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-gyropods",
+    "C04": "RRR_Wave_20_Author_Premises.md#c04",
+    "C12": "RRR_Wave_20_Author_Premises.md#c12",
+    "C13": "RRR_Wave_20_Author_Premises.md#c13",
+    "C14": "RRR_Wave_20_Author_Premises.md#c14",
+    "C18": "RRR_Wave_20_Author_Premises.md#c18",
+    "C19": "RRR_Wave_20_Author_Premises.md#c19"
+  },
+  "historical_record": "reference/W19/RRR_World_Context_v0.19.json",
+  "latest_complete_cumulative": "RRR_World_Context_v0.20.json"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "pass",
+  "scope": "Document integrity and declared relationships; no game, physical, biological, economic or human experiment.",
+  "current_records": 115,
+  "current_sources": 10,
+  "current_local_links_checked": 376,
+  "previous_files_preserved_byte_for_byte": 72,
+  "previous_wave_records_preserved": 17,
+  "source_monographs_reindexed": 20,
+  "settlements_connected_by_declared_routes": 6,
+  "editorial_cases_written_not_executed_game_tests": 18,
+  "failure_count": 0,
+  "failures": []
+}

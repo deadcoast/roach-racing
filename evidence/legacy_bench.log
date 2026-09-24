@@ -1,0 +1,5 @@
+$ node tests/bench_regression.cjs
+{"passed":63,"failed":0}
+
+
+EXIT 0

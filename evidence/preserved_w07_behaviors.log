@@ -1,0 +1,120 @@
+$ node tests/world_parts.cjs
+PASS Opening history, H-6 and drive identities retained
+PASS Ten named donor forms and sixteen products have sources
+PASS Eight distinct menu component roles have swappable preparations
+PASS Shop opening assets are not owned by player
+PASS Targeted field form: hopper
+PASS Targeted field form: cicada
+PASS Targeted field form: scarab
+PASS Targeted field form: mole
+PASS Targeted field form: stick
+PASS Targeted field form: wax
+PASS Targeted field form: fly
+PASS Targeted field form: mantis
+PASS Targeted field form: horn
+PASS Targeted field form: moth
+PASS Observation does not expose hidden genes or alter them
+PASS Same public evidence gives same ordinary quote
+PASS Local route stock does not reroll by same-epoch revisit
+PASS Prepared product retains donor and updates tissue: hoppers
+PASS Prepared product retains donor and updates tissue: springknees
+PASS Prepared product retains donor and updates tissue: redline
+PASS Prepared product retains donor and updates tissue: torque
+PASS Prepared product retains donor and updates tissue: boxbrace
+PASS Prepared product retains donor and updates tissue: lowstep
+PASS Prepared product retains donor and updates tissue: cleats
+PASS Prepared product retains donor and updates tissue: sticktoe
+PASS Prepared product retains donor and updates tissue: fatbody
+PASS Prepared product retains donor and updates tissue: keel
+PASS Prepared product retains donor and updates tissue: gyropods
+PASS Prepared product retains donor and updates tissue: catchclaws
+PASS Prepared product retains donor and updates tissue: counterbraces
+PASS Prepared product retains donor and updates tissue: bullhorn
+PASS Prepared product retains donor and updates tissue: browfoil
+PASS Prepared product retains donor and updates tissue: splitvanes
+PASS Whole Hopper and Springknees cannot extract the same pair twice
+PASS Mantis offense and brace are alternative forelimb preparations
+PASS A scarab supplies distinct drive and support within remains window
+PASS Unprepared vital remains cannot be harvested indefinitely
+PASS Mole hip assembly and toe set are separate physical sources
+PASS Waxmoth energy and rebound preparations cannot duplicate fatbody
+PASS Preparation that would miss a molt window rolls back as a whole
+PASS Retained waxmoth becomes pupa then a reproductive adult
+PASS Protected founder cannot be prepared
+PASS Supported body cannot be sold as intact ordinary stock
+PASS Species-specific breeding stages preserve ancestry: hopper
+PASS Species-specific breeding stages preserve ancestry: cicada
+PASS Species-specific breeding stages preserve ancestry: scarab
+PASS Species-specific breeding stages preserve ancestry: mole
+PASS Species-specific breeding stages preserve ancestry: stick
+PASS Species-specific breeding stages preserve ancestry: wax
+PASS Species-specific breeding stages preserve ancestry: fly
+PASS Species-specific breeding stages preserve ancestry: mantis
+PASS Species-specific breeding stages preserve ancestry: horn
+PASS Species-specific breeding stages preserve ancestry: moth
+PASS Missing specialized nursery blocks brood without charging money
+PASS Different species graft compatibility is not reproductive compatibility
+PASS Same-role pair rejected
+PASS Existing six-place nursery cannot hide a second reserved brood
+PASS Split world advancement yields the same cohorts and cash
+PASS Larval brood has a useful preparation window before adult replacement
+PASS Selected plant is not paid for by buying a tank
+PASS Live purchase transfers one identity, measured state and protection
+PASS Prepared purchase transfers one physical component, never creates a duplicate
+PASS Conversion kit must be unpacked before its parts fit
+PASS Unpacking twice cannot duplicate inventory
+PASS Hopper kit energy and damper tissue come from different donors
+PASS Purchased kits contain no host and no automatic assembly
+PASS Bulk resale of a retail purchase is not an arbitrage profit
+PASS Accepting a funded order reserves money without paying seller
+PASS Two supported contracts can exhaust the common buyer budget
+PASS Cancelling releases remaining funds to buyer, not producer
+PASS Donor-derived qualifying stock earns actual accepted-order payment
+PASS Duplicate delivery command replays the first receipt only
+PASS Transaction key cannot be reused for different content
+PASS Duplicate part ids cannot fulfill two contracted units
+PASS Quality mismatch is not waived for the right product label
+PASS Part installed on racer cannot be sold to a contract
+PASS Cancellation after partial delivery refunds only the unearned balance
+PASS Deadline is inclusive; next turn expires unfilled commitment
+PASS Renewal does not regenerate purchased shop specimens
+PASS Shop purchases do not have an additional kit stat multiplier
+PASS New interchangeable sect fits and compiles: boxbrace
+PASS New interchangeable sect fits and compiles: lowstep
+PASS New interchangeable sect fits and compiles: gyropods
+PASS New interchangeable sect fits and compiles: counterbraces
+PASS New interchangeable sect fits and compiles: springknees
+PASS New interchangeable sect fits and compiles: keel
+PASS New interchangeable sect fits and compiles: fatbody
+PASS New interchangeable sect fits and compiles: cleats
+PASS New interchangeable sect fits and compiles: sticktoe
+PASS New interchangeable sect fits and compiles: splitvanes
+PASS Springknees and whole Hopper cannot reuse native hind interface
+PASS Selected contact stock improves on ordinary native contact rather than inheriting impossible instant release
+PASS Frame increases structural lateral capacity through a source part
+PASS Prepared gears multiply fine setting but do not change muscle cadence
+PASS Mantis brace support is not prohibited grasp capability
+PASS Cicada efficiency is inherited into real compiled entry
+PASS Foot release and surface-specific purchase compile separately
+PASS Horn yaw still projects reach after donor traits are applied
+PASS Two physical fatbodies in complete hopper conversion set compile independently
+PASS Saved-world round trip preserves shop custody, genes and money
+PASS Save cannot silently alter prepared mass or stats
+PASS Save cannot duplicate prepared tissue on a donor
+PASS Save rejects mismatched escrow
+PASS Negative or superunit damping rejected by race model
+PASS Race entry consumes exact frozen stock and replay does not change world
+PASS Pending race blocks purchase and preparation until completion
+PASS Controlled reference completes the chosen course
+PASS Better efficiency reduces energy use under nonbinding delivery
+PASS Faster foot release improves the controlled circuit result
+PASS Structural frame allowance affects cornering rather than adding power
+PASS Damper reduces post-seam settling without replacing spring input
+PASS Landing joints change recovery on actual seam sections
+PASS Ordinary vs cleated purchase changes loose-surface motion
+PASS Gear ratio changes output distribution, not a free multiplier
+PASS Air resistance raises demand / slows motion with hold-down fixed
+{"passed":115,"failed":0}
+
+
+EXIT 0

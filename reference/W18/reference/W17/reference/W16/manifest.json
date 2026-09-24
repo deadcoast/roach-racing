@@ -1,0 +1,214 @@
+{
+  "edition": "0.16.0",
+  "hash_algorithm": "sha256",
+  "excludes": [
+    "manifest.json"
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "size": 1835,
+      "sha256": "fa99844099aa3274c52790c751e262cd1551c02be8e4c309368955a6805363bb"
+    },
+    {
+      "path": "RRR_Compendium_Map_v0.16.md",
+      "size": 3373,
+      "sha256": "793df167a663af11ff599bd54b0e32db38737bd0fdbb76c8e90badf33b62509e"
+    },
+    {
+      "path": "RRR_MIVIM_Review_v0.16.md",
+      "size": 3192,
+      "sha256": "d7be07acd1b85031b22773d60c3dc3083767d8bef9a57c0cc7cc6b168822da0e"
+    },
+    {
+      "path": "RRR_Wave_16.spec",
+      "size": 210776,
+      "sha256": "06d85f219ddfd3b6a75d41c68db54255f2f2c8b998ac476a1c68daae7387797d"
+    },
+    {
+      "path": "RRR_Wave_16_Amendments.md",
+      "size": 5396,
+      "sha256": "efc4f1a5214b22def9b6758e81601b62d3195062e42fc6c1dd242eeea52dbabd"
+    },
+    {
+      "path": "RRR_Wave_16_Foundations.md",
+      "size": 156900,
+      "sha256": "0bfd502230e5eac903f1989636085ac5337103fe9581d1a67604eb3a431a0e7e"
+    },
+    {
+      "path": "RRR_Wave_16_Livelihood_Sheets.md",
+      "size": 18076,
+      "sha256": "9c7ed37442deec9783e5ae1d20adaa0e1fabe4ead075d1abb3e896fdc1e0dc0b"
+    },
+    {
+      "path": "RRR_Wave_16_Material_Register.md",
+      "size": 20895,
+      "sha256": "7729c149a4b2ba107e1b746381f556f09d774a80700045e70d416a73a17ebdc5"
+    },
+    {
+      "path": "RRR_Wave_16_Research.md",
+      "size": 14238,
+      "sha256": "485af4aa34a619602e6fcfb3fbb19fa09192572f353d98f04ea26eb052893e85"
+    },
+    {
+      "path": "RRR_Wave_16_TODO.md",
+      "size": 4566,
+      "sha256": "eeb4b252ce6bbe7e2d60ffb106f6020fc2eaf58efb418ddee4b063c7691afa9c"
+    },
+    {
+      "path": "RRR_World_Context_v0.16.json",
+      "size": 1563360,
+      "sha256": "01248c6070611f475939681906a0196234626f286b12ff437c5d36b8b28ab442"
+    },
+    {
+      "path": "evidence/editorial_review.json",
+      "size": 9635,
+      "sha256": "6e32f4583e08e1c085892f0186651f21d9608e0dc4746e3fb8d85a942f3aa301"
+    },
+    {
+      "path": "reference/W15/README.md",
+      "size": 1889,
+      "sha256": "3ae91be52d6bd0f445a9c3388139da4c0add4328fcd8b5a078c0c6169042b4ea"
+    },
+    {
+      "path": "reference/W15/RRR_Compendium_Map_v0.15.md",
+      "size": 4806,
+      "sha256": "59fc22fea5ac24714d4781b79f4887d1de51938c7995297c21e3a4f76c4a62b6"
+    },
+    {
+      "path": "reference/W15/RRR_MIVIM_Review_v0.15.md",
+      "size": 3133,
+      "sha256": "63610259b57b7a6a86a0dd1611a97df5d3ec1e1d611b8c46142e57e38a9df0eb"
+    },
+    {
+      "path": "reference/W15/RRR_Wave_15.spec",
+      "size": 203565,
+      "sha256": "46e197363c7cf9f5fa8c15f8d93a53eaa9d8d94fa4837daa4503dad3aa7da292"
+    },
+    {
+      "path": "reference/W15/RRR_Wave_15_Foundations.md",
+      "size": 141234,
+      "sha256": "ca4bd4163054039e791ca8b715075b18baa60e78847302dcbe3ae86f1630eb32"
+    },
+    {
+      "path": "reference/W15/RRR_Wave_15_Research.md",
+      "size": 15305,
+      "sha256": "a04cebf7b9413d10187f1d73cc9444bdd164d86475b5f114b3f91355b29c28cb"
+    },
+    {
+      "path": "reference/W15/RRR_Wave_15_Review_Matrix.md",
+      "size": 30348,
+      "sha256": "e1742a48467b8213aecd06e3fe62013408b1294294ed1de42f8c9fa38c88e31b"
+    },
+    {
+      "path": "reference/W15/RRR_Wave_15_TODO.md",
+      "size": 4844,
+      "sha256": "2de34415c42296de356f05af4cdf4e5af849d4fdcee6af93c2847c03f5a1f523"
+    },
+    {
+      "path": "reference/W15/RRR_World_Context_v0.15.json",
+      "size": 1338470,
+      "sha256": "ce2fb62c51c38a1c48987b275084d8c4ef6962cf760ecab31f45f52dddcd4823"
+    },
+    {
+      "path": "reference/W15/evidence/editorial_review.json",
+      "size": 8238,
+      "sha256": "119f4354cc7ff870d06fe12b9d68e7c232fb209f5eba0e20a716505a1eb941f8"
+    },
+    {
+      "path": "reference/W15/manifest.json",
+      "size": 3199,
+      "sha256": "013b52e614f392481f22445997d36158972776d0955604aaeaf31ac1047c0cbf"
+    },
+    {
+      "path": "reference/W15/reference/RAD_ROACH_RACING_Handbook_v0.1.md",
+      "size": 44954,
+      "sha256": "452046b507eddb7bae19ebc9cb847bb38926ddc6d46de359bc9a34d6b53564c3"
+    },
+    {
+      "path": "reference/W15/reference/RAD_ROACH_RACING_Handbook_v0.2.md",
+      "size": 35154,
+      "sha256": "c76d380a202b49461b31b7ea6200b87802d23f5b6e26bc703bec1a6be94fff50"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Agent_Reference_Dossier_v0.1.md",
+      "size": 33597,
+      "sha256": "620c0bdefc227657953bff3fd191fb9e00633d10ef1c91735441c3eeb4129216"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Compendium_Map_v0.14.md",
+      "size": 13117,
+      "sha256": "86030673744c6002ddfed05221261559dce69d865c8ac137436af38118fb5e39"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_02_Foundations.md",
+      "size": 93029,
+      "sha256": "693a4bdb0817ffa237003c59307558d2f9eb5a386fdfe768383ee1c459393881"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_03_Foundations.md",
+      "size": 48618,
+      "sha256": "7bb1779fe1448eb9299054046e5a19ef46412e6ddf20b68cb0e6ed069cd8da24"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_04_Foundations.md",
+      "size": 41423,
+      "sha256": "2adbfe7dc8640dab54e32d87b3a2e486d0fef161b693289ab35007f01a7c22ff"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_05_Foundations.md",
+      "size": 30821,
+      "sha256": "7a2f1a04efb4b82959ca6bdf49f6bac1f30a01e14ee5db4255c03fdd62f429f7"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_06_Foundations.md",
+      "size": 31937,
+      "sha256": "b0487caf222c2feada2ba1cddd6a7cc57d1625b848070933fa72034a06c53866"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_07_Foundations.md",
+      "size": 50141,
+      "sha256": "d4d8c2702e8458615e721982441b9c7916997d218d36f00fd4095871fd15307d"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_08_Foundations.md",
+      "size": 37302,
+      "sha256": "cbd4e2841abcac00fbf362f7c06c83fa3a11d86e1cf46ffcc12c9c524a8b65ee"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_09_Foundations.md",
+      "size": 30308,
+      "sha256": "5948248d1dca3daa35e82525d2663c7b08c46f46b0d2a63e3f51b82f5f7f99aa"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_11_Foundations.md",
+      "size": 25441,
+      "sha256": "ceaaf123bc2a641dd96a79d1057311e98f6a52f6f09efa3b36cf5b341c55d3de"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_12_Foundations.md",
+      "size": 36860,
+      "sha256": "fdf9c1000de0606768361109b139ce84c992a7e36fe484e9252b59ee982e3bc0"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_13_Foundations.md",
+      "size": 31879,
+      "sha256": "9c76567c37149bb254ef38399dad305c563da241265428a055cc2563d183ee3c"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_14.spec",
+      "size": 212275,
+      "sha256": "cfacc4fbde598c1bd249ed2818b679aafb37e0af57fac40a10c1e6ee695792e5"
+    },
+    {
+      "path": "reference/W15/reference/RRR_Wave_14_Foundations.md",
+      "size": 167915,
+      "sha256": "bc4eeb98cdc89b0d8dc642e719174112d54ef1a02ea193c7be1566a87eedf8d0"
+    },
+    {
+      "path": "reference/W15/reference/RRR_World_Context_v0.14.json",
+      "size": 1120816,
+      "sha256": "40ac3a4cfba141db50d105dc9ae99eaf922590ae85a1abc37bb8df6c3461d795"
+    }
+  ]
+}

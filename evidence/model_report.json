@@ -1,0 +1,261 @@
+{
+  "scope": "W05 bounded model and transactions; no player-experience or economy certification",
+  "tests": [
+    {
+      "name": "H-6 original donor and measurements preserved",
+      "status": "passed"
+    },
+    {
+      "name": "Purchased UPGRADE-DRIVE begins loose",
+      "status": "passed"
+    },
+    {
+      "name": "Initial inherited H-6 already installed",
+      "status": "passed"
+    },
+    {
+      "name": "Placing does not mutate caller",
+      "status": "passed"
+    },
+    {
+      "name": "Draft addition leaves custody unchanged",
+      "status": "passed"
+    },
+    {
+      "name": "Commit transfers part into host exactly once",
+      "status": "passed"
+    },
+    {
+      "name": "Repeated identical commit is idempotent",
+      "status": "passed"
+    },
+    {
+      "name": "Repeated placement repositions rather than duplicating",
+      "status": "passed"
+    },
+    {
+      "name": "Native drive held in cradle when substituted",
+      "status": "passed"
+    },
+    {
+      "name": "Returning prepared drive restores retained native unit",
+      "status": "passed"
+    },
+    {
+      "name": "Whole hopper is one physical item despite three roles",
+      "status": "passed"
+    },
+    {
+      "name": "No draft purchase performance bonus",
+      "status": "passed"
+    },
+    {
+      "name": "Installed purchased drive alters output",
+      "status": "passed"
+    },
+    {
+      "name": "Both drive options cannot occupy this starter interface",
+      "status": "passed"
+    },
+    {
+      "name": "Out-of-support draft previews but cannot commit",
+      "status": "passed"
+    },
+    {
+      "name": "Failed fit does not modify prior installation",
+      "status": "passed"
+    },
+    {
+      "name": "Horn and split vanes coexist",
+      "status": "passed"
+    },
+    {
+      "name": "Root clash detected in same anatomical layer",
+      "status": "passed"
+    },
+    {
+      "name": "Internal and exterior separate layers can align",
+      "status": "passed"
+    },
+    {
+      "name": "Unknown physical stock refused",
+      "status": "passed"
+    },
+    {
+      "name": "Prototype-key inventory injection refused",
+      "status": "passed"
+    },
+    {
+      "name": "Duplicate component payload refused",
+      "status": "passed"
+    },
+    {
+      "name": "Nonfinite mounting refused",
+      "status": "passed"
+    },
+    {
+      "name": "Nonfinite tuning refused",
+      "status": "passed"
+    },
+    {
+      "name": "Unknown tuning bonus refused",
+      "status": "passed"
+    },
+    {
+      "name": "Preload obeys local assembly capacity",
+      "status": "passed"
+    },
+    {
+      "name": "Rotation bounded and not genetic",
+      "status": "passed"
+    },
+    {
+      "name": "Horn forward root changes projected reach",
+      "status": "passed"
+    },
+    {
+      "name": "Horn yaw changes projection and lateral contact",
+      "status": "passed"
+    },
+    {
+      "name": "Claw fit changes closure latency not donor ID",
+      "status": "passed"
+    },
+    {
+      "name": "Reserve fill changes available energy and entry mass",
+      "status": "passed"
+    },
+    {
+      "name": "Foot set affects contact not muscle potential",
+      "status": "passed"
+    },
+    {
+      "name": "Vanes feed explicit aero term, not speed bonus",
+      "status": "passed"
+    },
+    {
+      "name": "Cosmetics do not alter mechanical variables",
+      "status": "passed"
+    },
+    {
+      "name": "Compiled snapshot isolated from draft mutation",
+      "status": "passed"
+    },
+    {
+      "name": "Race entry refuses uncommitted differences",
+      "status": "passed"
+    },
+    {
+      "name": "Speedsters rejects weapons despite peaceful policy",
+      "status": "passed"
+    },
+    {
+      "name": "Speedsters permits native contact-capable racer",
+      "status": "passed"
+    },
+    {
+      "name": "Fireworks requires actual offensive assembly",
+      "status": "passed"
+    },
+    {
+      "name": "Fireworks gives rival an eligible offensive build",
+      "status": "passed"
+    },
+    {
+      "name": "Open keeps assembled combinations legal",
+      "status": "passed"
+    },
+    {
+      "name": "Unsupported flying event is not silently a ground event",
+      "status": "passed"
+    },
+    {
+      "name": "Recipe export imports only existing identified stock",
+      "status": "passed"
+    },
+    {
+      "name": "Recipe import does not create result or money",
+      "status": "passed"
+    },
+    {
+      "name": "Imported arbitrary performance rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Wrong host recipe rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Oversized recipe rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Session validation round trip",
+      "status": "passed"
+    },
+    {
+      "name": "Corrupted installed session rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Session extra authority fields cannot create ownership",
+      "status": "passed"
+    },
+    {
+      "name": "Invalid stored history rejected",
+      "status": "passed"
+    },
+    {
+      "name": "Course layout changes when geometry changes",
+      "status": "passed"
+    },
+    {
+      "name": "Surface change has separate record identity",
+      "status": "passed"
+    },
+    {
+      "name": "Disconnected track cannot race",
+      "status": "passed"
+    },
+    {
+      "name": "Duplicate host cannot enter twice",
+      "status": "passed"
+    },
+    {
+      "name": "One physical component cannot enter on two hosts",
+      "status": "passed"
+    },
+    {
+      "name": "Fresh race starts from current committed identities",
+      "status": "passed"
+    },
+    {
+      "name": "Drive-only matched comparison improves this fixture",
+      "status": "passed"
+    },
+    {
+      "name": "Race consumes no more than starting reserve",
+      "status": "passed"
+    },
+    {
+      "name": "Every finish has the complete gate sequence",
+      "status": "passed"
+    },
+    {
+      "name": "Changing input after entry leaves race snapshot unchanged",
+      "status": "passed"
+    },
+    {
+      "name": "Cosmetic change leaves complete race time unchanged",
+      "status": "passed"
+    },
+    {
+      "name": "Repeated run is deterministic",
+      "status": "passed"
+    }
+  ],
+  "summary": {
+    "passed": 63,
+    "failed": 0
+  }
+}

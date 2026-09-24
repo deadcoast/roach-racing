@@ -1,0 +1,1988 @@
+{
+  "manifest": {
+    "title": "RRR Agent World Context Pack",
+    "version": "0.1",
+    "created_on": "2026-09-09",
+    "relationship_to_handbook": "Supplement to Foundation v0.2; does not overwrite it or promote all proposals to canon.",
+    "purpose": "Reference evidence, generative world context, provenance, linked seed content and explicit unknowns.",
+    "calibration": "No biological graft viability, gameplay balance, economic parameters or race simulation has been validated.",
+    "real_vs_fiction": "External sources describe the source hobby or observed animals. All RRR mechanisms and new named records are fiction.",
+    "authority_order": [
+      "author_canon",
+      "working_proposal",
+      "new_proposal"
+    ],
+    "separate_evidence_layer": "reference_fact records inform design but never outrank author_canon.",
+    "claim_truth_is_independent_of_canon_status": true,
+    "unknown_policy": "Use null with a reason; do not interpret unspecified as zero, false or forbidden.",
+    "reference_files": {
+      "v0.2": "RAD_ROACH_RACING_Handbook_v0.2.md"
+    }
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Like a Dragon Gaiden — Adventure: Pocket Circuit",
+      "publisher": "SEGA",
+      "url": "https://ryu-ga-gotoku.com/gaiden/asia_en/adventure/",
+      "retrieved_on": "2026-09-09",
+      "locator": "Pocket Circuit section",
+      "evidence_scope": "CourStar venue, coordinator, acquisition, Time Attack, Rival mode",
+      "limitations": "Version-specific; not a complete catalogue or evidence of every PCR installment."
+    },
+    {
+      "id": "S02",
+      "title": "Mini 4WD Setup Guide",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/english/mini4wd/setupguide/setupguide.htm",
+      "retrieved_on": "2026-09-09",
+      "locator": "Assembly, motors, gears, tires, handling sections",
+      "evidence_scope": "Physical model-car assembly and component functions",
+      "limitations": "Wheel and wall-guidance behavior must not be transplanted literally into walking insects."
+    },
+    {
+      "id": "S03",
+      "title": "Company History",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/english/company/history.html",
+      "retrieved_on": "2026-09-09",
+      "locator": "July 1982; December 1995",
+      "evidence_scope": "Product chronology and cumulative unit-sales milestone",
+      "limitations": "Not present market revenue, current participation, or a psychological study."
+    },
+    {
+      "id": "S04",
+      "title": "Mini 4WD Starter Pack FM-A Balanced Spec (Rowdy Bull), item 18710",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/english/products/18710/index.html",
+      "retrieved_on": "2026-09-09",
+      "locator": "Balance is the Key; kit description",
+      "evidence_scope": "Assembly kit bundled with selected upgrades",
+      "limitations": "One documented kit; not a universal bill of materials."
+    },
+    {
+      "id": "S05",
+      "title": "Mini 4WD Station shop directory",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/japan/mini4wd/mini4wdstation",
+      "retrieved_on": "2026-09-09",
+      "locator": "Directory and facility tags",
+      "evidence_scope": "Retail and course-hosting network",
+      "limitations": "Directory snapshot, not a census of all hobby venues."
+    },
+    {
+      "id": "S06",
+      "title": "Mini 4WD race and event organizer information",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/japan/mini4wd/localevents",
+      "retrieved_on": "2026-09-09",
+      "locator": "Circuit loans, layout plans, organizer manuals, promotion",
+      "evidence_scope": "Support infrastructure for local and temporary events",
+      "limitations": "Services and conditions may change; RRR institutions below are invented."
+    },
+    {
+      "id": "S07",
+      "title": "Official Mini 4WD Race Regulations",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/english/mini4wd/regulation.htm",
+      "retrieved_on": "2026-09-09",
+      "locator": "Machines; courses; starts; inspection; classification; objections",
+      "evidence_scope": "Official physical-car rules",
+      "limitations": "Manufacturer-specific restrictions are not RRR canon; event exceptions exist."
+    },
+    {
+      "id": "S08",
+      "title": "Mini 4WD Japan Cup 2026 general information",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/japan/mini4wd/japancup.html",
+      "retrieved_on": "2026-09-09",
+      "locator": "Course announcement; championship final; concours",
+      "evidence_scope": "National event structure, public course reveal, appearance competition",
+      "limitations": "Current season snapshot; shop events are not automatically Japan Cup qualifiers."
+    },
+    {
+      "id": "S09",
+      "title": "Tamiya Official Mini 4WD Guide 2026–2027, item 63809",
+      "publisher": "Tamiya / ONE PUBLISHING",
+      "url": "https://www.tamiya.com/japan/products/63809/index.html",
+      "retrieved_on": "2026-09-09",
+      "locator": "Published table of contents",
+      "evidence_scope": "Catalogue, techniques, event information and champion galleries in one publication",
+      "limitations": "Only the public description and contents were inspected, not the full book."
+    },
+    {
+      "id": "S10",
+      "title": "Definitions of standard, special-sale, special-project and limited products",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/japan/products/definition/index.html",
+      "retrieved_on": "2026-09-09",
+      "locator": "Product classification definitions",
+      "evidence_scope": "Different production and availability categories",
+      "limitations": "Company definitions, not a universal economic law."
+    },
+    {
+      "id": "S11",
+      "title": "Japan Cup Junior Circuit layout ideas",
+      "publisher": "Tamiya",
+      "url": "https://d7z22c0gz59ng.cloudfront.net/cms/japan/mini4wd/regulation_rental/circuit_idea.pdf",
+      "retrieved_on": "2026-09-09",
+      "locator": "Single-page illustrated layout sheet; visually inspected",
+      "evidence_scope": "Piece inventories, layouts, footprints, driving distances and historical recreations",
+      "limitations": "Driving distance is not necessarily single-lap distance; no source images redistributed."
+    },
+    {
+      "id": "S12",
+      "title": "Mini 4WD official Japanese hub",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/japan/mini4wd/index.html",
+      "retrieved_on": "2026-09-09",
+      "locator": "Product categories, concours, builder interviews and media",
+      "evidence_scope": "Product families and parallel appearance/showcase culture",
+      "limitations": "Editorial promotion establishes available activities, not their population shares."
+    },
+    {
+      "id": "S13",
+      "title": "Interacting Gears Synchronize Propulsive Leg Movements in a Jumping Insect",
+      "publisher": "Malcolm Burrows and Gregory Sutton; Science 341 (2013), 1254–1256",
+      "url": "https://research-information.bris.ac.uk/ws/files/72272889/Burrows_and_Sutton_Accepted_Mansucript.pdf",
+      "retrieved_on": "2026-09-09",
+      "locator": "Accepted manuscript pp. 2–5 and Figure 1; figure inspected",
+      "evidence_scope": "Issus nymphal gears, synchronization, loss at adult molt",
+      "limitations": "Actual animal mechanism only; does not establish graft viability, variable gearing or RRR performance."
+    },
+    {
+      "id": "S14",
+      "title": "Mini 4WD official race participation guide",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/japan/mini4wd/event/mini4wd_gp_guide/guide.html",
+      "retrieved_on": "2026-09-09",
+      "locator": "Class and entry table",
+      "evidence_scope": "Family, Junior, Open and Trial participation arrangements",
+      "limitations": "Tamiya Open is not synonymous with unrestricted equipment."
+    },
+    {
+      "id": "S15",
+      "title": "Mini 4WD Station Challenge fifth-round example event",
+      "publisher": "Tamiya",
+      "url": "https://www.tamiya.com/japan/event/m4stc2026_5th_0909_001",
+      "retrieved_on": "2026-09-09",
+      "locator": "Dash and Tune class event conditions",
+      "evidence_scope": "Local shop event and event-specific eligibility rules",
+      "limitations": "One event snapshot; not a universal qualification ladder."
+    }
+  ],
+  "author_canon": [
+    {
+      "id": "C01",
+      "status": "author_canon",
+      "statement": "RRR is a post-apocalyptic nuclear-wasteland hobby and racing world.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C02",
+      "status": "author_canon",
+      "statement": "Rad roaches assimilate parts from other insects; the biological premise is fictional.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C03",
+      "status": "author_canon",
+      "statement": "The founding rivalry escalates from beetle horn to mantis pincers to grasshopper jumping legs, with the jumper winning the race.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C04",
+      "status": "author_canon",
+      "statement": "The mature circuit setting is thirty years after the founding-rivalry era.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C05",
+      "status": "author_canon",
+      "statement": "Locals lead to Regionals, then Factionals, then faction representation in New World City for the What’s Left of the World Derby.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C06",
+      "status": "author_canon",
+      "statement": "Open is the most famous competitive class and embraces no-holds-barred builds; entry to the world championship still requires qualification.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C07",
+      "status": "author_canon",
+      "statement": "Flyers race with flyers.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C08",
+      "status": "author_canon",
+      "statement": "The All-Out Offensive circuit requires a minimum offensive build and light carapace.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C09",
+      "status": "author_canon",
+      "statement": "Speedsters prohibit weapon modules, while native violence and contact can occur.",
+      "source_anchor": "initial_concept"
+    },
+    {
+      "id": "C10",
+      "status": "author_canon",
+      "statement": "The world mirrors PCR’s build-and-race hobby, with its own execution and identity in the sense of Mutant League’s relationship to conventional sport.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C11",
+      "status": "author_canon",
+      "statement": "Speed, race victories, desirable upgrades, collecting, personal assembly and showing off are legitimate central pleasures.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C12",
+      "status": "author_canon",
+      "statement": "A Wrangloid is a successful insect-catching and breeding hobbyist who turns that success into a livelihood.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C13",
+      "status": "author_canon",
+      "statement": "Wrangloid shops resemble fish stores, with whole living insects varying in rarity, quality and price.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C14",
+      "status": "author_canon",
+      "statement": "Anyone may search for, catch and breed insects. Expertise and discovery matter; this is not a profession-exclusive permission.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C15",
+      "status": "author_canon",
+      "statement": "RRR is a large sandbox with accessible participation and optional depth for advanced users.",
+      "source_anchor": "framing_correction"
+    },
+    {
+      "id": "C16",
+      "status": "author_canon",
+      "statement": "Racing remains racing; the user did not specify last-roach-standing races.",
+      "source_anchor": "framing_correction"
+    }
+  ],
+  "working_proposals": [
+    {
+      "id": "W01",
+      "status": "working_proposal",
+      "statement": "A native host is functional before modification; whole assemblies can satisfy several racing functions.",
+      "source": "handbook_v0.2",
+      "locator": "Sections 7–8"
+    },
+    {
+      "id": "W02",
+      "status": "working_proposal",
+      "statement": "Installed grafts are not automatically copied into offspring.",
+      "source": "handbook_v0.2",
+      "locator": "Section 5; not independently author-confirmed"
+    },
+    {
+      "id": "W03",
+      "status": "working_proposal",
+      "statement": "Physical extraction updates the donor’s anatomy; vital-organ preparation consumes the donor.",
+      "source": "handbook_v0.2",
+      "locator": "Section 5"
+    },
+    {
+      "id": "W04",
+      "status": "working_proposal",
+      "statement": "The racing hobby uses portable creatures, transport cases and bench assembly; exact scale is unset.",
+      "source": "handbook_v0.2",
+      "locator": "Section 2"
+    },
+    {
+      "id": "W05",
+      "status": "working_proposal",
+      "statement": "Switchyard hoppers, Kilnback scarabs, Saltglass mantises, Gutterbred hosts and named starter kits are candidate world content.",
+      "source": "handbook_v0.2",
+      "locator": "Sections 3–4 and 7–11"
+    }
+  ],
+  "reference_facts": [
+    {
+      "id": "R01",
+      "source_ids": [
+        "S01"
+      ],
+      "status": "reference_fact",
+      "statement": "Gaiden places Pocket Circuit in CourStar, with a coordinator, parts acquisition, Time Attack and Rival modes.",
+      "translation_insight": "Translate the named venue, recurring people and reasons to revisit, alongside racing."
+    },
+    {
+      "id": "R02",
+      "source_ids": [
+        "S02"
+      ],
+      "status": "reference_fact",
+      "statement": "Tamiya separates motors, gearing, tires, rollers, brakes and dampers as interacting tuning functions.",
+      "translation_insight": "Preserve causal roles; do not flatten them into interchangeable speed bonuses."
+    },
+    {
+      "id": "R03",
+      "source_ids": [
+        "S03"
+      ],
+      "status": "reference_fact",
+      "statement": "Tamiya records its first Mini 4WD release in July 1982 and cumulative series sales exceeding 100 million units in December 1995.",
+      "translation_insight": "Give RRR product generations and hobby history. Do not interpret these numbers as current market size."
+    },
+    {
+      "id": "R04",
+      "source_ids": [
+        "S04"
+      ],
+      "status": "reference_fact",
+      "statement": "Rowdy Bull starter pack 18710 bundles an assembly kit with a motor, tires, brakes, dampers and plates.",
+      "translation_insight": "A coordinated beginner kit can include interesting upgrades without requiring separate expert procurement."
+    },
+    {
+      "id": "R05",
+      "source_ids": [
+        "S05"
+      ],
+      "status": "reference_fact",
+      "statement": "The Station directory distinguishes shop identities and facilities, including installed circuits.",
+      "translation_insight": "Model breeder, retailer and venue roles independently; some businesses combine them."
+    },
+    {
+      "id": "R06",
+      "source_ids": [
+        "S06"
+      ],
+      "status": "reference_fact",
+      "statement": "Tamiya offers local-event resources including circuit loans, layouts, organizer instructions and event publicity.",
+      "translation_insight": "Traveling course stock and local hosts can extend the hobby beyond permanent arenas."
+    },
+    {
+      "id": "R07",
+      "source_ids": [
+        "S07"
+      ],
+      "status": "reference_fact",
+      "statement": "Official car limits include width under 105 mm, length under 165 mm, height under 70 mm and mass at least 90 g; straight lanes are 115 mm wide with 50 mm walls.",
+      "translation_insight": "Keep source dimensions separate from RRR scale. Racer and course dimensions are a coupled design decision."
+    },
+    {
+      "id": "R08",
+      "source_ids": [
+        "S07"
+      ],
+      "status": "reference_fact",
+      "statement": "The rules specify starts, inspection, finish classification, disqualification and objection procedures; deliberate damage and obstruction are prohibited.",
+      "translation_insight": "Translate race administration while deliberately changing the contact rules for RRR."
+    },
+    {
+      "id": "R09",
+      "source_ids": [
+        "S08"
+      ],
+      "status": "reference_fact",
+      "statement": "Japan Cup 2026 publishes an identified course and has a final for specified class winners from its venue events.",
+      "translation_insight": "A season can connect course reveals, travel, rivalries and culminating qualification."
+    },
+    {
+      "id": "R10",
+      "source_ids": [
+        "S09"
+      ],
+      "status": "reference_fact",
+      "statement": "The official 2026–27 guide combines a catalogue, build techniques, race preparation, rules and champion-machine galleries.",
+      "translation_insight": "Create an in-world publication people use, collect, annotate and argue about."
+    },
+    {
+      "id": "R11",
+      "source_ids": [
+        "S10"
+      ],
+      "status": "reference_fact",
+      "statement": "Tamiya distinguishes continuously produced products, revived products, intermittently produced projects and genuinely limited releases.",
+      "translation_insight": "Separate RRR brood availability and historic editions from performance quality."
+    },
+    {
+      "id": "R12",
+      "source_ids": [
+        "S11"
+      ],
+      "status": "reference_fact",
+      "statement": "The layout sheet includes piece lists, footprints and routes assembled from differing numbers of circuit sets, including historic recreations.",
+      "translation_insight": "Track plans are reproducible construction recipes and collectible hobby artifacts."
+    },
+    {
+      "id": "R13",
+      "source_ids": [
+        "S12"
+      ],
+      "status": "reference_fact",
+      "statement": "Tamiya publicly supports appearance contests, selected build galleries and interviews with successful appearance-contest entrants.",
+      "translation_insight": "Craft and visual prestige can develop alongside race prestige."
+    },
+    {
+      "id": "R14",
+      "source_ids": [
+        "S13"
+      ],
+      "status": "reference_fact",
+      "statement": "In Issus, paired hind-leg gears synchronize nymphal jumps; this gear mechanism is absent after the final molt to adulthood.",
+      "translation_insight": "Life stage can change the kind of useful sect, not merely its item level."
+    },
+    {
+      "id": "R15",
+      "source_ids": [
+        "S14"
+      ],
+      "status": "reference_fact",
+      "statement": "The participation guide distinguishes Family, Junior, Open and Trial categories, with differing eligibility and assembly arrangements.",
+      "translation_insight": "Separate participant category from equipment class and competitive tier."
+    },
+    {
+      "id": "R16",
+      "source_ids": [
+        "S15"
+      ],
+      "status": "reference_fact",
+      "statement": "A Station Challenge listing specifies shop registration plus distinct Dash and Tune conditions.",
+      "translation_insight": "Store a versioned event rule set rather than assuming every club uses identical rules."
+    }
+  ],
+  "translation_rules": [
+    {
+      "id": "T01",
+      "status": "proposed_design_rule",
+      "title": "Function before renamed appearance",
+      "rule": "Map a PCR part’s job, interactions, tuning choices and failure behavior before giving it an insect appearance."
+    },
+    {
+      "id": "T02",
+      "status": "proposed_design_rule",
+      "title": "Keep sources scoped",
+      "rule": "A rule in Gaiden, a Tamiya event and an RRR class are different records even when their names match."
+    },
+    {
+      "id": "T03",
+      "status": "proposed_design_rule",
+      "title": "Shared biology, multiple acquisition routes",
+      "rule": "Wild sourcing, home breeding and Wrangloid retail feed the same specimen and sect systems."
+    },
+    {
+      "id": "T04",
+      "status": "proposed_design_rule",
+      "title": "Real upgrades are allowed",
+      "rule": "Do not impose an artificial drawback on every improvement. Good stock and clever engineering can outperform earlier stock."
+    },
+    {
+      "id": "T05",
+      "status": "proposed_design_rule",
+      "title": "Price is not truth",
+      "rule": "Asking price, measured performance, pedigree evidence, rarity and condition are separate fields."
+    },
+    {
+      "id": "T06",
+      "status": "proposed_design_rule",
+      "title": "Anatomy is not a loot table",
+      "rule": "A donor’s usable pieces, stage and remaining state must agree with actual preparation events."
+    },
+    {
+      "id": "T07",
+      "status": "proposed_design_rule",
+      "title": "Assemblies are compositional",
+      "rule": "An integrated hopper leg can include support, leverage and spring response. Count those contributions once, not again as hidden bonuses."
+    },
+    {
+      "id": "T08",
+      "status": "proposed_design_rule",
+      "title": "Compatibility is expressed",
+      "rule": "Where proposed geometry prevents a combination, specify the interference and allow redesign rather than inventing a species gate."
+    },
+    {
+      "id": "T09",
+      "status": "proposed_design_rule",
+      "title": "Products differ from individuals",
+      "rule": "A kit recipe or breeder line is repeatable; each live specimen and assembled racer has its own identity and history."
+    },
+    {
+      "id": "T10",
+      "status": "proposed_design_rule",
+      "title": "Victory enters the world",
+      "rule": "Results create records and opportunities; subsequent reputation and demand travel through identified people and media."
+    },
+    {
+      "id": "T11",
+      "status": "proposed_design_rule",
+      "title": "Depth is elective",
+      "rule": "A kit-only racer, specialist collector and full-time breeder each have complete routes to meaningful enjoyment and progress."
+    },
+    {
+      "id": "T12",
+      "status": "proposed_design_rule",
+      "title": "Thirty years has layers",
+      "rule": "Write hobby history using relative sport years while leaving the apocalypse’s date unresolved."
+    },
+    {
+      "id": "T13",
+      "status": "proposed_design_rule",
+      "title": "Fictional uncertainty is typed",
+      "rule": "A rumor, a merchant claim, a measured observation and author-established truth must not collapse into one fact."
+    },
+    {
+      "id": "T14",
+      "status": "proposed_design_rule",
+      "title": "Physical resemblance is insufficient",
+      "rule": "A gear-looking spine is not a gearbox; a passive foil is not a flight engine; a familiar name is not a functional model."
+    }
+  ],
+  "decisions": [
+    {
+      "id": "D01",
+      "status": "unresolved",
+      "title": "Survival chronology and biosphere",
+      "consequences": "Determines why people, donors and roaches coexist, and what feeds settlements.",
+      "proposed_direction": "Keep sport age separate from apocalypse age. Retain roach survival as the premise; resolve the return or survival of other life explicitly.",
+      "unapproved_assumptions": [
+        "All life other than roaches literally ceased to exist",
+        "Vault origin already canon",
+        "Thirty years since the bombs"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D02",
+      "status": "unresolved",
+      "title": "Creature and venue scale",
+      "consequences": "Controls carrying cases, tool handling, camera, tank density, track pieces and spectacle.",
+      "proposed_direction": "Use a bench-built, hand-carried hobby as a working visual anchor; leave millimeter values unset until a scale study.",
+      "unapproved_assumptions": [
+        "Tamiya dimensions apply to roaches",
+        "Every race is an arena of human-sized mounts"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D03",
+      "status": "unresolved",
+      "title": "Assimilation operation and timing",
+      "consequences": "Controls wild grafting, prepared kits, reconfiguration and experimentation.",
+      "proposed_direction": "Raw sects and prepared sects use the same underlying mutation; preparation supplies convenience, fit and information.",
+      "unapproved_assumptions": [
+        "Proprietary collars required to make assimilation possible",
+        "Immunological species rejection",
+        "Instant or multi-day integration already settled"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D04",
+      "status": "unresolved",
+      "title": "Removal, storage and reinstallation",
+      "consequences": "Controls component collection, used markets, bench swapping and maintenance.",
+      "proposed_direction": "Track removed, prepared and installed states distinctly; specify preservation and damage only after the life-cycle model is chosen.",
+      "unapproved_assumptions": [
+        "Infinite shelf life",
+        "One-use grafts",
+        "All removals lethal"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D05",
+      "status": "unresolved",
+      "title": "Heredity and breeding compatibility",
+      "consequences": "Controls commercial lines, host identity and accidental infinite reproduction of builds.",
+      "proposed_direction": "Retain the v0.2 separation of acquired grafts and inherited lineage as the current working branch.",
+      "unapproved_assumptions": [
+        "Assimilation implies inter-species reproductive compatibility",
+        "Installed assemblies copied perfectly into offspring"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D06",
+      "status": "unresolved",
+      "title": "Life stages and usable anatomy",
+      "consequences": "Controls catching seasons, stage-specific stock, breeding parents and preparation opportunities.",
+      "proposed_direction": "Describe stage-specific anatomy per donor. Do not require every family to share a simple growing rarity ladder.",
+      "unapproved_assumptions": [
+        "Adult is always the only valuable stage",
+        "All donors regenerate removed appendages"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D07",
+      "status": "unresolved",
+      "title": "Injury, recovery, aging and permanent loss",
+      "consequences": "Controls emotional attachment, preparation demand, risk, competition formats and accessibility.",
+      "proposed_direction": "Evaluate repair/recovery and high-risk event alternatives explicitly; do not silently set a global death model.",
+      "unapproved_assumptions": [
+        "Permanent death is mandatory",
+        "Beloved racers are invulnerable",
+        "Imported real lifespans are game timers"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D08",
+      "status": "unresolved",
+      "title": "Locomotion, senses and player intervention",
+      "consequences": "Controls whether the host is a creature, control input depth, training and observable racing behavior.",
+      "proposed_direction": "Provide an autonomous race plan as a candidate. Resolve live cues and behavioral inheritance before adding them to kit requirements.",
+      "unapproved_assumptions": [
+        "Remote-control steering required",
+        "No agency or sensors needed",
+        "Fixed command-token pool"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D09",
+      "status": "unresolved",
+      "title": "Calendar and simulation clocks",
+      "consequences": "Controls hatching, market delivery, event schedules and catch availability.",
+      "proposed_direction": "Declare world time, active-play time and optional time advancement separately. Beginners can use shop stock without becoming breeders.",
+      "unapproved_assumptions": [
+        "Real-time offline decay",
+        "Race rank advances insect biology",
+        "Waiting is the only way to breed"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D10",
+      "status": "unresolved",
+      "title": "Trade and communications",
+      "consequences": "Controls how live stock travels and how distant people learn about winners.",
+      "proposed_direction": "Prototype protected live-stock routes, local handbills and intermittent regional broadcasts.",
+      "unapproved_assumptions": [
+        "Instant universal knowledge",
+        "A fully connected internet",
+        "A collapsed world has no working maintenance industry"
+      ],
+      "depends_on": [
+        "D01",
+        "D02",
+        "D04"
+      ]
+    },
+    {
+      "id": "D11",
+      "status": "unresolved",
+      "title": "Faction representation and Derby jurisdiction",
+      "consequences": "Controls who selects representatives, recognizes results and protects visiting racers.",
+      "proposed_direction": "Factionals award representation; recognition of race results can be narrower than political friendship.",
+      "unapproved_assumptions": [
+        "Sport implies world peace",
+        "A faction grants exclusive biological compatibility"
+      ],
+      "depends_on": []
+    },
+    {
+      "id": "D12",
+      "status": "unresolved",
+      "title": "Event standards and extraordinary builds",
+      "consequences": "Controls Open freedom, flight boundaries, course validity and disputes.",
+      "proposed_direction": "Separate locomotion division, equipment policy, qualification and race format; inspect only relevant declared conditions.",
+      "unapproved_assumptions": [
+        "No-holds-barred means no start or finish rules",
+        "A universal graft-point cap",
+        "Every nominal slot permits only one physical item"
+      ],
+      "depends_on": []
+    }
+  ],
+  "entity_contracts": {
+    "place": [
+      "ordinary_livelihood",
+      "water_energy_food",
+      "habitat_refs",
+      "trade_links",
+      "venue_refs",
+      "local_knowledge"
+    ],
+    "person": [
+      "livelihood",
+      "budget_state",
+      "goals",
+      "expertise",
+      "relationships",
+      "known_claims",
+      "owned_objects",
+      "daily_routine"
+    ],
+    "donor_form": [
+      "real_inspiration",
+      "fictional_departures",
+      "habitat",
+      "life_stages",
+      "field_signs",
+      "useful_anatomy_by_stage",
+      "heritable_traits",
+      "care_profile"
+    ],
+    "lineage": [
+      "donor_form_ref",
+      "founder_refs",
+      "selection_goals",
+      "generation_records",
+      "measured_variation",
+      "breeder_ref",
+      "availability"
+    ],
+    "specimen": [
+      "form_ref",
+      "lineage_ref",
+      "origin",
+      "owner_ref",
+      "life_stage",
+      "actual_anatomy",
+      "observations",
+      "unknown_traits",
+      "breeding_history"
+    ],
+    "graft_design": [
+      "donor_anatomy",
+      "functions",
+      "geometry",
+      "movement",
+      "resource_interfaces",
+      "preparation_requirements",
+      "legal_relevance"
+    ],
+    "graft_instance": [
+      "design_ref",
+      "donor_ref",
+      "preparation_event_ref",
+      "condition",
+      "measurements",
+      "current_state",
+      "installed_build_ref"
+    ],
+    "host": [
+      "bodyform",
+      "native_functions",
+      "persistent_identity",
+      "behavior_state",
+      "lineage_ref",
+      "build_versions",
+      "career"
+    ],
+    "build": [
+      "host_ref",
+      "version",
+      "graft_refs",
+      "placement",
+      "settings",
+      "appearance",
+      "derived_performance",
+      "measurement_provenance"
+    ],
+    "kit_recipe": [
+      "host_requirements",
+      "sect_bill_of_materials",
+      "substitution_ranges",
+      "assembly_sequence",
+      "required_tools",
+      "packaging",
+      "target_experience"
+    ],
+    "product_offer": [
+      "seller_ref",
+      "item_or_recipe_ref",
+      "quantity",
+      "price_state",
+      "claims",
+      "evidence",
+      "availability_kind",
+      "service_terms"
+    ],
+    "venue": [
+      "operator_ref",
+      "floor_space",
+      "facilities",
+      "track_inventory",
+      "assembled_course_ref",
+      "social_schedule",
+      "capacity"
+    ],
+    "course_piece": [
+      "connector_frames",
+      "physical_geometry",
+      "collision_geometry",
+      "surface",
+      "support_requirements",
+      "travel_routes",
+      "visual_identity"
+    ],
+    "course_layout": [
+      "piece_instances",
+      "transforms",
+      "directed_connectivity",
+      "gate_sequence",
+      "lane_mapping",
+      "route_distance",
+      "footprint",
+      "layout_version"
+    ],
+    "ruleset": [
+      "version",
+      "locomotion",
+      "equipment_policy",
+      "participant_policy",
+      "start",
+      "legal_progress",
+      "finish",
+      "contact",
+      "recovery",
+      "inspection",
+      "protest"
+    ],
+    "event": [
+      "venue_ref",
+      "course_version_ref",
+      "ruleset_ref",
+      "entries",
+      "qualification_effect",
+      "race_records",
+      "rewards",
+      "publicity"
+    ],
+    "race_result": [
+      "event_ref",
+      "heat",
+      "build_version_refs",
+      "finish_order",
+      "validity",
+      "timing",
+      "witnesses",
+      "published_status"
+    ],
+    "publication": [
+      "editor_ref",
+      "audience",
+      "distribution",
+      "claim_refs",
+      "issue_time",
+      "corrections",
+      "archived_issue_ref"
+    ],
+    "claim": [
+      "content",
+      "truth_status",
+      "evidence_refs",
+      "speaker_ref",
+      "audience_refs",
+      "confidence_basis",
+      "time_scope"
+    ],
+    "organization": [
+      "purpose",
+      "resources",
+      "membership",
+      "people_refs",
+      "supply_relationships",
+      "sport_role",
+      "political_limits"
+    ]
+  },
+  "seed_records": [
+    {
+      "id": "LOC_TINWATER",
+      "kind": "place",
+      "name": "Tinwater Junction",
+      "status": "new_proposal",
+      "data": {
+        "ordinary_livelihood": "Repairs pumps, recovers water and services carriers at a freight junction.",
+        "water_energy_food": "Candidate reclaimed-water and plant-growing economy; not a settled explanation of post-winter ecology.",
+        "visual_identity": "Whitewashed service interiors, patched enamel equipment and meticulous glass tanks against worn industrial exteriors.",
+        "hobby_role": "Local races, dependable starter stock and a meeting point for field catchers and carriers.",
+        "world_position": "One reference settlement, not the fixed game start or a substitute for New World City."
+      },
+      "related_ids": [
+        "HAB_SWITCHYARD",
+        "SHOP_TWO_NETS",
+        "VENUE_FOUNDRY",
+        "ORG_CARRIERS"
+      ]
+    },
+    {
+      "id": "HAB_SWITCHYARD",
+      "kind": "place",
+      "name": "The Switchyard Verge",
+      "status": "new_proposal",
+      "data": {
+        "ordinary_livelihood": "Track-maintenance verge outside Tinwater.",
+        "habitat": "Warm banks, stems and drainage pockets adjacent to freight lines.",
+        "field_signs": [
+          "Fresh feeding marks low on stems",
+          "Shed juvenile skins beneath sheltered rails",
+          "Brief jumps when shadows cross warm banks"
+        ],
+        "knowledge_rule": "Signs are visible before a journal unlock. Suitable habitat does not guarantee a rare specimen.",
+        "rarity_model": "Population, activity, stage and observation skill are separate influences."
+      },
+      "related_ids": [
+        "LOC_TINWATER",
+        "FORM_HOPPER",
+        "NPC_JESS"
+      ]
+    },
+    {
+      "id": "LOC_SALTGLASS",
+      "kind": "place",
+      "name": "Saltglass Exchange",
+      "status": "new_proposal",
+      "data": {
+        "ordinary_livelihood": "Trade, glass repair and live-stock packing.",
+        "hobby_role": "Brokerage of unusual specimens and appearance-focused meets.",
+        "visual_identity": "Sunshades, polished specimen cases, handwritten pedigrees and tinted glass; not a universal rust-brown shop skin."
+      },
+      "related_ids": [
+        "SHOP_SALTGLASS",
+        "ORG_CARRIERS",
+        "MEDIA_BENCHLINE"
+      ]
+    },
+    {
+      "id": "LOC_CINDER",
+      "kind": "place",
+      "name": "Cinderhouse",
+      "status": "new_proposal",
+      "data": {
+        "ordinary_livelihood": "Heat recovery and repair workshops.",
+        "hobby_role": "Selected scarab lines and durable modular course hardware.",
+        "social_difference": "Workshop collectives coexist with independent builders; this is an economy, not a personality shared by every resident."
+      },
+      "related_ids": [
+        "ORG_CINDER",
+        "FORM_SCARAB"
+      ]
+    },
+    {
+      "id": "NPC_MARA",
+      "kind": "person",
+      "name": "Mara Venn",
+      "status": "new_proposal",
+      "data": {
+        "livelihood": "Wrangloid; proprietor of Two Nets Live Stock.",
+        "expertise": [
+          "Keeping donor stock in useful condition",
+          "Selecting repeatable hopper traits",
+          "Approachable kit assembly"
+        ],
+        "goal": "Establish Saltstep No. 4 as a respected everyday racing line.",
+        "public_reputation": "Plain labels and dependable advice; not the town’s fastest racer.",
+        "knowledge_limits": "Knows her own breeding ledger and demonstrations, not untested genetics of every field capture.",
+        "daily_routine": "Checks stock, serves regulars, tests selected animals and opens a novice bench session."
+      },
+      "related_ids": [
+        "SHOP_TWO_NETS",
+        "LINE_SALTSTEP",
+        "NPC_JESS",
+        "NPC_IVO"
+      ]
+    },
+    {
+      "id": "NPC_JESS",
+      "kind": "person",
+      "name": "Jess Rill",
+      "status": "new_proposal",
+      "data": {
+        "livelihood": "Pump attendant and weekend field catcher.",
+        "goal": "Identify an overlooked hopper variant and use the proceeds for a distinctive personal build.",
+        "expertise": [
+          "Switchyard field signs",
+          "Keeping hind legs intact during capture"
+        ],
+        "knowledge_limits": "Excellent on one local habitat; not a universal insect expert.",
+        "access": "No Wrangloid license is required."
+      },
+      "related_ids": [
+        "HAB_SWITCHYARD",
+        "SPEC_H19",
+        "NPC_MARA"
+      ]
+    },
+    {
+      "id": "NPC_IVO",
+      "kind": "person",
+      "name": "Ivo Pell",
+      "status": "new_proposal",
+      "data": {
+        "livelihood": "Freight clerk; casual local racer.",
+        "goal": "Win the Foundry Dash with Second Breakfast.",
+        "preference": "Buys prepared sects rather than maintaining breeding tanks.",
+        "knowledge_limits": "Knows his racer’s behavior and the kit guide; trusts Mara’s stock evidence."
+      },
+      "related_ids": [
+        "HOST_BREAKFAST",
+        "BUILD_BREAKFAST_01",
+        "EVENT_DASH",
+        "SHOP_TWO_NETS"
+      ]
+    },
+    {
+      "id": "NPC_NERA",
+      "kind": "person",
+      "name": "Nera Kest",
+      "status": "new_proposal",
+      "data": {
+        "livelihood": "Part-time printer and Benchline editor.",
+        "goal": "Publish race results and useful builds before the next carrier departure.",
+        "editorial_constraint": "Distinguish verified results, merchant advertisements and unverified workshop claims."
+      },
+      "related_ids": [
+        "MEDIA_BENCHLINE",
+        "RESULT_DASH",
+        "CLAIM_CHAMPION"
+      ]
+    },
+    {
+      "id": "SHOP_TWO_NETS",
+      "kind": "organization",
+      "name": "Two Nets Live Stock",
+      "status": "new_proposal",
+      "data": {
+        "business_type": "Wrangloid shop with a small bench, not a breeding-only institution or an omniscient parts vendor.",
+        "stock_categories": [
+          "Whole live donors",
+          "Breeding stock",
+          "Prepared grafts",
+          "Coordinated kits",
+          "Cases and care supplies"
+        ],
+        "services": [
+          "Identification",
+          "Performance demonstration",
+          "Preparation",
+          "Fitting help",
+          "Carrier packing"
+        ],
+        "constraints": [
+          "Finite working capital",
+          "Limited enclosure space",
+          "Known carrier timetable"
+        ],
+        "location": "Tinwater Junction"
+      },
+      "related_ids": [
+        "NPC_MARA",
+        "LINE_SALTSTEP",
+        "OFFER_PAIR",
+        "OFFER_KIT",
+        "VENUE_FOUNDRY"
+      ]
+    },
+    {
+      "id": "SHOP_SALTGLASS",
+      "kind": "organization",
+      "name": "The Saltglass Counter",
+      "status": "new_proposal",
+      "data": {
+        "business_type": "Live-specimen broker and display specialist.",
+        "stock_policy": "Premium collector forms, provenance-led resales and commissioned searches.",
+        "performance_policy": "Visual rarity is not advertised as automatically faster.",
+        "hobby_role": "Hosts a display night and carries selective imports."
+      },
+      "related_ids": [
+        "LOC_SALTGLASS",
+        "ORG_CARRIERS",
+        "ART_DISPLAY_CARD"
+      ]
+    },
+    {
+      "id": "ORG_CINDER",
+      "kind": "organization",
+      "name": "Cinderhouse Broodworks",
+      "status": "new_proposal",
+      "data": {
+        "business_type": "Cooperative breeder and kit supplier with hobbyist origins.",
+        "specialty": "Repeatable load-bearing scarab stock and robust transport packaging.",
+        "commercial_model": "Supplies multiple independent Wrangloids; is not identical to every retailer carrying its stock."
+      },
+      "related_ids": [
+        "LOC_CINDER",
+        "FORM_SCARAB",
+        "SHOP_TWO_NETS"
+      ]
+    },
+    {
+      "id": "ORG_CARRIERS",
+      "kind": "organization",
+      "name": "The Case Runners",
+      "status": "new_proposal",
+      "data": {
+        "purpose": "Transport live hobby stock, people’s racing cases and folded course sections.",
+        "service": "Scheduled routes with custody records and condition checks.",
+        "world_dependency": "Timing and preservation requirements await D04 and D10.",
+        "sport_role": "Carries results handbills as well as merchandise."
+      },
+      "related_ids": [
+        "LOC_TINWATER",
+        "LOC_SALTGLASS",
+        "LOC_CINDER",
+        "MEDIA_BENCHLINE"
+      ]
+    },
+    {
+      "id": "FORM_HOPPER",
+      "kind": "donor_form",
+      "name": "Switchyard hopper",
+      "status": "working_proposal",
+      "data": {
+        "real_inspiration": "Grasshopper-like form; the named wasteland animal is fictional.",
+        "fictional_departures": "Host-compatible donor anatomy and gameplay-scaled performance.",
+        "habitat": "Warm overgrown freight verges.",
+        "useful_anatomy": [
+          "Hind-leg drive and lever assemblies",
+          "Elastic landing joints"
+        ],
+        "selection_axes": [
+          "Takeoff output",
+          "Left-right consistency",
+          "Leg reach",
+          "Color pattern"
+        ],
+        "life_stage_policy": "Exact stage yields and breeding durations unresolved."
+      },
+      "related_ids": [
+        "HAB_SWITCHYARD",
+        "LINE_SALTSTEP",
+        "DESIGN_HOPPER"
+      ]
+    },
+    {
+      "id": "FORM_SCARAB",
+      "kind": "donor_form",
+      "name": "Kilnback scarab",
+      "status": "working_proposal",
+      "data": {
+        "real_inspiration": "Beetle-like form; fictional donor.",
+        "habitat": "Warm disused furnace cavities.",
+        "useful_anatomy": [
+          "Support plates",
+          "Drive musculature",
+          "Protective shell"
+        ],
+        "selection_axes": [
+          "Working force",
+          "Plate geometry",
+          "Shell appearance"
+        ],
+        "market_note": "A strong drive specimen and a display specimen need not be the same animal."
+      },
+      "related_ids": [
+        "LOC_CINDER",
+        "ORG_CINDER"
+      ]
+    },
+    {
+      "id": "FORM_CLOCKLEAF",
+      "kind": "donor_form",
+      "name": "Clockleaf planthopper",
+      "status": "new_proposal",
+      "data": {
+        "real_inspiration": "Issus nymphal hind-leg synchronization described in S13.",
+        "fictional_departures": "Preparation for a rad-roach host and game-scale gearing assemblies.",
+        "life_stages": {
+          "nymph": "Candidate source of paired synchronizing gear anatomy",
+          "adult": "A distinct stage; not automatically a higher-grade version of the same gear sect"
+        },
+        "useful_anatomy": "Paired hind-leg coupling, not a naturally variable-ratio gearbox.",
+        "research_boundary": "This donor design is fictional, not a claim that the source animal can be harvested into a functioning roach gearbox."
+      },
+      "related_ids": [
+        "DESIGN_LOCKSTEP"
+      ]
+    },
+    {
+      "id": "LINE_SALTSTEP",
+      "kind": "lineage",
+      "name": "Saltstep No. 4",
+      "status": "new_proposal",
+      "data": {
+        "donor_form": "Switchyard hopper",
+        "breeder": "Mara Venn",
+        "selection_goals": [
+          "Repeatable paired-leg response",
+          "Strong usable takeoff"
+        ],
+        "evidence": "Breeder ledger and demonstrations; no numerical heritability asserted.",
+        "availability": "Selected brood lots and limited breeding pairs.",
+        "meaning_of_number": "Fourth marketed line revision, not four generations or a global rarity level."
+      },
+      "related_ids": [
+        "FORM_HOPPER",
+        "NPC_MARA",
+        "SPEC_PARENT_A",
+        "SPEC_PARENT_B",
+        "SPEC_H17"
+      ]
+    },
+    {
+      "id": "SPEC_PARENT_A",
+      "kind": "specimen",
+      "name": "Saltstep breeding adult A",
+      "status": "new_proposal",
+      "data": {
+        "form": "Switchyard hopper",
+        "lineage": "Saltstep No. 4",
+        "owner": "Mara Venn",
+        "state": "Live, retained breeding stock",
+        "sex": "not specified in this seed record",
+        "actual_anatomy": "Intact",
+        "measurement_status": "Qualitative line evidence only"
+      },
+      "related_ids": [
+        "FORM_HOPPER",
+        "LINE_SALTSTEP",
+        "NPC_MARA"
+      ]
+    },
+    {
+      "id": "SPEC_PARENT_B",
+      "kind": "specimen",
+      "name": "Saltstep breeding adult B",
+      "status": "new_proposal",
+      "data": {
+        "form": "Switchyard hopper",
+        "lineage": "Saltstep No. 4",
+        "owner": "Mara Venn",
+        "state": "Live, retained breeding stock",
+        "sex": "not specified in this seed record",
+        "actual_anatomy": "Intact",
+        "pairing_status": "Biologically compatible pairing proposed; detailed reproduction model unresolved"
+      },
+      "related_ids": [
+        "FORM_HOPPER",
+        "LINE_SALTSTEP",
+        "NPC_MARA"
+      ]
+    },
+    {
+      "id": "SPEC_H17",
+      "kind": "specimen",
+      "name": "Saltstep specimen H17",
+      "status": "new_proposal",
+      "data": {
+        "form": "Switchyard hopper",
+        "lineage": "Saltstep No. 4",
+        "origin": "Shop-bred descendant in the illustrative brood",
+        "owner": "Two Nets Live Stock",
+        "life_stage": "Usable donor stage; exact duration unset",
+        "historical_anatomy": "Paired hind-leg assembly supplied the prepared set GRAFT_H17.",
+        "current_state": "Processed donor record; not an intact insect available for a second sale.",
+        "donor_survival": "Unresolved globally; this record does not assert survival or death after preparation."
+      },
+      "related_ids": [
+        "FORM_HOPPER",
+        "LINE_SALTSTEP",
+        "TX_PREP_H17",
+        "GRAFT_H17"
+      ]
+    },
+    {
+      "id": "SPEC_H19",
+      "kind": "specimen",
+      "name": "Field capture H19",
+      "status": "new_proposal",
+      "data": {
+        "form": "Provisional Switchyard hopper identification",
+        "origin": "Caught by Jess at the verge",
+        "owner": "Jess Rill",
+        "life_stage": "Not yet confirmed",
+        "actual_anatomy": "Intact at capture",
+        "observations": [
+          "Distinctive stripe",
+          "Apparently long hind legs"
+        ],
+        "unknown_traits": [
+          "Measured takeoff performance",
+          "Inheritance",
+          "Relatedness to Saltstep"
+        ],
+        "rarity": "Unverified; unusual-looking is not equivalent to an established rare form."
+      },
+      "related_ids": [
+        "NPC_JESS",
+        "FORM_HOPPER",
+        "HAB_SWITCHYARD"
+      ]
+    },
+    {
+      "id": "DESIGN_HOPPER",
+      "kind": "graft_design",
+      "name": "Matched hopper hind-leg assembly",
+      "status": "new_proposal",
+      "data": {
+        "donor_anatomy": "A paired set of hind limbs with working roots, leverage and elastic joints.",
+        "functions": [
+          "Running contribution",
+          "Preloaded jump",
+          "Landing response"
+        ],
+        "source_function_mapping": [
+          "Drive delivery",
+          "Wheel/limb geometry",
+          "Suspension",
+          "RRR active mobility"
+        ],
+        "no_double_count": "A whole assembly’s muscle, geometry and elasticity are counted once; replacing a subpart recomputes the assembly.",
+        "visual_signature": "Large rear folding limbs, paired roots and visibly compressed launch posture.",
+        "measurements_needed": [
+          "Takeoff impulse",
+          "Recovery behavior",
+          "Mass",
+          "Geometry",
+          "Energy demand"
+        ],
+        "balanced_values": null
+      },
+      "related_ids": [
+        "FORM_HOPPER",
+        "LINE_SALTSTEP"
+      ]
+    },
+    {
+      "id": "DESIGN_LOCKSTEP",
+      "kind": "graft_design",
+      "name": "Planthopper paired synchronizer",
+      "status": "new_proposal",
+      "data": {
+        "donor_anatomy": "Opposed toothed joint surfaces.",
+        "function": "Coordinates timing; does not generate power.",
+        "appearance": "Two complementary tooth rows with an observable engagement arc.",
+        "dependencies": [
+          "Useful donor stage",
+          "Graft integration",
+          "Leg support and range of movement"
+        ],
+        "balanced_values": null
+      },
+      "related_ids": [
+        "FORM_CLOCKLEAF"
+      ]
+    },
+    {
+      "id": "TX_PREP_H17",
+      "kind": "transaction",
+      "name": "Preparation of H17 matched legs",
+      "status": "new_proposal",
+      "data": {
+        "operation": "prepare",
+        "input_identity": "SPEC_H17",
+        "output_identity": "GRAFT_H17",
+        "conserved_fact": "The same intact hind legs cannot remain available on H17 after extraction.",
+        "unresolved_details": [
+          "Preparation duration",
+          "Donor survival",
+          "Preservation medium"
+        ],
+        "numeric_yield": "One paired assembly in this illustrative transaction; not a global species harvest rule."
+      },
+      "related_ids": [
+        "SPEC_H17",
+        "GRAFT_H17",
+        "SHOP_TWO_NETS"
+      ]
+    },
+    {
+      "id": "GRAFT_H17",
+      "kind": "graft_instance",
+      "name": "H17 matched hopper set",
+      "status": "new_proposal",
+      "data": {
+        "design": "Matched hopper hind-leg assembly",
+        "donor": "H17",
+        "current_owner": "Ivo Pell",
+        "state": "Installed in Second Breakfast build 1",
+        "provenance": "Prepared by Two Nets; individual identity persists through sale and installation.",
+        "numeric_measurements": null,
+        "calibration_note": "No simulated or real performance numbers have been validated."
+      },
+      "related_ids": [
+        "DESIGN_HOPPER",
+        "SPEC_H17",
+        "TX_PREP_H17",
+        "BUILD_BREAKFAST_01",
+        "NPC_IVO"
+      ]
+    },
+    {
+      "id": "HOST_BREAKFAST",
+      "kind": "host",
+      "name": "Second Breakfast",
+      "status": "new_proposal",
+      "data": {
+        "owner": "Ivo Pell",
+        "bodyform": "Gutterbred",
+        "identity_rule": "Host identity persists across build versions.",
+        "native_functions": "Runs before modification; native senses and behavioral model await implementation.",
+        "career": "Illustrative local racer, not a previously established champion."
+      },
+      "related_ids": [
+        "NPC_IVO",
+        "BUILD_BREAKFAST_01",
+        "RESULT_DASH"
+      ]
+    },
+    {
+      "id": "BUILD_BREAKFAST_01",
+      "kind": "build",
+      "name": "Second Breakfast — build 1",
+      "status": "new_proposal",
+      "data": {
+        "host": "Second Breakfast",
+        "installed_assemblies": [
+          "GRAFT_H17"
+        ],
+        "other_functions": "Retained native host functions unless explicitly replaced.",
+        "appearance": "Ivory racing numbers on a dark shell; exposed hopper roots visibly matched.",
+        "version": 1,
+        "performance_status": "Uncalibrated original design",
+        "changed_after_race": "Must create a new version rather than rewriting the historical entrant."
+      },
+      "related_ids": [
+        "HOST_BREAKFAST",
+        "GRAFT_H17",
+        "KIT_LASTLAUGH",
+        "RESULT_DASH"
+      ]
+    },
+    {
+      "id": "KIT_LASTLAUGH",
+      "kind": "kit_recipe",
+      "name": "Last Laugh — Club Hopper Tin",
+      "status": "new_proposal",
+      "data": {
+        "product_kind": "Repeatable recipe and commercial package; not a unique individual roach.",
+        "bill_of_materials": [
+          "One suitable native-running host",
+          "One prepared matched hopper assembly",
+          "Fitting guide",
+          "Number and stain materials"
+        ],
+        "substitution_policy": "Accept compatible donor sets meeting the published performance and geometry description; unique specimen IDs are recorded per sold tin.",
+        "assembly_sequence": [
+          "Inspect and name host",
+          "Compare paired legs",
+          "Position graft roots",
+          "Integrate and check movement",
+          "Finish and test"
+        ],
+        "tools": "Common hobby tools; proprietary tools are not a gate to wild assimilation.",
+        "accessibility": "Shop-prepared parts and guided assembly; deeper subcomponent work remains optional."
+      },
+      "related_ids": [
+        "SHOP_TWO_NETS",
+        "DESIGN_HOPPER",
+        "FORM_HOPPER"
+      ]
+    },
+    {
+      "id": "OFFER_KIT",
+      "kind": "product_offer",
+      "name": "Two Nets Club Hopper offer",
+      "status": "new_proposal",
+      "data": {
+        "seller": "Two Nets Live Stock",
+        "offered_recipe": "Last Laugh — Club Hopper Tin",
+        "availability_kind": "Standing kit recipe, assembled from current selected stock",
+        "quantity": "Not set; must bind to actual available stock when instantiated.",
+        "asking_price": null,
+        "currency": null,
+        "price_basis": [
+          "Included host and sect",
+          "Preparation",
+          "Testing",
+          "Convenience"
+        ],
+        "price_status": "No invented universal price or economic calibration."
+      },
+      "related_ids": [
+        "SHOP_TWO_NETS",
+        "KIT_LASTLAUGH"
+      ]
+    },
+    {
+      "id": "OFFER_PAIR",
+      "kind": "product_offer",
+      "name": "Saltstep breeding-pair listing",
+      "status": "new_proposal",
+      "data": {
+        "seller": "Two Nets Live Stock",
+        "offer_type": "Future selected breeding pair, not the retained parent identities A and B.",
+        "availability_kind": "Limited brood release",
+        "asking_price": null,
+        "price_basis": [
+          "Evidence of heritable useful traits",
+          "Supply availability",
+          "Buyer’s breeding purpose"
+        ],
+        "claim_limit": "Offspring traits vary; a race win is not proof of guaranteed descendants."
+      },
+      "related_ids": [
+        "SHOP_TWO_NETS",
+        "LINE_SALTSTEP"
+      ]
+    },
+    {
+      "id": "VENUE_FOUNDRY",
+      "kind": "venue",
+      "name": "Foundry Club",
+      "status": "new_proposal",
+      "data": {
+        "operator": "Local hobby cooperative",
+        "facilities": [
+          "Assembly benches",
+          "Tank shelves for arriving cases",
+          "Timing desk",
+          "Display shelf",
+          "Stored track pieces"
+        ],
+        "social_schedule": [
+          "Beginner build table",
+          "Open practice",
+          "Local club races",
+          "Display evening"
+        ],
+        "visual_identity": "Carefully repaired communal venue; trophy cases coexist with mismatched chairs.",
+        "course_inventory": "Expandable; physical piece ownership is separate from the currently assembled layout."
+      },
+      "related_ids": [
+        "LOC_TINWATER",
+        "COURSE_DASH",
+        "EVENT_DASH",
+        "ART_DISPLAY_CARD"
+      ]
+    },
+    {
+      "id": "PIECE_PACK",
+      "kind": "course_piece",
+      "name": "Pack Run section",
+      "status": "new_proposal",
+      "data": {
+        "role": "Shared straight racing space for passing and contact.",
+        "connector_definition": "Entrance/exit position, orientation, width and height must be authored before geometric assembly.",
+        "dimensions": null,
+        "surface": "Replaceable insert",
+        "required_gates": "Defined at layout level",
+        "implementation_status": "Semantic design only; not a validated collision mesh."
+      },
+      "related_ids": []
+    },
+    {
+      "id": "PIECE_HAIRPIN",
+      "kind": "course_piece",
+      "name": "Valve Hairpin section",
+      "status": "new_proposal",
+      "data": {
+        "role": "Tight return with visible approach and exit.",
+        "dimensions": null,
+        "connector_definition": "Requires authored geometry and compatible ends.",
+        "implementation_status": "Semantic design only."
+      },
+      "related_ids": []
+    },
+    {
+      "id": "COURSE_DASH",
+      "kind": "course_layout",
+      "name": "Foundry Dash — layout concept 1",
+      "status": "new_proposal",
+      "data": {
+        "piece_concept": [
+          "Pack Runs",
+          "Valve Hairpins",
+          "Optional hopper route"
+        ],
+        "layout_status": "Concept only; not claimed to form a metrically closed course.",
+        "required_authoring": [
+          "Piece counts and transforms",
+          "Connected route graph",
+          "Footprint",
+          "Checkpoint sequence",
+          "Distances",
+          "Locomotion validity"
+        ],
+        "course_version": 1,
+        "records_comparable_only_when": "Course geometry, rules and declared conditions match."
+      },
+      "related_ids": [
+        "PIECE_PACK",
+        "PIECE_HAIRPIN",
+        "VENUE_FOUNDRY"
+      ]
+    },
+    {
+      "id": "RULES_DASH",
+      "kind": "ruleset",
+      "name": "Foundry Dash — Ground Open draft",
+      "status": "new_proposal",
+      "data": {
+        "version": "0.1-proposed",
+        "locomotion": "Ground; discrete jumping allowed; sustained flyers compete separately.",
+        "equipment_policy": "Open; no universal graft-point budget.",
+        "competitive_tier": "Local",
+        "participant_policy": "Open registration subject to event capacity, not a profession gate.",
+        "win_condition": "First valid finisher after required course completion.",
+        "contact": "Offensive sects and native contact allowed.",
+        "unresolved": [
+          "Start procedure",
+          "Lap count",
+          "Recovery policy",
+          "Finish tie procedure",
+          "Detailed checkpoint geometry",
+          "Inspection appeal deadline"
+        ],
+        "qualification_effect": "This sample race awards no assumed regional qualification."
+      },
+      "related_ids": [
+        "EVENT_DASH",
+        "COURSE_DASH"
+      ]
+    },
+    {
+      "id": "EVENT_DASH",
+      "kind": "event",
+      "name": "Foundry Dash club meeting",
+      "status": "new_proposal",
+      "data": {
+        "venue": "Foundry Club",
+        "rules": "Ground Open draft",
+        "status": "Illustrative future event scenario, not actual played simulation.",
+        "entries": [
+          "Ivo Pell / Second Breakfast",
+          "Additional opponents not yet specified"
+        ],
+        "rewards": [
+          "Local trophy",
+          "Published result",
+          "Potential rival challenges"
+        ],
+        "purpose": "A casual participant can race without a breeding business."
+      },
+      "related_ids": [
+        "VENUE_FOUNDRY",
+        "COURSE_DASH",
+        "RULES_DASH",
+        "NPC_IVO",
+        "RESULT_DASH"
+      ]
+    },
+    {
+      "id": "RESULT_DASH",
+      "kind": "race_result",
+      "name": "Illustrative Second Breakfast victory",
+      "status": "new_proposal",
+      "data": {
+        "status": "Authored scenario fixture, not a result generated by a game or physical experiment.",
+        "winner": "Second Breakfast build 1",
+        "result": "First valid finisher in the scenario",
+        "precise_times": null,
+        "witnesses": [
+          "Local entrants",
+          "Foundry Club timing desk",
+          "Nera Kest after checking the result"
+        ],
+        "inference_limit": "The result does not by itself establish that Saltstep legs caused the win or that all offspring are superior."
+      },
+      "related_ids": [
+        "EVENT_DASH",
+        "BUILD_BREAKFAST_01",
+        "NPC_NERA",
+        "MEDIA_BENCHLINE"
+      ]
+    },
+    {
+      "id": "MEDIA_BENCHLINE",
+      "kind": "publication",
+      "name": "Benchline",
+      "status": "new_proposal",
+      "data": {
+        "format": "Regional hobby handbill and issue archive; candidate relayed audio edition.",
+        "editor": "Nera Kest",
+        "contents": [
+          "Verified results",
+          "Build features",
+          "Stock arrivals",
+          "Course recipes",
+          "Corrections",
+          "Display entries"
+        ],
+        "distribution": "Local posting and carrier bundles; universal instant delivery is not assumed.",
+        "commercial_boundary": "Advertisement claims remain distinct from editorial testing."
+      },
+      "related_ids": [
+        "NPC_NERA",
+        "ORG_CARRIERS",
+        "RESULT_DASH",
+        "CLAIM_CHAMPION",
+        "ART_RESULT"
+      ]
+    },
+    {
+      "id": "CLAIM_CHAMPION",
+      "kind": "claim",
+      "name": "Every Saltstep brood is championship stock",
+      "status": "new_proposal",
+      "data": {
+        "content": "An excited spectator claims every Saltstep offspring will perform like the winning build.",
+        "truth_status": "Unsupported generalization",
+        "basis": "One observed local win",
+        "not_world_truth": true,
+        "propagation": "May be repeated as gossip; knowledgeable sellers may qualify or challenge it."
+      },
+      "related_ids": [
+        "RESULT_DASH",
+        "LINE_SALTSTEP",
+        "MEDIA_BENCHLINE"
+      ]
+    },
+    {
+      "id": "ART_RESULT",
+      "kind": "cultural_artifact",
+      "name": "Benchline results box",
+      "status": "new_proposal",
+      "data": {
+        "text": "SECOND BREAKFAST TAKES THE DASH. Ivo Pell wins with a shop-bought hopper conversion. Two Nets accepts inquiries for the next selected brood; breeding outcomes are not guaranteed.",
+        "function": "Connect a race win to a named build, an ordinary hobbyist and a commercial line without making the advertisement scientific proof."
+      },
+      "related_ids": [
+        "RESULT_DASH",
+        "NPC_IVO",
+        "SHOP_TWO_NETS",
+        "LINE_SALTSTEP"
+      ]
+    },
+    {
+      "id": "ART_DISPLAY_CARD",
+      "kind": "cultural_artifact",
+      "name": "Foundry display-night card",
+      "status": "new_proposal",
+      "data": {
+        "text": "FINISH, FIT AND FLAIR — bring the roach, the tin, or the work in progress. Race trophies welcome; not required.",
+        "function": "A second public route to recognition through construction and presentation."
+      },
+      "related_ids": [
+        "VENUE_FOUNDRY",
+        "SHOP_SALTGLASS"
+      ]
+    },
+    {
+      "id": "ART_TANK_TAG",
+      "kind": "cultural_artifact",
+      "name": "Two Nets specimen tag",
+      "status": "new_proposal",
+      "data": {
+        "text": "SWITCHYARD HOPPER H19 — field capture. Long-legged appearance; lineage unrecorded. Demonstration pending. Ask before assigning it a champion’s price.",
+        "function": "Visible stock identity, condition and honest uncertainty in an everyday world object."
+      },
+      "related_ids": [
+        "SPEC_H19",
+        "SHOP_TWO_NETS"
+      ]
+    }
+  ],
+  "causal_rules": [
+    {
+      "id": "E01",
+      "status": "proposed_system",
+      "trigger": "capture_recorded",
+      "inputs": [
+        "habitat",
+        "catcher",
+        "specimen"
+      ],
+      "effect": "Create or transfer a particular specimen; store origin and observed condition. Do not grant every donor module as an automatic unlock."
+    },
+    {
+      "id": "E02",
+      "status": "proposed_system",
+      "trigger": "offspring_recorded",
+      "inputs": [
+        "parentage",
+        "breeder",
+        "specimen"
+      ],
+      "effect": "Create new identities with declared lineage evidence. Parameters of heredity remain explicit design data."
+    },
+    {
+      "id": "E03",
+      "status": "proposed_system",
+      "trigger": "sect_prepared",
+      "inputs": [
+        "donor",
+        "graft_instance",
+        "preparation_event"
+      ],
+      "effect": "Update consumed anatomy and output identity together. Never keep a sold whole donor unchanged after extraction."
+    },
+    {
+      "id": "E04",
+      "status": "proposed_system",
+      "trigger": "purchase_completed",
+      "inputs": [
+        "offer",
+        "buyer",
+        "seller",
+        "inventory"
+      ],
+      "effect": "Transfer actual ownership and currency only when values and stock are known. Do not duplicate a unique specimen."
+    },
+    {
+      "id": "E05",
+      "status": "proposed_system",
+      "trigger": "build_revised",
+      "inputs": [
+        "host",
+        "graft",
+        "build_version"
+      ],
+      "effect": "Preserve host identity; create a new build version and recalculate derived functions."
+    },
+    {
+      "id": "E06",
+      "status": "proposed_system",
+      "trigger": "race_completed",
+      "inputs": [
+        "event",
+        "entrants",
+        "result"
+      ],
+      "effect": "Record finish order, eligibility and conditions before awarding titles or public claims."
+    },
+    {
+      "id": "E07",
+      "status": "proposed_system",
+      "trigger": "result_published",
+      "inputs": [
+        "result",
+        "publisher",
+        "audience"
+      ],
+      "effect": "Update knowledge of reachable audiences; fame is not instant global omniscience."
+    },
+    {
+      "id": "E08",
+      "status": "proposed_system",
+      "trigger": "stock_interest_changed",
+      "inputs": [
+        "buyer_belief",
+        "performance_evidence",
+        "availability"
+      ],
+      "effect": "Update inquiries or bids; sale price need not change everywhere or in lockstep."
+    },
+    {
+      "id": "E09",
+      "status": "proposed_system",
+      "trigger": "course_reassembled",
+      "inputs": [
+        "piece_inventory",
+        "layout",
+        "venue"
+      ],
+      "effect": "Consume available sections into a versioned layout; check geometry rather than assuming a list of pieces forms a circuit."
+    },
+    {
+      "id": "E10",
+      "status": "proposed_system",
+      "trigger": "rumor_corrected",
+      "inputs": [
+        "claim",
+        "evidence",
+        "audience"
+      ],
+      "effect": "Keep the historical rumor and record the correction; do not rewrite all people as if they always knew."
+    }
+  ],
+  "scenario_fixtures": [
+    {
+      "id": "Q01",
+      "input": "An inexperienced player catches an exceptional donor.",
+      "expected": "They can retain, test, sell, breed or use it subject to actual condition and established biology; race rank does not invalidate the discovery."
+    },
+    {
+      "id": "Q02",
+      "input": "A player buys only prepared kits and never breeds.",
+      "expected": "They can build, race, win and participate socially; breeding is not an invisible progression prerequisite."
+    },
+    {
+      "id": "Q03",
+      "input": "A rare-looking insect has no measurements or known pedigree.",
+      "expected": "Describe visual rarity claims and unknown performance separately; do not invent an exact tier."
+    },
+    {
+      "id": "Q04",
+      "input": "A horn and shell vane seem to overlap.",
+      "expected": "Show geometry and consider alternate placement; do not impose a universal one-brow-item law."
+    },
+    {
+      "id": "Q05",
+      "input": "Second Breakfast changes legs after winning.",
+      "expected": "The host keeps its history, while the winning build remains an immutable prior configuration."
+    },
+    {
+      "id": "Q06",
+      "input": "A merchant sells a specimen after extracting its hind legs.",
+      "expected": "The listing must reflect changed anatomy; an intact duplicate is invalid."
+    },
+    {
+      "id": "Q07",
+      "input": "An unknown racer arrives at New World City with a magnificent Open build.",
+      "expected": "Build freedom does not substitute for the specified qualifying route."
+    },
+    {
+      "id": "Q08",
+      "input": "A distant breeder has not received news of a local win.",
+      "expected": "They do not automatically raise prices or recognize the winner."
+    },
+    {
+      "id": "Q09",
+      "input": "An agent needs the game’s death or inherited-graft rule.",
+      "expected": "Retrieve the unresolved decision or working branch, not present an invented choice as author canon."
+    },
+    {
+      "id": "Q10",
+      "input": "A track recipe lists bends and straights.",
+      "expected": "Treat it as a concept until connections, geometry and closed route are validated."
+    }
+  ],
+  "retrieval_recipes": {
+    "generate_shop_scene": [
+      "C12–C15",
+      "place",
+      "shop/person records",
+      "stock and offers",
+      "local claims and event calendar"
+    ],
+    "generate_new_donor": [
+      "C02/C14",
+      "donor_form contract",
+      "habitat and life stages",
+      "reference mechanisms",
+      "graft functions",
+      "breeding and inventory decisions"
+    ],
+    "generate_race": [
+      "C05–C09/C16",
+      "event and ruleset version",
+      "course layout",
+      "entrant build versions",
+      "injury/control decisions",
+      "results and witnesses"
+    ],
+    "generate_product": [
+      "kit recipe",
+      "breeder line",
+      "available specimen stock",
+      "preparation functions",
+      "packaging and claims"
+    ]
+  }
+}

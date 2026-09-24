@@ -1,0 +1,352 @@
+{
+  "scope": "Editorial integrity and arithmetic only; no runtime, biological, economic, human or retention validation.",
+  "checks": [
+    {
+      "name": "Unique W16 defined identifiers",
+      "passed": true,
+      "detail": "159"
+    },
+    {
+      "name": "New and historical explicit references resolve",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "All baseline non-manifest fields preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Prior wave objects unchanged",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "One correct W16 appended",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Baseline bytes preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Manifest points to current non-runtime volume",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Ten donor records contain every required distinction",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Donors have distinct reproductive descriptions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Each trait has evidence, confounder and actual use",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Every existing W14 sect appears once",
+      "passed": true,
+      "detail": "30"
+    },
+    {
+      "name": "Each preparation declares source, allocation and material",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Every material has state-specific handling",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.FITTING case 1 arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.FITTING case 2 arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.KITS case 1 arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.KITS case 2 arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.KITS case 3 arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.BREEDERS capital multiplication Four known adult working/reserve animals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.BREEDERS capital multiplication Reusable nursery hardware",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.BREEDERS case 1 arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.BREEDERS case 2 arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "W16.ECON.BREEDERS case 3 arithmetic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Each livelihood has positive and negative operating cases",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Capital not silently subtracted as recurring operating expense",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Eight cases disclose outcome conditions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Fourteen editorial cases are not represented as game tests",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Source boundaries and reading scopes present",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: RRR_Wave_16_Material_Register.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: RRR_Wave_16_Material_Register.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: RRR_Wave_16_Foundations.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: RRR_Wave_16_Foundations.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: RRR_Wave_16_TODO.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: RRR_Wave_16_TODO.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: RRR_MIVIM_Review_v0.16.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: RRR_MIVIM_Review_v0.16.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: RRR_Wave_16_Livelihood_Sheets.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: RRR_Wave_16_Livelihood_Sheets.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: RRR_Wave_16_Research.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: RRR_Wave_16_Research.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: RRR_Wave_16_Amendments.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: RRR_Wave_16_Amendments.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: RRR_Compendium_Map_v0.16.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: RRR_Compendium_Map_v0.16.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No literal unresolved Python array: README.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No duplicate explicit anchors: README.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "New Markdown local links and anchors resolve",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "No runtime artifacts created",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "limitations": [
+    "No game code modified or rerun.",
+    "Source abstracts and failed-direct/search-rendered retrieval are labeled.",
+    "Budget outcomes and customer receipts are authored conditions; no market or genetic forecast.",
+    "Inherited source-package documents are preserved verbatim, not retroactively edited or all re-reviewed."
+  ],
+  "budget_arithmetic": [
+    {
+      "business": "W16.ECON.FITTING",
+      "case": "Four accepted ordinary jobs",
+      "opening_cash": 80,
+      "capital": 0,
+      "receipts": 96,
+      "operating_costs": 70,
+      "operating_remainder": 26,
+      "closing_cash_if_paid_by_period_end": 106,
+      "prefund_requirement_if_no_receipts_until_end": 70,
+      "additional_prefund_or_staging_needed": 0
+    },
+    {
+      "business": "W16.ECON.FITTING",
+      "case": "One uncharged job and extra correction",
+      "opening_cash": 80,
+      "capital": 0,
+      "receipts": 72,
+      "operating_costs": 82,
+      "operating_remainder": -10,
+      "closing_cash_if_paid_by_period_end": 70,
+      "prefund_requirement_if_no_receipts_until_end": 82,
+      "additional_prefund_or_staging_needed": 2
+    },
+    {
+      "business": "W16.ECON.KITS",
+      "case": "Accepted supplier stock; both tins delivered",
+      "opening_cash": 180,
+      "capital": 0,
+      "receipts": 192,
+      "operating_costs": 142,
+      "operating_remainder": 50,
+      "closing_cash_if_paid_by_period_end": 230,
+      "prefund_requirement_if_no_receipts_until_end": 142,
+      "additional_prefund_or_staging_needed": 0
+    },
+    {
+      "business": "W16.ECON.KITS",
+      "case": "Retail fallback and additional adaptation",
+      "opening_cash": 180,
+      "capital": 0,
+      "receipts": 192,
+      "operating_costs": 212,
+      "operating_remainder": -20,
+      "closing_cash_if_paid_by_period_end": 160,
+      "prefund_requirement_if_no_receipts_until_end": 212,
+      "additional_prefund_or_staging_needed": 32
+    },
+    {
+      "business": "W16.ECON.KITS",
+      "case": "Only one delivered by the accounting boundary",
+      "opening_cash": 180,
+      "capital": 0,
+      "receipts": 96,
+      "operating_costs": 148,
+      "operating_remainder": -52,
+      "closing_cash_if_paid_by_period_end": 128,
+      "prefund_requirement_if_no_receipts_until_end": 148,
+      "additional_prefund_or_staging_needed": 0
+    },
+    {
+      "business": "W16.ECON.BREEDERS",
+      "case": "Usable pair plus eight ordinary recipients",
+      "opening_cash": 240,
+      "capital": 96,
+      "receipts": 140,
+      "operating_costs": 92,
+      "operating_remainder": 48,
+      "closing_cash_if_paid_by_period_end": 192,
+      "prefund_requirement_if_no_receipts_until_end": 188,
+      "additional_prefund_or_staging_needed": 0
+    },
+    {
+      "business": "W16.ECON.BREEDERS",
+      "case": "No eligible pair after low yield and a failed retry",
+      "opening_cash": 240,
+      "capital": 96,
+      "receipts": 48,
+      "operating_costs": 88,
+      "operating_remainder": -40,
+      "closing_cash_if_paid_by_period_end": 104,
+      "prefund_requirement_if_no_receipts_until_end": 184,
+      "additional_prefund_or_staging_needed": 0
+    },
+    {
+      "business": "W16.ECON.BREEDERS",
+      "case": "Good selected pair but weaker ordinary demand",
+      "opening_cash": 240,
+      "capital": 96,
+      "receipts": 108,
+      "operating_costs": 100,
+      "operating_remainder": 8,
+      "closing_cash_if_paid_by_period_end": 152,
+      "prefund_requirement_if_no_receipts_until_end": 196,
+      "additional_prefund_or_staging_needed": 0
+    }
+  ],
+  "local_links_checked": 235,
+  "result": "passed",
+  "statement": "Passed checks establish reference integrity and arithmetic at the named scope only."
+}

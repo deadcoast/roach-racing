@@ -1,0 +1,427 @@
+{
+  "scope": "Wave08 local model and adversarial operations. Synthetic fixture funding/genetic inputs disclosed; no human testing or economy calibration.",
+  "passed": 105,
+  "failed": 0,
+  "tests": [
+    {
+      "name": "Historical host identity and H-6 retained",
+      "status": "pass"
+    },
+    {
+      "name": "Original dedicated cradle does not silently consume ordinary rack capacity",
+      "status": "pass"
+    },
+    {
+      "name": "Three genuinely distinct native profiles",
+      "status": "pass"
+    },
+    {
+      "name": "Body illustration scale derives from authored width and length",
+      "status": "pass"
+    },
+    {
+      "name": "Whole-host stock is a body, not an invented harvested organ product",
+      "status": "pass"
+    },
+    {
+      "name": "Native profile changes actual movement inputs: lowline",
+      "status": "pass"
+    },
+    {
+      "name": "Native profile changes actual movement inputs: needleback",
+      "status": "pass"
+    },
+    {
+      "name": "Native profile changes actual movement inputs: broadback",
+      "status": "pass"
+    },
+    {
+      "name": "An actual native mass improvement changes mass not cadence or genes",
+      "status": "pass"
+    },
+    {
+      "name": "No host name/colour stat aura",
+      "status": "pass"
+    },
+    {
+      "name": "Native fuel fill lowers entry mass rather than adding a bonus",
+      "status": "pass"
+    },
+    {
+      "name": "A larger full reserve carries actual added energy mass",
+      "status": "pass"
+    },
+    {
+      "name": "Finite whole kits have distinct hosts and actual region-backed components",
+      "status": "pass"
+    },
+    {
+      "name": "Buying a kit transfers one living host and the actual components",
+      "status": "pass"
+    },
+    {
+      "name": "Purchase does not fit parts or commission the still-packed host",
+      "status": "pass"
+    },
+    {
+      "name": "Packed host cannot be bought again as a loose specimen",
+      "status": "pass"
+    },
+    {
+      "name": "Packed whole kit cannot be opened without ownership",
+      "status": "pass"
+    },
+    {
+      "name": "Finite complete kit cannot be bought twice",
+      "status": "pass"
+    },
+    {
+      "name": "Failed unaffordable kit purchase preserves money and custody",
+      "status": "pass"
+    },
+    {
+      "name": "Opening registers included host without installing parts",
+      "status": "pass"
+    },
+    {
+      "name": "Opening twice cannot create another host",
+      "status": "pass"
+    },
+    {
+      "name": "Complete kit guide is valid draft then real fitting: NEEDLE",
+      "status": "pass"
+    },
+    {
+      "name": "Complete kit guide is valid draft then real fitting: BROAD",
+      "status": "pass"
+    },
+    {
+      "name": "Complete kit guide is valid draft then real fitting: LOWLINE",
+      "status": "pass"
+    },
+    {
+      "name": "Last Laugh full kit still uses distinct reservoir and damper donors",
+      "status": "pass"
+    },
+    {
+      "name": "Laying guide onto wrong host fails atomically",
+      "status": "pass"
+    },
+    {
+      "name": "Guide does not silently discard unrelated draft work",
+      "status": "pass"
+    },
+    {
+      "name": "Host selection costs no time and transfers no tissue",
+      "status": "pass"
+    },
+    {
+      "name": "Parked fitted stock is absent from the active tray",
+      "status": "pass"
+    },
+    {
+      "name": "Parked draft reserves a loose part against other hosts",
+      "status": "pass"
+    },
+    {
+      "name": "Parked draft and fitted design are restored exactly on selection",
+      "status": "pass"
+    },
+    {
+      "name": "Returning anatomy only in a parked draft does not release fitted tissue",
+      "status": "pass"
+    },
+    {
+      "name": "Real unfit followed by other-host fitting transfers a shared part once",
+      "status": "pass"
+    },
+    {
+      "name": "Cross-host duplicate fitting is rejected",
+      "status": "pass"
+    },
+    {
+      "name": "Unknown host switch cannot manufacture a racer",
+      "status": "pass"
+    },
+    {
+      "name": "Registered host cannot be sold as ordinary donor by releasing protection",
+      "status": "pass"
+    },
+    {
+      "name": "Registered host is skipped by ordinary automatic sale",
+      "status": "pass"
+    },
+    {
+      "name": "Existing component sale and funded order exclude parked stock",
+      "status": "pass"
+    },
+    {
+      "name": "Pending race prevents switching, purchases or line changes",
+      "status": "pass"
+    },
+    {
+      "name": "Frozen race includes the selected actual host and native body",
+      "status": "pass"
+    },
+    {
+      "name": "A matching fresh race settles for a nonhistorical host",
+      "status": "pass"
+    },
+    {
+      "name": "Native geometry constrains physical roots differently",
+      "status": "pass"
+    },
+    {
+      "name": "Host breeding uses same-form compatible adults rather than transplant heredity",
+      "status": "pass"
+    },
+    {
+      "name": "New adult offspring can become an empty personal racer with the same identity",
+      "status": "pass"
+    },
+    {
+      "name": "Young host is not silently accelerated by commissioning",
+      "status": "pass"
+    },
+    {
+      "name": "Two host body plans can breed within the declared common reproductive form",
+      "status": "pass"
+    },
+    {
+      "name": "Host cannot crossbreed with a donor merely because it accepts grafts",
+      "status": "pass"
+    },
+    {
+      "name": "A registered host pairing is temporarily unavailable for race or fitting",
+      "status": "pass"
+    },
+    {
+      "name": "Equivalent split clock advances preserve host inheritance and money",
+      "status": "pass"
+    },
+    {
+      "name": "Field-caught whole host can be commissioned without a racing rank",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: hopper",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: cicada",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: scarab",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: mole",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: stick",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: wax",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: fly",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: mantis",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: horn",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: moth",
+      "status": "pass"
+    },
+    {
+      "name": "Every current form supports explicit measured contribution target: roach",
+      "status": "pass"
+    },
+    {
+      "name": "Selection target rejects invented or out-of-profile measurements",
+      "status": "pass"
+    },
+    {
+      "name": "Unknown genetics cannot determine guidance",
+      "status": "pass"
+    },
+    {
+      "name": "Low-return high-synchrony founder is correctly useful to complementary project",
+      "status": "pass"
+    },
+    {
+      "name": "Named line protects founders without changing genes, price or money",
+      "status": "pass"
+    },
+    {
+      "name": "Line rejects incompatible founder forms",
+      "status": "pass"
+    },
+    {
+      "name": "Line report does not reveal unopened brood outcomes",
+      "status": "pass"
+    },
+    {
+      "name": "Assayed descendants populate observed count and retain unknown siblings",
+      "status": "pass"
+    },
+    {
+      "name": "A sold measured descendant remains in history without remaining owned",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: redline",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: torque",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: hoppers",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: springknees",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: sticktoe",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: cleats",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: boxbrace",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: fatbody",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: keel",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: gyropods",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: splitvanes",
+      "status": "pass"
+    },
+    {
+      "name": "Measurement-based qualification is defined: browfoil",
+      "status": "pass"
+    },
+    {
+      "name": "Grade evaluates all profile requirements, not a compensating weighted average",
+      "status": "pass"
+    },
+    {
+      "name": "Below baseline and missing measurements do not qualify by clamping",
+      "status": "pass"
+    },
+    {
+      "name": "No evidence produces unqualified instead of assumed tier",
+      "status": "pass"
+    },
+    {
+      "name": "Selected geometry has specification without fabricated high-is-better tier",
+      "status": "pass"
+    },
+    {
+      "name": "Reading a grade changes no body, money, item or input",
+      "status": "pass"
+    },
+    {
+      "name": "Migration preserves old cash, specimen genetics and component instances",
+      "status": "pass"
+    },
+    {
+      "name": "New save roundtrip preserves active and parked draft states",
+      "status": "pass"
+    },
+    {
+      "name": "Save with duplicated host custody is rejected",
+      "status": "pass"
+    },
+    {
+      "name": "Altered native profile is rejected instead of treated as a genetic upgrade",
+      "status": "pass"
+    },
+    {
+      "name": "Packed host custody tamper rejected",
+      "status": "pass"
+    },
+    {
+      "name": "Missing active registry is rejected",
+      "status": "pass"
+    },
+    {
+      "name": "Host-specific recipe cannot silently target a different body",
+      "status": "pass"
+    },
+    {
+      "name": "A same-host recipe changes the draft without creating owned stock",
+      "status": "pass"
+    },
+    {
+      "name": "Idempotent kit purchase keeps one receipt and host",
+      "status": "pass"
+    },
+    {
+      "name": "Changed transaction retry cannot repurpose old purchase",
+      "status": "pass"
+    },
+    {
+      "name": "Complete kit can finish a two-roach circuit without a stationary lateral lock: NEEDLE",
+      "status": "pass"
+    },
+    {
+      "name": "Complete kit can finish a two-roach circuit without a stationary lateral lock: BROAD",
+      "status": "pass"
+    },
+    {
+      "name": "Complete kit can finish a two-roach circuit without a stationary lateral lock: LOWLINE",
+      "status": "pass"
+    },
+    {
+      "name": "Host comparisons use the same native-only protocol and finish gates",
+      "status": "pass"
+    },
+    {
+      "name": "Packed living host is visible as packed and not breed-ready",
+      "status": "pass"
+    },
+    {
+      "name": "Corrupt inherited body plan in an unopened brood is rejected",
+      "status": "pass"
+    },
+    {
+      "name": "Corrupt inherited allele in an unopened brood is rejected",
+      "status": "pass"
+    },
+    {
+      "name": "Duplicate named lineage identifiers cannot pass restore validation",
+      "status": "pass"
+    },
+    {
+      "name": "Needle kit improves a matched actual host with only supplied parts changed",
+      "status": "pass"
+    }
+  ]
+}

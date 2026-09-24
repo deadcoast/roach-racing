@@ -1,0 +1,292 @@
+{
+  "title": "Wave 15 editorial review",
+  "date": "2026-09-11",
+  "statistics": {
+    "phase_groups": 3,
+    "wave_roles_reviewed": 16,
+    "findings": 19,
+    "amendments": 19,
+    "source_records": 13,
+    "developed_systems": 13,
+    "foundation_rules": 110,
+    "construction_families": 8,
+    "physical_object_briefs": 18,
+    "period_bridges": 6,
+    "worked_paths": 6,
+    "editorial_cases": 16,
+    "future_studies": 6,
+    "main_volume_words": 18972,
+    "local_links_checked": 251
+  },
+  "checks": [
+    {
+      "check": "Unique authored entity and rule IDs",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "All reviewed phases present",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Every wave role 00–15 accounted for",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Boundary waves explicitly overlap",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Original W10 gap remains explicit",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Every finding links an existing developed system",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "All research references resolve",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "All system object references resolve",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "All named historical identifiers occur in the cumulative baseline",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": "108 unique historical identifiers checked; meaning reviewed separately."
+    },
+    {
+      "check": "Every amendment names a finding and existing systems",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "All bridges and review cases use existing systems",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Every construction has opportunity and non-use definitions",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Every worked path has a complete stopping point and explicit uncertainty",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Human and runtime evidence remain open",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Prior baseline bytes preserved",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "All prior non-manifest values preserved",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "All prior waves preserved exactly in cumulative content",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Only new manifest interpretation changes outside appended milestone",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Actual historical cash arithmetic retained",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RAD_ROACH_RACING_Handbook_v0.1.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RAD_ROACH_RACING_Handbook_v0.2.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Agent_Reference_Dossier_v0.1.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_02_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_03_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_04_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_05_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_06_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_07_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_08_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_09_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_11_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_12_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_13_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_14_Foundations.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Compendium_Map_v0.14.md",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Historical bytes preserved: RRR_Wave_14.spec",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "All new local Markdown references and explicit anchors resolve",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": "Checked 251 local links; []"
+    },
+    {
+      "check": "Task dependencies available before W15.T01",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Task dependencies available before W15.T02",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Task dependencies available before W15.T03",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Task dependencies available before W15.T04",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Task dependencies available before W15.T05",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    },
+    {
+      "check": "Task dependencies available before W15.T06",
+      "result": "passed",
+      "scope": "editorial_structure",
+      "detail": ""
+    }
+  ],
+  "errors": [],
+  "evidence_scope": "Document structure, local references, declared task coverage and unchanged historical content only. No prototype execution or human test.",
+  "analytical_review": "Nineteen findings are authorial diagnoses grounded in cited prior definitions or results; they are not measured player behavior.",
+  "remaining": [
+    "Human comprehension and enjoyment",
+    "Effect on voluntary return",
+    "Economic calibration",
+    "Full donor/material profiles",
+    "Performance opportunities in implemented racing",
+    "Large-scale reference retrieval"
+  ]
+}
