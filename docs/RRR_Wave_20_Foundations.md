@@ -67,7 +67,7 @@ The current reading separates **author premise**, **working world definition**, 
 
 Global host mortality, rare-material regeneration, absolute scale and the origin of post-winter life remain author-level choices. This milestone supplies operational definitions that work without secretly choosing immortality, scheduled death or endless reproduction of paid parts. The provisional branches and their consequences are stated in Chapter 13.
 
-**Prior definitions and scoped reading:** [C01](RRR_Wave_20_Author_Premises.md#c01) · [C02](RRR_Wave_20_Author_Premises.md#c02) · [C03](RRR_Wave_20_Author_Premises.md#c03) · [C05](RRR_Wave_20_Author_Premises.md#c05) · [C10](RRR_Wave_20_Author_Premises.md#c10) · [C11](RRR_Wave_20_Author_Premises.md#c11) · [C15](RRR_Wave_20_Author_Premises.md#c15) · [C17](RRR_Wave_20_Author_Premises.md#c17) · [W15.SYSTEM.ENTRY](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-entry) · [W19.PREMISE](reference/W19/RRR_Wave_19_Foundations.md#w19-premise)
+**Prior definitions and scoped reading:** [C01](RRR_Wave_20_Author_Premises.md#c01) · [C02](RRR_Wave_20_Author_Premises.md#c02) · [C03](RRR_Wave_20_Author_Premises.md#c03) · [C05](RRR_Wave_20_Author_Premises.md#c05) · [C10](RRR_Wave_20_Author_Premises.md#c10) · [C11](RRR_Wave_20_Author_Premises.md#c11) · [C15](RRR_Wave_20_Author_Premises.md#c15) · [C17](RRR_Wave_20_Author_Premises.md#c17) · [W15.SYSTEM.ENTRY](reference/W19/reference/../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md9.PREMISE](reference/W19/RRR_Wave_1../reference/W19/RRR_Wave_19_Foundations.md
 
 ---
 
@@ -112,7 +112,7 @@ Speed, acceleration, contact, cornering, balance, hold-down and mass remain usef
 
 Exact unavailable PCR coefficients are not invented. Named source examples and verified component purposes are the baseline. A later complete item-level PCR census is a distinct research deliverable; this milestone does not claim one.
 
-**Prior definitions and scoped reading:** [W14.MAP.SETS](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-map-sets) · [W14.AMEND.A02](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a02) · [W18.SYSTEM.FLIGHT](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-system-flight) · [C06](RRR_Wave_20_Author_Premises.md#c06)
+**Prior definitions and scoped reading:** [W14.MAP.SETS](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-map-sets) · [W14.AMEND.A02](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a02) · [W18.SYSTEM.FLIGHT](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-system-flight) · [C06](RRR_Wave_20_Author_Premises.md#c06)
 
 ---
 
@@ -166,7 +166,7 @@ The ordinary owner sees a short verdict and the next meaningful choice. Speciali
 
 **W20.STATE.03 — Historical assays retain their date, condition and scope.** A valuable old measurement can guide selection but cannot certify a newly fractured part. A new result can demonstrate restored function without rewriting what happened before.
 
-**Prior definitions and scoped reading:** [W16.MATERIAL.03](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-03) · [W16.BIO.03](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W17.AMEND.11](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-11) · [W15.FIELD.03](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-field-03)
+**Prior definitions and scoped reading:** [W16.MATERIAL.03](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-03) · [W16.BIO.03](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W17.AMEND.11](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-11) · [W15.FIELD.03](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-field-03)
 
 ---
 
@@ -210,7 +210,7 @@ A Hopper pair has good inherited timing but one receiving surface is damaged. Th
 
 The desirable result is not merely fewer fees. It is continuity: the owner can understand, keep using, modify or preserve the work they cared about.
 
-**Prior definitions and scoped reading:** [W15.SYSTEM.BENCH](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-bench) · [W16.MATERIAL.04](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-04) · [W17.AMEND.04](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-04) · [W19.PERSON.LEN](reference/W19/RRR_Wave_19_Foundations.md#w19-person-len)
+**Prior definitions and scoped reading:** [W15.SYSTEM.BENCH](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-bench) · [W16.MATERIAL.04](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-04) · [W17.AMEND.04](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-04) · [W19.PERSON.LEN](../reference/W19/RRR_Wave_19_Foundations.md#w19-person-len)
 
 ---
 
@@ -269,7 +269,7 @@ Vital extraction still ends the donor’s living reproductive role in the named 
 
 **No later market feature may require abuse, repeated forced injury or deliberate exhaustion as the optimal generator of valuable repair stock.** The useful business is support, preparation, recovery and actual replacements for activity people already wanted to pursue.
 
-**Prior definitions and scoped reading:** [W16.MATERIAL.08](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-08) · [W16.MATERIAL.15](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15) · [W17.AMEND.09](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-09) · [W19.HISTORY.RETURNEDHORN](reference/W19/RRR_Wave_19_Foundations.md#w19-history-returnedhorn)
+**Prior definitions and scoped reading:** [W16.MATERIAL.08](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-08) · [W16.MATERIAL.15](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15) · [W17.AMEND.09](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-09) · [W19.HISTORY.RETURNEDHORN](../reference/W19/RRR_Wave_19_Foundations.md#w19-history-returnedhorn)
 
 ---
 
@@ -311,7 +311,7 @@ The recommended commissioning direction is recoverable ordinary setbacks, meanin
 
 The world can still depict an intense charge, a torn exposed preparation or a frightening near miss. The handbook specifies what the event and workshop do next, not a mandatory gore style or a hidden anti-player rule.
 
-**Prior definitions and scoped reading:** [C06](RRR_Wave_20_Author_Premises.md#c06) · [C08](RRR_Wave_20_Author_Premises.md#c08) · [C09](RRR_Wave_20_Author_Premises.md#c09) · [C16](RRR_Wave_20_Author_Premises.md#c16) · [W19.CHARTER.ENTRY](reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry) · [W16.MATERIAL.07](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-07)
+**Prior definitions and scoped reading:** [C06](RRR_Wave_20_Author_Premises.md#c06) · [C08](RRR_Wave_20_Author_Premises.md#c08) · [C09](RRR_Wave_20_Author_Premises.md#c09) · [C16](RRR_Wave_20_Author_Premises.md#c16) · [W19.CHARTER.ENTRY](reference/W1../reference/W19/RRR_Wave_19_Foundations.md-entry) · [W16.MATERIAL.07](reference/W1../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.mdl-07)
 
 ---
 
@@ -349,7 +349,7 @@ Potential research candidates, current-use components, actual ordinary supply an
 
 An unscreened bulk-sale policy remains a legitimate convenience chosen by the owner. It is not secretly optimized using hidden alleles. A protection based on visible evidence can suggest review, but it cannot lock every possibly valuable individual forever.
 
-**Prior definitions and scoped reading:** [W15.BROOD.01](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-01) · [W15.BROOD.04](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-04) · [W15.FIELD.05](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-field-05) · [W16.BIO.03](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W17.AMEND.01](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-01)
+**Prior definitions and scoped reading:** [W15.BROOD.01](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-01) · [W15.BROOD.04](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-04) · [W15.FIELD.05](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-field-05) · [W16.BIO.03](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W17.AMEND.01](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-01)
 
 ---
 
@@ -387,7 +387,7 @@ A spare sleeve pack holds real sleeves within known working ranges. An interface
 
 The attractive package still matters: the lid shows the promised construction, the wells protect real anatomy, and the guide makes the assembly approachable. A product with perfect paperwork but no recognizable roach is incomplete art direction.
 
-**Prior definitions and scoped reading:** [W12.RECIPE.01](reference/W19/RRR_World_Context_v0.19.json) · [W15.ENTRY.01](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-entry-01) · [W16.MATERIAL.11](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-11) · [W18.KIT.COURTYARD](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-kit-courtyard)
+**Prior definitions and scoped reading:** [W12.RECIPE.01](../reference/W19/RRR_World_Context_v0.19.json) · [W15.ENTRY.01](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-entry-01) · [W16.MATERIAL.11](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-11) · [W18.KIT.COURTYARD](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-kit-courtyard)
 
 ---
 
@@ -431,7 +431,7 @@ Normal care, paused reproductive starts, a rented bench, paid boarding, genuine 
 
 A player can finish a job and stop. Default offline pause remains. There is no abandoned-race billing timer in real-world days.
 
-**Prior definitions and scoped reading:** [W15.LIVELIHOOD.04](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-livelihood-04) · [W16.ECON.FITTING](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-econ-fitting) · [W17.AMEND.10](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-10) · [W12.DEMAND.10](reference/W19/RRR_World_Context_v0.19.json)
+**Prior definitions and scoped reading:** [W15.LIVELIHOOD.04](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-livelihood-04) · [W16.ECON.FITTING](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-econ-fitting) · [W17.AMEND.10](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-10) · [W12.DEMAND.10](../reference/W19/RRR_World_Context_v0.19.json)
 
 ---
 
@@ -471,7 +471,7 @@ The local hobby continues when special purse editions finish. Practice, rivals, 
 
 Cinderhouse can present loaded starts, Tinwater mixed practice, Crown Basin aerial choices, Saltglass measured surface decisions and Spanrest portable courses. Imported anatomy keeps its properties. Rivals use the same construction rules and bounded information. A Regional label cannot strengthen their undisclosed genes or perfect-counter the player’s private stock.
 
-**Prior definitions and scoped reading:** [C05](RRR_Wave_20_Author_Premises.md#c05) · [C06](RRR_Wave_20_Author_Premises.md#c06) · [C07](RRR_Wave_20_Author_Premises.md#c07) · [C08](RRR_Wave_20_Author_Premises.md#c08) · [C09](RRR_Wave_20_Author_Premises.md#c09) · [W19.CHARTER.ENTRY](reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry) · [W19.CHARTER.LADDER](reference/W19/RRR_Wave_19_Foundations.md#w19-charter-ladder) · [W19.SUPPORT.MEET](reference/W19/RRR_Wave_19_Foundations.md#w19-support-meet)
+**Prior definitions and scoped reading:** [C05](RRR_Wave_20_Author_Premises.md#c05) · [C06](RRR_Wave_20_Author_Premises.md#c06) · [C07](RRR_Wave_20_Author_Premises.md#c07) · [C08](RRR_Wave_20_Author_Premises.md#c08) · [C09](RRR_Wave_20_Author_Premises.md#c09) · [W19.CHARTER.ENTRY](reference/W19/R../reference/W19/RRR_Wave_19_Foundations.mdtry) · [W19.CHARTER.LADDER](reference/W19/R../reference/W19/RRR_Wave_19_Foundations.mddder) · [W19.SUPPORT.MEET](reference/W19/R../reference/W19/RRR_Wave_19_Foundations.mdet)
 
 ---
 
@@ -507,7 +507,7 @@ A former race component can remain a working spare, a source for a permitted par
 
 A specialist can make a livelihood through rematching, accurate descriptions and returning useful anatomy to a particular owner. The hobby’s continuing collection is therefore not just accumulated overhead or a machine for destroying old stock to sell new stock.
 
-**Prior definitions and scoped reading:** [W19.HISTORY.RETURNEDHORN](reference/W19/RRR_Wave_19_Foundations.md#w19-history-returnedhorn) · [W15.SYSTEM.CUSTOMERS](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-customers) · [W17.AMEND.04](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-04) · [W16.MATERIAL.15](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15)
+**Prior definitions and scoped reading:** [W19.HISTORY.RETURNEDHORN](../reference/W19/RRR_Wave_19_Foundations.md#w19-history-returnedhorn) · [W15.SYSTEM.CUSTOMERS](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-customers) · [W17.AMEND.04](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-04) · [W16.MATERIAL.15](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15)
 
 ---
 
@@ -543,7 +543,7 @@ Shared pattern names, fitting ranges and product cards let people work across fa
 
 Mixed-source repairs and imported stock are normal possibilities. Their provenance remains detailed enough for the relevant question without requiring a complete scientific paper before ordinary trade. Precision is purchased where it changes a promise, not charged as a toll on every interaction.
 
-**Prior definitions and scoped reading:** [W19.REGION.TINWATER](reference/W19/RRR_Wave_19_Foundations.md#w19-region-tinwater) · [W19.REGION.CINDER](reference/W19/RRR_Wave_19_Foundations.md#w19-region-cinder) · [W19.REGION.BASIN](reference/W19/RRR_Wave_19_Foundations.md#w19-region-basin) · [W19.REGION.SALTGLASS](reference/W19/RRR_Wave_19_Foundations.md#w19-region-saltglass) · [W19.REGION.SPANREST](reference/W19/RRR_Wave_19_Foundations.md#w19-region-spanrest) · [W19.CITY.BENCH](reference/W19/RRR_Wave_19_Foundations.md#w19-city-bench) · [W18.SUPPORT.BANKSEED](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-support-bankseed)
+**Prior definitions and scoped reading:** [W19.REGION.TINWATER](../reference/W19/RRR_Wave_19_Foundations.md#w19-region-tinwater) · [W19.REGION.CINDER](../reference/W19/RRR_Wave_19_Foundations.md#w19-region-cinder) · [W19.REGION.BASIN](../reference/W19/RRR_Wave_19_Foundations.md#w19-region-basin) · [W19.REGION.SALTGLASS](../reference/W19/RRR_Wave_19_Foundations.md#w19-region-saltglass) · [W19.REGION.SPANREST](../reference/W19/RRR_Wave_19_Foundations.md#w19-region-spanrest) · [W19.CITY.BENCH](../reference/W19/RRR_Wave_19_Foundations.md#w19-city-bench) · [W18.SUPPORT.BANKSEED](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-support-bankseed)
 
 ---
 
@@ -582,7 +582,7 @@ The new [Decision Resolution Register](RRR_Wave_20_Resolution_Register.md) separ
 
 The material and return definitions in this milestone are useful under several eventual choices. They do not finish the choice by omission. Before play calibration, the selected policy must be stated explicitly to the user and development team.
 
-**Prior definitions and scoped reading:** [D01](reference/W19/RRR_World_Context_v0.19.json) · [D02](reference/W19/RRR_World_Context_v0.19.json) · [D03](reference/W19/RRR_World_Context_v0.19.json) · [D04](reference/W19/RRR_World_Context_v0.19.json) · [D05](reference/W19/RRR_World_Context_v0.19.json) · [D06](reference/W19/RRR_World_Context_v0.19.json) · [D07](reference/W19/RRR_World_Context_v0.19.json) · [D08](reference/W19/RRR_World_Context_v0.19.json) · [D09](reference/W19/RRR_World_Context_v0.19.json) · [D10](reference/W19/RRR_World_Context_v0.19.json) · [D11](reference/W19/RRR_World_Context_v0.19.json) · [D12](reference/W19/RRR_World_Context_v0.19.json) · [W19.SCOPE.SCALE](reference/W19/RRR_Wave_19_Foundations.md#w19-scope-scale) · [W19.SCOPE.RECOVERY](reference/W19/RRR_Wave_19_Foundations.md#w19-scope-recovery)
+**Prior definitions and scoped reading:** [D01](../reference/W19/RRR_World_Context_v0.19.json) · [D02](../reference/W19/RRR_World_Context_v0.19.json) · [D03](../reference/W19/RRR_World_Context_v0.19.json) · [D04](../reference/W19/RRR_World_Context_v0.19.json) · [D05](../reference/W19/RRR_World_Context_v0.19.json) · [D06](../reference/W19/RRR_World_Context_v0.19.json) · [D07](../reference/W19/RRR_World_Context_v0.19.json) · [D08](../reference/W19/RRR_World_Context_v0.19.json) · [D09](../reference/W19/RRR_World_Context_v0.19.json) · [D10](../reference/W19/RRR_World_Context_v0.19.json) · [D11](../reference/W19/RRR_World_Context_v0.19.json) · [D12](../reference/W19/RRR_World_Context_v0.19.json) · [W19.SCOPE.SCALE](../reference/W19/RRR_Wave_19_Foundations.md#w19-scope-scale) · [W19.SCOPE.RECOVERY](../reference/W19/RRR_Wave_19_Foundations.md#w19-scope-recovery)
 
 ---
 
@@ -625,7 +625,7 @@ Define a bounded set of ordinary event-and-service days spanning Tinwater, Cinde
 
 Then carry the selected severe-outcome/scale decisions into the corresponding dimensioned and experience studies when the author chooses those directions. Do not disguise another prototype as completion of the world bible.
 
-**Prior definitions and scoped reading:** [W15.SYSTEM.RETURN](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-return) · [W19.SCOPE.CULTURE](reference/W19/RRR_Wave_19_Foundations.md#w19-scope-culture)
+**Prior definitions and scoped reading:** [W15.SYSTEM.RETURN](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-return) · [W19.SCOPE.CULTURE](../reference/W19/RRR_Wave_19_Foundations.md#w19-scope-culture)
 
 ---
 

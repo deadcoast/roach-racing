@@ -68,7 +68,7 @@
 
 **Material requirements:** active.
 
-**Prior definition:** [W14.PART.REDLINE](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-redline) · [W16.PREP.REDLINE](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-redline)
+**Prior definition:** [W14.PART.REDLINE](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-redline) · [W16.PREP.REDLINE](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-redline)
 
 ---
 
@@ -94,7 +94,7 @@
 
 **Material requirements:** active.
 
-**Prior definition:** [W14.PART.TORQUE](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-torque) · [W16.PREP.TORQUE](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-torque)
+**Prior definition:** [W14.PART.TORQUE](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-torque) · [W16.PREP.TORQUE](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-torque)
 
 ---
 
@@ -120,7 +120,7 @@
 
 **Material requirements:** structure, elastic, contact.
 
-**Prior definition:** [W14.PART.LOWSTEP](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-lowstep) · [W16.PREP.LOWSTEP](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-lowstep)
+**Prior definition:** [W14.PART.LOWSTEP](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-lowstep) · [W16.PREP.LOWSTEP](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-lowstep)
 
 ---
 
@@ -146,7 +146,7 @@
 
 **Material requirements:** structure, elastic, contact.
 
-**Prior definition:** [W14.PART.LONGTHROW](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-longthrow) · [W16.PREP.LONGTHROW](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-longthrow)
+**Prior definition:** [W14.PART.LONGTHROW](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-longthrow) · [W16.PREP.LONGTHROW](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-longthrow)
 
 ---
 
@@ -172,7 +172,7 @@
 
 **Material requirements:** elastic, contact.
 
-**Prior definition:** [W14.PART.LOCKSTEP](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-lockstep) · [W16.PREP.LOCKSTEP](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-lockstep)
+**Prior definition:** [W14.PART.LOCKSTEP](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-lockstep) · [W16.PREP.LOCKSTEP](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-lockstep)
 
 ---
 
@@ -198,7 +198,7 @@
 
 **Material requirements:** contact.
 
-**Prior definition:** [W14.PART.STICKTOE](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-sticktoe) · [W16.PREP.STICKTOE](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-sticktoe)
+**Prior definition:** [W14.PART.STICKTOE](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-sticktoe) · [W16.PREP.STICKTOE](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-sticktoe)
 
 ---
 
@@ -224,7 +224,7 @@
 
 **Material requirements:** structure, contact.
 
-**Prior definition:** [W14.PART.CLEATS](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-cleats) · [W16.PREP.CLEATS](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-cleats)
+**Prior definition:** [W14.PART.CLEATS](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-cleats) · [W16.PREP.CLEATS](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-cleats)
 
 ---
 
@@ -250,7 +250,7 @@
 
 **Material requirements:** structure.
 
-**Prior definition:** [W14.PART.BOXBRACE](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-boxbrace) · [W16.PREP.BOXBRACE](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-boxbrace)
+**Prior definition:** [W14.PART.BOXBRACE](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-boxbrace) · [W16.PREP.BOXBRACE](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-boxbrace)
 
 ---
 
@@ -276,7 +276,7 @@
 
 **Material requirements:** structure, elastic.
 
-**Prior definition:** [W14.PART.FLEXRAIL](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-flexrail) · [W16.PREP.FLEXRAIL](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-flexrail)
+**Prior definition:** [W14.PART.FLEXRAIL](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-flexrail) · [W16.PREP.FLEXRAIL](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-flexrail)
 
 ---
 
@@ -302,7 +302,7 @@
 
 **Material requirements:** sensory.
 
-**Prior definition:** [W14.PART.GYROPODS](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-gyropods) · [W16.PREP.GYROPODS](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-gyropods)
+**Prior definition:** [W14.PART.GYROPODS](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-gyropods) · [W16.PREP.GYROPODS](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-gyropods)
 
 ---
 
@@ -328,7 +328,7 @@
 
 **Material requirements:** elastic, structure, active_if_included.
 
-**Prior definition:** [W14.PART.COUNTERBRACES](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-counterbraces) · [W16.PREP.COUNTERBRACES](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-counterbraces)
+**Prior definition:** [W14.PART.COUNTERBRACES](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-counterbraces) · [W16.PREP.COUNTERBRACES](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-counterbraces)
 
 ---
 
@@ -354,7 +354,7 @@
 
 **Material requirements:** structure.
 
-**Prior definition:** [W14.PART.GUARDKNUCKLES](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-guardknuckles) · [W16.PREP.GUARDKNUCKLES](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-guardknuckles)
+**Prior definition:** [W14.PART.GUARDKNUCKLES](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-guardknuckles) · [W16.PREP.GUARDKNUCKLES](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-guardknuckles)
 
 ---
 
@@ -380,7 +380,7 @@
 
 **Material requirements:** elastic.
 
-**Prior definition:** [W14.PART.SPRINGKNEES](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-springknees) · [W16.PREP.SPRINGKNEES](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-springknees)
+**Prior definition:** [W14.PART.SPRINGKNEES](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-springknees) · [W16.PREP.SPRINGKNEES](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-springknees)
 
 ---
 
@@ -406,7 +406,7 @@
 
 **Material requirements:** reservoir, elastic.
 
-**Prior definition:** [W14.PART.KEEL](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-keel) · [W16.PREP.KEEL](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-keel)
+**Prior definition:** [W14.PART.KEEL](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-keel) · [W16.PREP.KEEL](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-keel)
 
 ---
 
@@ -432,7 +432,7 @@
 
 **Material requirements:** reservoir.
 
-**Prior definition:** [W14.PART.FATBODY](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-fatbody) · [W16.PREP.FATBODY](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-fatbody)
+**Prior definition:** [W14.PART.FATBODY](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-fatbody) · [W16.PREP.FATBODY](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-fatbody)
 
 ---
 
@@ -458,7 +458,7 @@
 
 **Material requirements:** reservoir.
 
-**Prior definition:** [W14.PART.NECTAR](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-nectar) · [W16.PREP.NECTAR](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-nectar)
+**Prior definition:** [W14.PART.NECTAR](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-nectar) · [W16.PREP.NECTAR](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-nectar)
 
 ---
 
@@ -484,7 +484,7 @@
 
 **Material requirements:** wing, structure.
 
-**Prior definition:** [W14.PART.SPLITVANES](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-splitvanes) · [W16.PREP.SPLITVANES](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-splitvanes)
+**Prior definition:** [W14.PART.SPLITVANES](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-splitvanes) · [W16.PREP.SPLITVANES](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-splitvanes)
 
 ---
 
@@ -510,7 +510,7 @@
 
 **Material requirements:** structure.
 
-**Prior definition:** [W14.PART.BROWFOIL](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-browfoil) · [W16.PREP.BROWFOIL](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-browfoil)
+**Prior definition:** [W14.PART.BROWFOIL](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-browfoil) · [W16.PREP.BROWFOIL](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-browfoil)
 
 ---
 
@@ -536,7 +536,7 @@
 
 **Material requirements:** contact, elastic.
 
-**Prior definition:** [W14.PART.FELTBRAKE](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-feltbrake) · [W16.PREP.FELTBRAKE](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-feltbrake)
+**Prior definition:** [W14.PART.FELTBRAKE](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-feltbrake) · [W16.PREP.FELTBRAKE](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-feltbrake)
 
 ---
 
@@ -562,7 +562,7 @@
 
 **Material requirements:** contact.
 
-**Prior definition:** [W14.PART.GRIPSTRIP](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-gripstrip) · [W16.PREP.GRIPSTRIP](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-gripstrip)
+**Prior definition:** [W14.PART.GRIPSTRIP](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-gripstrip) · [W16.PREP.GRIPSTRIP](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-gripstrip)
 
 ---
 
@@ -588,7 +588,7 @@
 
 **Material requirements:** structure.
 
-**Prior definition:** [W14.PART.RAILSHOES](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-railshoes) · [W16.PREP.RAILSHOES](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-railshoes)
+**Prior definition:** [W14.PART.RAILSHOES](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-railshoes) · [W16.PREP.RAILSHOES](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-railshoes)
 
 ---
 
@@ -614,7 +614,7 @@
 
 **Material requirements:** contact, elastic.
 
-**Prior definition:** [W14.PART.SLEEVES](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-sleeves) · [W16.PREP.SLEEVES](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-sleeves)
+**Prior definition:** [W14.PART.SLEEVES](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-sleeves) · [W16.PREP.SLEEVES](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-sleeves)
 
 ---
 
@@ -640,7 +640,7 @@
 
 **Material requirements:** elastic, active, contact.
 
-**Prior definition:** [W14.PART.HOPPERS](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-hoppers) · [W16.PREP.HOPPERS](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-hoppers)
+**Prior definition:** [W14.PART.HOPPERS](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-hoppers) · [W16.PREP.HOPPERS](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-hoppers)
 
 ---
 
@@ -666,7 +666,7 @@
 
 **Material requirements:** structure.
 
-**Prior definition:** [W14.PART.RAM](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-ram) · [W16.PREP.RAM](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-ram)
+**Prior definition:** [W14.PART.RAM](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-ram) · [W16.PREP.RAM](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-ram)
 
 ---
 
@@ -692,7 +692,7 @@
 
 **Material requirements:** active, elastic, contact.
 
-**Prior definition:** [W14.PART.CATCHCLAWS](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-catchclaws) · [W16.PREP.CATCHCLAWS](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-catchclaws)
+**Prior definition:** [W14.PART.CATCHCLAWS](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-catchclaws) · [W16.PREP.CATCHCLAWS](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-catchclaws)
 
 ---
 
@@ -718,7 +718,7 @@
 
 **Material requirements:** structure, elastic.
 
-**Prior definition:** [W14.PART.LAMINATE](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-laminate) · [W16.PREP.LAMINATE](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-laminate)
+**Prior definition:** [W14.PART.LAMINATE](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-laminate) · [W16.PREP.LAMINATE](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-laminate)
 
 ---
 
@@ -744,7 +744,7 @@
 
 **Material requirements:** gland.
 
-**Prior definition:** [W14.PART.BOILER](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-boiler) · [W16.PREP.BOILER](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-boiler)
+**Prior definition:** [W14.PART.BOILER](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-boiler) · [W16.PREP.BOILER](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-boiler)
 
 ---
 
@@ -770,7 +770,7 @@
 
 **Material requirements:** wing, active, sensory.
 
-**Prior definition:** [W14.PART.QUADWING](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-quadwing) · [W16.PREP.QUADWING](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-quadwing)
+**Prior definition:** [W14.PART.QUADWING](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-quadwing) · [W16.PREP.QUADWING](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-quadwing)
 
 ---
 
@@ -796,7 +796,7 @@
 
 **Material requirements:** wing, active.
 
-**Prior definition:** [W14.PART.LONGWING](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-longwing) · [W16.PREP.LONGWING](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-longwing)
+**Prior definition:** [W14.PART.LONGWING](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-longwing) · [W16.PREP.LONGWING](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-longwing)
 
 ---
 
@@ -822,7 +822,7 @@
 
 **Material requirements:** elastic, active.
 
-**Prior definition:** [W14.PART.KICKBACK](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-kickback) · [W16.PREP.KICKBACK](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-kickback)
+**Prior definition:** [W14.PART.KICKBACK](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-part-kickback) · [W16.PREP.KICKBACK](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-kickback)
 
 ---
 
@@ -848,7 +848,7 @@
 
 **Material requirements:** active.
 
-**Prior definition:** [W18.PREP.FLIGHTDRIVE](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-flightdrive)
+**Prior definition:** [W18.PREP.FLIGHTDRIVE](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-flightdrive)
 
 ---
 
@@ -874,7 +874,7 @@
 
 **Material requirements:** structure, elastic, contact.
 
-**Prior definition:** [W18.PREP.CROSSPHASE](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-crossphase)
+**Prior definition:** [W18.PREP.CROSSPHASE](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-crossphase)
 
 ---
 
@@ -900,7 +900,7 @@
 
 **Material requirements:** structure, elastic, contact.
 
-**Prior definition:** [W18.PREP.RETURNLINK](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-returnlink)
+**Prior definition:** [W18.PREP.RETURNLINK](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-returnlink)
 
 ---
 
@@ -926,6 +926,6 @@
 
 **Material requirements:** structure, elastic.
 
-**Prior definition:** [W18.PREP.BRIDLE](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-bridle)
+**Prior definition:** [W18.PREP.BRIDLE](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-bridle)
 
 The material tags indicate concurrent needs, not independent duplicate masses or fixed storage timers. Follow the actual preparation record and its latest scoped refinement.

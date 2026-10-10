@@ -33,30 +33,30 @@
 
 The following link to the established source-to-customer entries in the preserved W19 index. Each entry links directly to the full monograph. They are not new donors, nor the complete biosphere.
 
-- [Rad-roach host](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-host).
-- [Switchyard hopper](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-hopper).
-- [Glassfoot stick insect](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-glassfoot).
-- [Furnace cicada](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-cicada).
-- [Kilnback scarab](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-scarab).
-- [Reservoir waxmoth](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-waxmoth).
-- [Sumpfly](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-sumpfly).
-- [Clockleaf planthopper](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-clockleaf).
-- [Glasswing dragonfly](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-glasswing).
-- [Orchard honeybee](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-orchard).
-- [Ballast mole cricket](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-mole).
-- [Trackrunner tiger beetle](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-tiger).
-- [Saltglass mantis](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-mantis).
-- [Bullhorn beetle](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-bullhorn).
-- [Gutterback darkling](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-darkling).
-- [Sandfelt moth](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-sandfelt).
-- [Ashveil moth](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-ashveil).
-- [Longwing locust](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-longwing).
-- [Rivetback click beetle](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-rivetback).
-- [Caustic bombardier](reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-caustic).
+- [Rad-roach host](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-host).
+- [Switchyard hopper](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-hopper).
+- [Glassfoot stick insect](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-glassfoot).
+- [Furnace cicada](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-cicada).
+- [Kilnback scarab](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-scarab).
+- [Reservoir waxmoth](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-waxmoth).
+- [Sumpfly](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-sumpfly).
+- [Clockleaf planthopper](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-clockleaf).
+- [Glasswing dragonfly](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-glasswing).
+- [Orchard honeybee](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-orchard).
+- [Ballast mole cricket](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-mole).
+- [Trackrunner tiger beetle](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-tiger).
+- [Saltglass mantis](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-mantis).
+- [Bullhorn beetle](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-bullhorn).
+- [Gutterback darkling](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-darkling).
+- [Sandfelt moth](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-sandfelt).
+- [Ashveil moth](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-ashveil).
+- [Longwing locust](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-longwing).
+- [Rivetback click beetle](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-rivetback).
+- [Caustic bombardier](../reference/W19/RRR_Wave_19_Source_Route_Index.md#w19-source-caustic).
 
 ## Preserved history
 
-[Wave 19 full reference](reference/W19/RRR_Wave_19_Foundations.md) contains direct routes to the regional atlas and prior full volumes. `RRR_World_Context_v0.20.json` preserves all prior records and appends W20. The new current-reference JSON is an editorial view; it neither mutates the historical record nor claims that an old executable implements this edition.
+[Wave 19 full reference](../reference/W19/RRR_Wave_19_Foundations.md) contains direct routes to the regional atlas and prior full volumes. `RRR_World_Context_v0.20.json` preserves all prior records and appends W20. The new current-reference JSON is an editorial view; it neither mutates the historical record nor claims that an old executable implements this edition.
 
 ## Scope boundary
 

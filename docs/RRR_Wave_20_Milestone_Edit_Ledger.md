@@ -34,7 +34,7 @@ These twenty edits distinguish a demonstrated inconsistency, an incompletely dev
 
 `W20.AMEND.01`
 
-**Earlier scope:** [W19.PREMISE](reference/W19/RRR_Wave_19_Foundations.md#w19-premise) · [W19.LAYERS](reference/W19/RRR_Wave_19_Foundations.md#w19-layers)
+**Earlier scope:** [W19.PREMISE](../reference/W19/RRR_Wave_19_Foundations.md#w19-premise) · [W19.LAYERS](../reference/W19/RRR_Wave_19_Foundations.md#w19-layers)
 
 **Finding:** Relevant meaning is scattered across nested volumes and later amendments.
 
@@ -52,7 +52,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.02`
 
-**Earlier scope:** [D03](reference/W19/RRR_World_Context_v0.19.json) · [D04](reference/W19/RRR_World_Context_v0.19.json) · [D06](reference/W19/RRR_World_Context_v0.19.json) · [D11](reference/W19/RRR_World_Context_v0.19.json)
+**Earlier scope:** [D03](../reference/W19/RRR_World_Context_v0.19.json) · [D04](../reference/W19/RRR_World_Context_v0.19.json) · [D06](../reference/W19/RRR_World_Context_v0.19.json) · [D11](../reference/W19/RRR_World_Context_v0.19.json)
 
 **Finding:** Initial broad decisions remain unresolved even where later subquestions have substantial definitions.
 
@@ -70,7 +70,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.03`
 
-**Earlier scope:** [W16.BIO.03](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W17.AMEND.11](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-11) · [W15.GRADES.02](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-grades-02)
+**Earlier scope:** [W16.BIO.03](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W17.AMEND.11](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-11) · [W15.GRADES.02](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-grades-02)
 
 **Finding:** Current performance, material state and inherited promise can be collapsed into one quality field.
 
@@ -88,7 +88,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.04`
 
-**Earlier scope:** [W14.AMEND.A03](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a03) · [W14.AMEND.A04](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a04) · [W14.AMEND.A06](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a06)
+**Earlier scope:** [W14.AMEND.A03](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a03) · [W14.AMEND.A04](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a04) · [W14.AMEND.A06](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-amend-a06)
 
 **Finding:** A generic repair action could refill, align, damp and heal every subsystem together.
 
@@ -106,7 +106,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.05`
 
-**Earlier scope:** [W16.MATERIAL.03](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-03) · [W17.AMEND.09](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-09)
+**Earlier scope:** [W16.MATERIAL.03](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-03) · [W17.AMEND.09](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-09)
 
 **Finding:** Post-event definitions often stop at a state or quote.
 
@@ -124,7 +124,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.06`
 
-**Earlier scope:** [W15.BENCH.03](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-bench-03) · [W17.AMEND.12](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-12)
+**Earlier scope:** [W15.BENCH.03](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-bench-03) · [W17.AMEND.12](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-12)
 
 **Finding:** New material and receiving detail can silently recreate separately charged compulsory appointments.
 
@@ -142,7 +142,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.07`
 
-**Earlier scope:** [W16.MATERIAL.15](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15) · [W17.AMEND.09](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-09)
+**Earlier scope:** [W16.MATERIAL.15](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15) · [W17.AMEND.09](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-09)
 
 **Finding:** Healed appearance can be mistaken for original strength; repair can also be assigned an invented permanent penalty.
 
@@ -160,7 +160,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.08`
 
-**Earlier scope:** [W16.BIO.03](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W17.DONOR.MOLE](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Foundations.md#w17-donor-mole)
+**Earlier scope:** [W16.BIO.03](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W17.DONOR.MOLE](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Foundations.md#w17-donor-mole)
 
 **Finding:** Stiffness or hardness alone can be mistaken for superior stock.
 
@@ -178,7 +178,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.09`
 
-**Earlier scope:** [W19.HISTORY.RETURNEDHORN](reference/W19/RRR_Wave_19_Foundations.md#w19-history-returnedhorn) · [W16.MATERIAL.15](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15)
+**Earlier scope:** [W19.HISTORY.RETURNEDHORN](../reference/W19/RRR_Wave_19_Foundations.md#w19-history-returnedhorn) · [W16.MATERIAL.15](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-15)
 
 **Finding:** A restoration can be read as an entirely new object or a magically unchanged original.
 
@@ -196,7 +196,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.10`
 
-**Earlier scope:** [W16.MATERIAL.06](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-06) · [D07](reference/W19/RRR_World_Context_v0.19.json)
+**Earlier scope:** [W16.MATERIAL.06](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-06) · [D07](../reference/W19/RRR_World_Context_v0.19.json)
 
 **Finding:** A living integration premise could be used to regenerate unlimited paid cores.
 
@@ -214,7 +214,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.11`
 
-**Earlier scope:** [W19.CHARTER.ENTRY](reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry) · [W14.SPORT.PROCEDURES](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-sport-procedures)
+**Earlier scope:** [W19.CHARTER.ENTRY](../reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry) · [W14.SPORT.PROCEDURES](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-sport-procedures)
 
 **Finding:** A failed action or course-out could become an arbitrary whole-animal death or full-damage state.
 
@@ -232,7 +232,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.12`
 
-**Earlier scope:** [W15.SURPLUS.04](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-surplus-04) · [W16.MATERIAL.09](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-09)
+**Earlier scope:** [W15.SURPLUS.04](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-surplus-04) · [W16.MATERIAL.09](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-09)
 
 **Finding:** Local damage can incorrectly zero all breeding, display and residual material value.
 
@@ -250,7 +250,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.13`
 
-**Earlier scope:** [W16.BIO.03](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W15.BROOD.08](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-08)
+**Earlier scope:** [W16.BIO.03](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-03) · [W15.BROOD.08](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-brood-08)
 
 **Finding:** Useful material yield can be entirely attributed to genes despite different handling.
 
@@ -268,7 +268,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.14`
 
-**Earlier scope:** [W16.PREP.QUADWING](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-quadwing) · [W18.PREP.CROSSPHASE](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-crossphase) · [W18.PREP.RETURNLINK](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-returnlink) · [W18.PREP.BRIDLE](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-bridle)
+**Earlier scope:** [W16.PREP.QUADWING](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Material_Register.md#w16-prep-quadwing) · [W18.PREP.CROSSPHASE](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-crossphase) · [W18.PREP.RETURNLINK](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-returnlink) · [W18.PREP.BRIDLE](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-prep-bridle)
 
 **Finding:** A thirty-item index alone can conceal the later complete-flight preparation requirements.
 
@@ -286,7 +286,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.15`
 
-**Earlier scope:** [W12.RECIPE.01](reference/W19/RRR_World_Context_v0.19.json) · [W17.AMEND.12](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-12)
+**Earlier scope:** [W12.RECIPE.01](../reference/W19/RRR_World_Context_v0.19.json) · [W17.AMEND.12](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-12)
 
 **Finding:** A correct first delivery can leave normal rematching and support unclear.
 
@@ -304,7 +304,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.16`
 
-**Earlier scope:** [W15.LIVELIHOOD.06](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-livelihood-06) · [W17.AMEND.10](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-10)
+**Earlier scope:** [W15.LIVELIHOOD.06](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-livelihood-06) · [W17.AMEND.10](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-10)
 
 **Finding:** A service career could depend on compulsory damage after every race.
 
@@ -322,7 +322,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.17`
 
-**Earlier scope:** [W16.ECON.FITTING](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-econ-fitting) · [W16.ECON.KITS](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-econ-kits) · [W17.AMEND.10](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-10)
+**Earlier scope:** [W16.ECON.FITTING](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-econ-fitting) · [W16.ECON.KITS](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-econ-kits) · [W17.AMEND.10](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-10)
 
 **Finding:** A future fee can disguise insufficient cash before work begins.
 
@@ -340,7 +340,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.18`
 
-**Earlier scope:** [W19.CHARTER.ENTRY](reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry) · [W19.CHARTER.LADDER](reference/W19/RRR_Wave_19_Foundations.md#w19-charter-ladder)
+**Earlier scope:** [W19.CHARTER.ENTRY](../reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry) · [W19.CHARTER.LADDER](../reference/W19/RRR_Wave_19_Foundations.md#w19-charter-ladder)
 
 **Finding:** A damaged qualifying host can confuse the entrant’s earned rights with an in-meet host swap.
 
@@ -358,7 +358,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.19`
 
-**Earlier scope:** [W15.SYSTEM.IDENTITY](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-identity) · [W19.HISTORY.LANTERNTHREAD](reference/W19/RRR_Wave_19_Foundations.md#w19-history-lanternthread)
+**Earlier scope:** [W15.SYSTEM.IDENTITY](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-identity) · [W19.HISTORY.LANTERNTHREAD](../reference/W19/RRR_Wave_19_Foundations.md#w19-history-lanternthread)
 
 **Finding:** Current race usefulness can become the only recognized reason to keep an object.
 
@@ -376,7 +376,7 @@ Earlier inputs/results remain unchanged. This interpretation replaces only the n
 
 `W20.AMEND.20`
 
-**Earlier scope:** [W15.SYSTEM.RETURN](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-return) · [W19.SCOPE.CULTURE](reference/W19/RRR_Wave_19_Foundations.md#w19-scope-culture)
+**Earlier scope:** [W15.SYSTEM.RETURN](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-system-return) · [W19.SCOPE.CULTURE](../reference/W19/RRR_Wave_19_Foundations.md#w19-scope-culture)
 
 **Finding:** Document counts and historical test totals can masquerade as validated quality.
 

@@ -15,7 +15,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Biosphere/recovery-history adoption and global chronology.
 
-**Read:** [W19.SCOPE.RECOVERY](reference/W19/RRR_Wave_19_Foundations.md#w19-scope-recovery) · [W20.CH.DECISIONS](RRR_Wave_20_Foundations.md#w20-ch-decisions)
+**Read:** [W19.SCOPE.RECOVERY](../reference/W19/RRR_Wave_19_Foundations.md#w19-scope-recovery) · [W20.CH.DECISIONS](RRR_Wave_20_Foundations.md#w20-ch-decisions)
 
 <a id="w20-resolution-d02"></a>
 
@@ -27,7 +27,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Absolute scale and dimensioned field/venue study.
 
-**Read:** [W19.SCOPE.SCALE](reference/W19/RRR_Wave_19_Foundations.md#w19-scope-scale) · [W20.CH.DECISIONS](RRR_Wave_20_Foundations.md#w20-ch-decisions)
+**Read:** [W19.SCOPE.SCALE](../reference/W19/RRR_Wave_19_Foundations.md#w19-scope-scale) · [W20.CH.DECISIONS](RRR_Wave_20_Foundations.md#w20-ch-decisions)
 
 <a id="w20-resolution-d03"></a>
 
@@ -39,7 +39,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Absolute biological timing and deeper mechanism.
 
-**Read:** [W14.ANATOMY.JOINS](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-anatomy-joins) · [W20.CH.RECOVERY](RRR_Wave_20_Foundations.md#w20-ch-recovery)
+**Read:** [W14.ANATOMY.JOINS](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-anatomy-joins) · [W20.CH.RECOVERY](RRR_Wave_20_Foundations.md#w20-ch-recovery)
 
 <a id="w20-resolution-d04"></a>
 
@@ -51,7 +51,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Numerical viability and unrestricted raw-removal outcomes.
 
-**Read:** [W16.MATERIAL.01](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-01) · [W20.CH.RETURN](RRR_Wave_20_Foundations.md#w20-ch-return)
+**Read:** [W16.MATERIAL.01](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-material-01) · [W20.CH.RETURN](RRR_Wave_20_Foundations.md#w20-ch-return)
 
 <a id="w20-resolution-d05"></a>
 
@@ -63,7 +63,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Species-specific genetic distributions and prevalence.
 
-**Read:** [W16.BIO.01](reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-01) · [W20.CH.SELECTION](RRR_Wave_20_Foundations.md#w20-ch-selection)
+**Read:** [W16.BIO.01](../reference/W19/reference/W18/reference/W17/reference/W16/RRR_Wave_16_Foundations.md#w16-bio-01) · [W20.CH.SELECTION](RRR_Wave_20_Foundations.md#w20-ch-selection)
 
 <a id="w20-resolution-d06"></a>
 
@@ -75,7 +75,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Wider biosphere and unlisted source profiles.
 
-**Read:** [W18.SUPPORT.BANKSEED](reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-support-bankseed) · [W20.CH.WORLD](RRR_Wave_20_Foundations.md#w20-ch-world)
+**Read:** [W18.SUPPORT.BANKSEED](../reference/W19/reference/W18/RRR_Wave_18_Foundations.md#w18-support-bankseed) · [W20.CH.WORLD](RRR_Wave_20_Foundations.md#w20-ch-world)
 
 <a id="w20-resolution-d07"></a>
 
@@ -99,7 +99,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Final live intervention and detailed learning model.
 
-**Read:** [W14.ACTION.CONTROL](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-action-control) · [W20.CH.SPORT](RRR_Wave_20_Foundations.md#w20-ch-sport)
+**Read:** [W14.ACTION.CONTROL](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/reference/RRR_Wave_14_Foundations.md#w14-action-control) · [W20.CH.SPORT](RRR_Wave_20_Foundations.md#w20-ch-sport)
 
 <a id="w20-resolution-d09"></a>
 
@@ -111,7 +111,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Pacing, exact durations and optional offline policy.
 
-**Read:** [W15.CARE.08](reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-care-08) · [W20.CH.ECONOMY](RRR_Wave_20_Foundations.md#w20-ch-economy)
+**Read:** [W15.CARE.08](../reference/W19/reference/W18/reference/W17/reference/W16/reference/W15/RRR_Wave_15_Foundations.md#w15-care-08) · [W20.CH.ECONOMY](RRR_Wave_20_Foundations.md#w20-ch-economy)
 
 <a id="w20-resolution-d10"></a>
 
@@ -123,7 +123,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Complete route times, communications and independent large-market budgets.
 
-**Read:** [W17.AMEND.11](reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-11) · [W20.CH.WORLD](RRR_Wave_20_Foundations.md#w20-ch-world)
+**Read:** [W17.AMEND.11](../reference/W19/reference/W18/reference/W17/RRR_Wave_17_Amendments.md#w17-amend-11) · [W20.CH.WORLD](RRR_Wave_20_Foundations.md#w20-ch-world)
 
 <a id="w20-resolution-d11"></a>
 
@@ -135,7 +135,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Wider signatories and final charter adoption.
 
-**Read:** [W19.CHARTER.ENTRY](reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry) · [W20.CH.SPORT](RRR_Wave_20_Foundations.md#w20-ch-sport)
+**Read:** [W19.CHARTER.ENTRY](../reference/W19/RRR_Wave_19_Foundations.md#w19-charter-entry) · [W20.CH.SPORT](RRR_Wave_20_Foundations.md#w20-ch-sport)
 
 <a id="w20-resolution-d12"></a>
 
@@ -147,7 +147,7 @@ The twelve original decision records remain unchanged in the cumulative archive.
 
 **Still open:** Final dimensions, severe-event and capability thresholds.
 
-**Read:** [W19.LAYERS](reference/W19/RRR_Wave_19_Foundations.md#w19-layers) · [W20.CH.SPORT](RRR_Wave_20_Foundations.md#w20-ch-sport)
+**Read:** [W19.LAYERS](../reference/W19/RRR_Wave_19_Foundations.md#w19-layers) · [W20.CH.SPORT](RRR_Wave_20_Foundations.md#w20-ch-sport)
 
 ## Source-game completeness boundary
 
